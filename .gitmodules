@@ -1,0 +1,3 @@
+[submodule "svcguy/LoRaWAN-Feather-Hardware"]
+	path = svcguy/LoRaWAN-Feather-Hardware
+	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
