@@ -1771,3 +1771,6 @@
 [submodule "iotmakervn/VM-sensor-PT1000"]
 	path = iotmakervn/VM-sensor-PT1000
 	url = https://github.com/iotmakervn/VM-sensor-PT1000
+[submodule "im-tomu/tomu-hardware"]
+	path = im-tomu/tomu-hardware
+	url = https://github.com/im-tomu/tomu-hardware
