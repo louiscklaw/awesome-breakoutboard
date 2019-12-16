@@ -1801,3 +1801,6 @@
 [submodule "makerbase-mks/MKS-SERVO42A"]
 	path = makerbase-mks/MKS-SERVO42A
 	url = https://github.com/makerbase-mks/MKS-SERVO42A.git
+[submodule "mattdibi/yampad"]
+	path = mattdibi/yampad
+	url = https://github.com/mattdibi/yampad.git
