@@ -1780,3 +1780,24 @@
 [submodule "m5stack/M5Stack_TFT_ILI9341"]
 	path = m5stack/M5Stack_TFT_ILI9341
 	url = git@github.com:m5stack/M5Stack_TFT_ILI9341.git
+[submodule "makerbase-mks/MKS-Robin-Pro"]
+	path = makerbase-mks/MKS-Robin-Pro
+	url = https://github.com/makerbase-mks/MKS-Robin-Pro.git
+[submodule "makerbase-mks/MKS-Robin-mini"]
+	path = makerbase-mks/MKS-Robin-mini
+	url = https://github.com/makerbase-mks/MKS-Robin-mini.git
+[submodule "makerbase-mks/MKS-Robin-lite3"]
+	path = makerbase-mks/MKS-Robin-lite3
+	url = https://github.com/makerbase-mks/MKS-Robin-lite3.git
+[submodule "makerbase-mks/MKS-Robin-Nano"]
+	path = makerbase-mks/MKS-Robin-Nano
+	url = https://github.com/makerbase-mks/MKS-Robin-Nano.git
+[submodule "makerbase-mks/MKS-SERVO42B"]
+	path = makerbase-mks/MKS-SERVO42B
+	url = https://github.com/makerbase-mks/MKS-SERVO42B.git
+[submodule "makerbase-mks/MKS-SERVO57A"]
+	path = makerbase-mks/MKS-SERVO57A
+	url = https://github.com/makerbase-mks/MKS-SERVO57A.git
+[submodule "makerbase-mks/MKS-SERVO42A"]
+	path = makerbase-mks/MKS-SERVO42A
+	url = https://github.com/makerbase-mks/MKS-SERVO42A.git
