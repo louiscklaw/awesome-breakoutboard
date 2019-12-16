@@ -28,3 +28,12 @@
 [submodule "prusa3d/IR-MH-sensor-PCB"]
 	path = prusa3d/IR-MH-sensor-PCB
 	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
+[submodule "freetronics/RELAY16MEGA"]
+	path = freetronics/RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+[submodule "freetronics/RELAYSHIELD16"]
+	path = freetronics/RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+[submodule "freetronics/USBSerial"]
+	path = freetronics/USBSerial
+	url = https://github.com/freetronics/USBSerial
