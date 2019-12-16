@@ -1,0 +1,30 @@
+[submodule "prusa3d/SL-LED-PCB"]
+	path = prusa3d/SL-LED-PCB
+	url = https://github.com/prusa3d/SL-LED-PCB.git
+[submodule "prusa3d/SL-USB-PCB"]
+	path = prusa3d/SL-USB-PCB
+	url = https://github.com/prusa3d/SL-USB-PCB.git
+[submodule "prusa3d/SL-PS-PCB"]
+	path = prusa3d/SL-PS-PCB
+	url = https://github.com/prusa3d/SL-PS-PCB.git
+[submodule "prusa3d/SL-UVcoin-sensor-PCB"]
+	path = prusa3d/SL-UVcoin-sensor-PCB
+	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
+[submodule "prusa3d/SL-CONTROLLER-PCB"]
+	path = prusa3d/SL-CONTROLLER-PCB
+	url = https://github.com/prusa3d/SL-CONTROLLER-PCB.git
+[submodule "prusa3d/CW-01-LED-PCB"]
+	path = prusa3d/CW-01-LED-PCB
+	url = https://github.com/prusa3d/CW-01-LED-PCB.git
+[submodule "prusa3d/MM-control-2.0"]
+	path = prusa3d/MM-control-2.0
+	url = https://github.com/prusa3d/MM-control-2.0.git
+[submodule "prusa3d/MKxS-IR-sensor"]
+	path = prusa3d/MKxS-IR-sensor
+	url = https://github.com/prusa3d/MKxS-IR-sensor.git
+[submodule "prusa3d/CW-CONTROLLER-PCB"]
+	path = prusa3d/CW-CONTROLLER-PCB
+	url = https://github.com/prusa3d/CW-CONTROLLER-PCB.git
+[submodule "prusa3d/IR-MH-sensor-PCB"]
+	path = prusa3d/IR-MH-sensor-PCB
+	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
