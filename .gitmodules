@@ -7,3 +7,12 @@
 [submodule "USBSerial"]
 	path = USBSerial
 	url = https://github.com/freetronics/USBSerial
+[submodule "freetronics/RELAY16MEGA"]
+	path = freetronics/RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+[submodule "freetronics/RELAYSHIELD16"]
+	path = freetronics/RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+[submodule "freetronics/USBSerial"]
+	path = freetronics/USBSerial
+	url = https://github.com/freetronics/USBSerial
