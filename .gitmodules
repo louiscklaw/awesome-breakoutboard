@@ -1,0 +1,15 @@
+[submodule "PCB-STM32F401CCT6_Development_Board"]
+	path = PCB-STM32F401CCT6_Development_Board
+	url = https://github.com/dtnking/PCB-STM32F401CCT6_Development_Board.git
+[submodule "Reflow-Oven"]
+	path = Reflow-Oven
+	url = https://github.com/dtnking/Reflow-Oven.git
+[submodule "Micro-USB-Connector"]
+	path = Micro-USB-Connector
+	url = https://github.com/dtnking/Micro-USB-Connector.git
+[submodule "PCB-RJ12"]
+	path = PCB-RJ12
+	url = https://github.com/dtnking/PCB-RJ12.git
+[submodule "STLINK_V2-1"]
+	path = STLINK_V2-1
+	url = https://github.com/dtnking/STLINK_V2-1.git
