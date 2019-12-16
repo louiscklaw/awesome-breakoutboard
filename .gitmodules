@@ -613,3 +613,6 @@
 [submodule "fablabcn/smartcitizen-kit-pm-board"]
 	path = fablabcn/smartcitizen-kit-pm-board
 	url = https://github.com/fablabbcn/smartcitizen-kit-pm-board.git
+[submodule "adafruit/4-Channel-Level-Shifter-PCB"]
+	path = adafruit/4-Channel-Level-Shifter-PCB
+	url = https://github.com/adafruit/4-Channel-Level-Shifter-PCB
