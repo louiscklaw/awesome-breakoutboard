@@ -37,3 +37,18 @@
 [submodule "freetronics/USBSerial"]
 	path = freetronics/USBSerial
 	url = https://github.com/freetronics/USBSerial
+[submodule "dtnking/PCB-STM32F401CCT6_Development_Board"]
+	path = dtnking/PCB-STM32F401CCT6_Development_Board
+	url = https://github.com/dtnking/PCB-STM32F401CCT6_Development_Board.git
+[submodule "dtnking/Reflow-Oven"]
+	path = dtnking/Reflow-Oven
+	url = https://github.com/dtnking/Reflow-Oven.git
+[submodule "dtnking/Micro-USB-Connector"]
+	path = dtnking/Micro-USB-Connector
+	url = https://github.com/dtnking/Micro-USB-Connector.git
+[submodule "dtnking/PCB-RJ12"]
+	path = dtnking/PCB-RJ12
+	url = https://github.com/dtnking/PCB-RJ12.git
+[submodule "dtnking/STLINK_V2-1"]
+	path = dtnking/STLINK_V2-1
+	url = https://github.com/dtnking/STLINK_V2-1.git
