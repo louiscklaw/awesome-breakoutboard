@@ -1,0 +1,9 @@
+[submodule "RELAY16MEGA"]
+	path = RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+[submodule "RELAYSHIELD16"]
+	path = RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+[submodule "USBSerial"]
+	path = USBSerial
+	url = https://github.com/freetronics/USBSerial
