@@ -1807,3 +1807,6 @@
 [submodule "najnesnaj/stm8-kicad-design-se8R01-pcb"]
 	path = najnesnaj/stm8-kicad-design-se8R01-pcb
 	url = https://github.com/najnesnaj/stm8-kicad-design-se8R01-pcb.git
+[submodule "96boards/documentation"]
+	path = 96boards/documentation
+	url = https://github.com/96boards/documentation.git
