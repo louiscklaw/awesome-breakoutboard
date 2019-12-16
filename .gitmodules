@@ -1,0 +1,3 @@
+[submodule "BPI-SINOVOIP/BPI-Schematics"]
+	path = BPI-SINOVOIP/BPI-Schematics
+	url = https://github.com/BPI-SINOVOIP/BPI-Schematics
