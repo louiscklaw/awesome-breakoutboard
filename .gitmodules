@@ -1585,6 +1585,150 @@
 [submodule "adafruit/cookiecutter-adafruit-pcb"]
 	path = adafruit/cookiecutter-adafruit-pcb
 	url = https://github.com/adafruit/cookiecutter-adafruit-pcb
-[submodule "m5stack/M5-Schematic"]
-	path = m5stack/M5-Schematic
-	url = git@github.com:m5stack/M5-Schematic.git
+[submodule "IdleHandsProject/espeverywhere"]
+	path = IdleHandsProject/espeverywhere
+	url = https://github.com/IdleHandsProject/espeverywhere.git
+[submodule "IdleHandsProject/thePIDDYBOT"]
+	path = IdleHandsProject/thePIDDYBOT
+	url = https://github.com/IdleHandsProject/thePIDDYBOT.git
+[submodule "IdleHandsProject/samd_hcc_mod"]
+	path = IdleHandsProject/samd_hcc_mod
+	url = https://github.com/IdleHandsProject/samd_hcc_mod.git
+[submodule "IdleHandsProject/makennbot"]
+	path = IdleHandsProject/makennbot
+	url = https://github.com/IdleHandsProject/makennbot.git
+[submodule "IdleHandsProject/wind_breakout"]
+	path = IdleHandsProject/wind_breakout
+	url = https://github.com/IdleHandsProject/wind_breakout.git
+[submodule "IdleHandsProject/PiZeroHub"]
+	path = IdleHandsProject/PiZeroHub
+	url = https://github.com/IdleHandsProject/PiZeroHub.git
+[submodule "IdleHandsProject/CC110L-Breakout"]
+	path = IdleHandsProject/CC110L-Breakout
+	url = https://github.com/IdleHandsProject/CC110L-Breakout.git
+[submodule "bigtreetech/BIGTREETECH-Relay-V1.2"]
+	path = bigtreetech/BIGTREETECH-Relay-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2.git
+[submodule "bigtreetech/BIGTREETECH-SKR-mini-E3"]
+	path = bigtreetech/BIGTREETECH-SKR-mini-E3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3.git
+[submodule "bigtreetech/BIGTREETECH-SKR-MINI-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-MINI-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-MINI-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0"]
+	path = bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-SKR-PRO-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-PRO-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-MINI-UPS-V2.0"]
+	path = bigtreetech/BIGTREETECH-MINI-UPS-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0.git
+[submodule "bigtreetech/BIGTREETECH-TFT35-V3.0"]
+	path = bigtreetech/BIGTREETECH-TFT35-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2225-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2225-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2225-V1.0.git
+[submodule "bigtreetech/TMC2209-V1.1"]
+	path = bigtreetech/TMC2209-V1.1
+	url = https://github.com/bigtreetech/TMC2209-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-SKR-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2209-V1.2"]
+	path = bigtreetech/BIGTREETECH-TMC2209-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2.git
+[submodule "bigtreetech/BIGTREETECH-TMC5161-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5161-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5161-V1.0.git
+[submodule "bigtreetech/Tango-3D-Printer-Motherboard"]
+	path = bigtreetech/Tango-3D-Printer-Motherboard
+	url = https://github.com/bigtreetech/Tango-3D-Printer-Motherboard.git
+[submodule "bigtreetech/BIGTREETECH-ST820-V1.0"]
+	path = bigtreetech/BIGTREETECH-ST820-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-ST820-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V1.1"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V2.1"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V2.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V2.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V2.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V2.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC5160-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5160-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5160-V1.0.git
+[submodule "bigtreetech/ramps-1.6"]
+	path = bigtreetech/ramps-1.6
+	url = https://github.com/bigtreetech/ramps-1.6.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TFT24-V1.1"]
+	path = bigtreetech/BIGTREETECH-TFT24-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT24-V1.1.git
+[submodule "bigtreetech/BIQU-Thunder"]
+	path = bigtreetech/BIQU-Thunder
+	url = https://github.com/bigtreetech/BIQU-Thunder.git
+[submodule "hallard/RM1xx-Breakout"]
+	path = hallard/RM1xx-Breakout
+	url = https://github.com/hallard/RM1xx-Breakout.git
+[submodule "hallard/WeMos-shield"]
+	path = hallard/WeMos-shield
+	url = https://github.com/hallard/WeMos-shield.git
+[submodule "hallard/WeMos-Lora"]
+	path = hallard/WeMos-Lora
+	url = https://github.com/hallard/WeMos-Lora.git
+[submodule "hallard/WeMos-RN2483"]
+	path = hallard/WeMos-RN2483
+	url = https://github.com/hallard/WeMos-RN2483.git
+[submodule "hallard/LoRasPI"]
+	path = hallard/LoRasPI
+	url = https://github.com/hallard/LoRasPI.git
+[submodule "hallard/NodeMCU-Gateway"]
+	path = hallard/NodeMCU-Gateway
+	url = https://github.com/hallard/NodeMCU-Gateway.git
+[submodule "hallard/WeMos-Matrix-Shield"]
+	path = hallard/WeMos-Matrix-Shield
+	url = https://github.com/hallard/WeMos-Matrix-Shield.git
+[submodule "hallard/Particle-Gateway"]
+	path = hallard/Particle-Gateway
+	url = https://github.com/hallard/Particle-Gateway.git
+[submodule "iotmakervn/esp32-cellular-shield"]
+	path = iotmakervn/esp32-cellular-shield
+	url = https://github.com/iotmakervn/esp32-cellular-shield
+[submodule "iotmakervn/esp32-connectivity-shield"]
+	path = iotmakervn/esp32-connectivity-shield
+	url = https://github.com/iotmakervn/esp32-connectivity-shield
+[submodule "iotmakervn/gsm-iot-core-hw"]
+	path = iotmakervn/gsm-iot-core-hw
+	url = https://github.com/iotmakervn/gsm-iot-core-hw
+[submodule "iotmakervn/iot-gprs-wifi-uno-hw"]
+	path = iotmakervn/iot-gprs-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-gprs-wifi-uno-hw
+[submodule "iotmakervn/iot-wifi-uno-hw"]
+	path = iotmakervn/iot-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-wifi-uno-hw
+[submodule "iotmakervn/iotmaker-unox"]
+	path = iotmakervn/iotmaker-unox
+	url = https://github.com/iotmakervn/iotmaker-unox
+[submodule "iotmakervn/VM-sensor-PT1000"]
+	path = iotmakervn/VM-sensor-PT1000
+	url = https://github.com/iotmakervn/VM-sensor-PT1000
+[submodule "im-tomu/tomu-hardware"]
+	path = im-tomu/tomu-hardware
+	url = https://github.com/im-tomu/tomu-hardware
+[submodule "m5stack/M5-3D_and_PCB"]
+	path = m5stack/M5-3D_and_PCB
+	url = git@github.com:m5stack/M5-3D_and_PCB.git
+[submodule "m5stack/M5Stack_TFT_ILI9341"]
+	path = m5stack/M5Stack_TFT_ILI9341
+	url = git@github.com:m5stack/M5Stack_TFT_ILI9341.git
