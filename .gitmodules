@@ -1,0 +1,6 @@
+[submodule "OLIMEX/NB-IoT"]
+	path = OLIMEX/NB-IoT
+	url = https://github.com/OLIMEX/NB-IoT
+[submodule "OLIMEX/OLIMEXINO-2560"]
+	path = OLIMEX/OLIMEXINO-2560
+	url = https://github.com/OLIMEX/OLIMEXINO-2560
