@@ -1585,3 +1585,72 @@
 [submodule "adafruit/cookiecutter-adafruit-pcb"]
 	path = adafruit/cookiecutter-adafruit-pcb
 	url = https://github.com/adafruit/cookiecutter-adafruit-pcb
+[submodule "IdleHandsProject/espeverywhere"]
+	path = IdleHandsProject/espeverywhere
+	url = https://github.com/IdleHandsProject/espeverywhere.git
+[submodule "IdleHandsProject/thePIDDYBOT"]
+	path = IdleHandsProject/thePIDDYBOT
+	url = https://github.com/IdleHandsProject/thePIDDYBOT.git
+[submodule "IdleHandsProject/samd_hcc_mod"]
+	path = IdleHandsProject/samd_hcc_mod
+	url = https://github.com/IdleHandsProject/samd_hcc_mod.git
+[submodule "IdleHandsProject/makennbot"]
+	path = IdleHandsProject/makennbot
+	url = https://github.com/IdleHandsProject/makennbot.git
+[submodule "IdleHandsProject/wind_breakout"]
+	path = IdleHandsProject/wind_breakout
+	url = https://github.com/IdleHandsProject/wind_breakout.git
+[submodule "IdleHandsProject/PiZeroHub"]
+	path = IdleHandsProject/PiZeroHub
+	url = https://github.com/IdleHandsProject/PiZeroHub.git
+[submodule "IdleHandsProject/CC110L-Breakout"]
+	path = IdleHandsProject/CC110L-Breakout
+	url = https://github.com/IdleHandsProject/CC110L-Breakout.git
+[submodule "arturo182/3.95_dsi_lcd_breakout"]
+	path = arturo182/3.95_dsi_lcd_breakout
+	url = https://github.com/arturo182/3.95_dsi_lcd_breakout
+[submodule "arturo182/bbq10kbd_breakout"]
+	path = arturo182/bbq10kbd_breakout
+	url = https://github.com/arturo182/bbq10kbd_breakout
+[submodule "arturo182/cnc_featherwing"]
+	path = arturo182/cnc_featherwing
+	url = https://github.com/arturo182/cnc_featherwing
+[submodule "arturo182/fuel_gauge_charger_breakout"]
+	path = arturo182/fuel_gauge_charger_breakout
+	url = https://github.com/arturo182/fuel_gauge_charger_breakout
+[submodule "arturo182/IS31FL3741_breakout"]
+	path = arturo182/IS31FL3741_breakout
+	url = https://github.com/arturo182/IS31FL3741_breakout
+[submodule "arturo182/libretto_keyboard_breakout"]
+	path = arturo182/libretto_keyboard_breakout
+	url = https://github.com/arturo182/libretto_keyboard_breakout
+[submodule "arturo182/mosfet_breakout"]
+	path = arturo182/mosfet_breakout
+	url = https://github.com/arturo182/mosfet_breakout
+[submodule "arturo182/pam8301_breakout"]
+	path = arturo182/pam8301_breakout
+	url = https://github.com/arturo182/pam8301_breakout
+[submodule "arturo182/pmod_ov2640_camera"]
+	path = arturo182/pmod_ov2640_camera
+	url = https://github.com/arturo182/pmod_ov2640_camera
+[submodule "arturo182/pmod_sgtl5000_breakout"]
+	path = arturo182/pmod_sgtl5000_breakout
+	url = https://github.com/arturo182/pmod_sgtl5000_breakout
+[submodule "arturo182/sama5d27c_breakout"]
+	path = arturo182/sama5d27c_breakout
+	url = https://github.com/arturo182/sama5d27c_breakout
+[submodule "arturo182/samd09_breakout"]
+	path = arturo182/samd09_breakout
+	url = https://github.com/arturo182/samd09_breakout
+[submodule "arturo182/samd21_breakout"]
+	path = arturo182/samd21_breakout
+	url = https://github.com/arturo182/samd21_breakout
+[submodule "arturo182/samd51_breakout"]
+	path = arturo182/samd51_breakout
+	url = https://github.com/arturo182/samd51_breakout
+[submodule "arturo182/sams70_breakout"]
+	path = arturo182/sams70_breakout
+	url = https://github.com/arturo182/sams70_breakout
+[submodule "arturo182/stusb1600_breakout"]
+	path = arturo182/stusb1600_breakout
+	url = https://github.com/arturo182/stusb1600_breakout
