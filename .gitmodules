@@ -1804,3 +1804,6 @@
 [submodule "mattdibi/yampad"]
 	path = mattdibi/yampad
 	url = https://github.com/mattdibi/yampad.git
+[submodule "najnesnaj/stm8-kicad-design-se8R01-pcb"]
+	path = najnesnaj/stm8-kicad-design-se8R01-pcb
+	url = https://github.com/najnesnaj/stm8-kicad-design-se8R01-pcb.git
