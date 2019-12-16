@@ -1726,3 +1726,27 @@
 [submodule "bigtreetech/BIQU-Thunder"]
 	path = bigtreetech/BIQU-Thunder
 	url = https://github.com/bigtreetech/BIQU-Thunder.git
+[submodule "hallard/RM1xx-Breakout"]
+	path = hallard/RM1xx-Breakout
+	url = https://github.com/hallard/RM1xx-Breakout.git
+[submodule "hallard/WeMos-shield"]
+	path = hallard/WeMos-shield
+	url = https://github.com/hallard/WeMos-shield.git
+[submodule "hallard/WeMos-Lora"]
+	path = hallard/WeMos-Lora
+	url = https://github.com/hallard/WeMos-Lora.git
+[submodule "hallard/WeMos-RN2483"]
+	path = hallard/WeMos-RN2483
+	url = https://github.com/hallard/WeMos-RN2483.git
+[submodule "hallard/LoRasPI"]
+	path = hallard/LoRasPI
+	url = https://github.com/hallard/LoRasPI.git
+[submodule "hallard/NodeMCU-Gateway"]
+	path = hallard/NodeMCU-Gateway
+	url = https://github.com/hallard/NodeMCU-Gateway.git
+[submodule "hallard/WeMos-Matrix-Shield"]
+	path = hallard/WeMos-Matrix-Shield
+	url = https://github.com/hallard/WeMos-Matrix-Shield.git
+[submodule "hallard/Particle-Gateway"]
+	path = hallard/Particle-Gateway
+	url = https://github.com/hallard/Particle-Gateway.git
