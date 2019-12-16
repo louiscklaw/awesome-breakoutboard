@@ -1728,10 +1728,10 @@
 	url = https://github.com/im-tomu/tomu-hardware
 [submodule "m5stack/M5-3D_and_PCB"]
 	path = m5stack/M5-3D_and_PCB
-	url = git@github.com:m5stack/M5-3D_and_PCB.git
+	url = https://github.com/m5stack/M5-3D_and_PCB.git
 [submodule "m5stack/M5Stack_TFT_ILI9341"]
 	path = m5stack/M5Stack_TFT_ILI9341
-	url = git@github.com:m5stack/M5Stack_TFT_ILI9341.git
+	url = https://github.com/m5stack/M5Stack_TFT_ILI9341.git
 [submodule "makerbase-mks/MKS-Robin-Pro"]
 	path = makerbase-mks/MKS-Robin-Pro
 	url = https://github.com/makerbase-mks/MKS-Robin-Pro.git
@@ -1765,3 +1765,6 @@
 [submodule "mysensors/SensebenderMicro"]
 	path = mysensors/SensebenderMicro
 	url = https://github.com/mysensors/SensebenderMicro.git
+[submodule "m5stack/M5-Schematic"]
+	path = m5stack/M5-Schematic
+	url = https://github.com/m5stack/M5-Schematic.git
