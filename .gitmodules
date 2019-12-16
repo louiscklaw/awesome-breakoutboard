@@ -496,3 +496,60 @@
 [submodule "Tinkerforge/xmc1400-breakout-bricklet"]
 	path = Tinkerforge/xmc1400-breakout-bricklet
 	url = https://github.com/Tinkerforge/xmc1400-breakout-bricklet
+[submodule "prusa3d/SL-LED-PCB"]
+	path = prusa3d/SL-LED-PCB
+	url = https://github.com/prusa3d/SL-LED-PCB.git
+[submodule "prusa3d/SL-USB-PCB"]
+	path = prusa3d/SL-USB-PCB
+	url = https://github.com/prusa3d/SL-USB-PCB.git
+[submodule "prusa3d/SL-PS-PCB"]
+	path = prusa3d/SL-PS-PCB
+	url = https://github.com/prusa3d/SL-PS-PCB.git
+[submodule "prusa3d/SL-UVcoin-sensor-PCB"]
+	path = prusa3d/SL-UVcoin-sensor-PCB
+	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
+[submodule "prusa3d/SL-CONTROLLER-PCB"]
+	path = prusa3d/SL-CONTROLLER-PCB
+	url = https://github.com/prusa3d/SL-CONTROLLER-PCB.git
+[submodule "prusa3d/CW-01-LED-PCB"]
+	path = prusa3d/CW-01-LED-PCB
+	url = https://github.com/prusa3d/CW-01-LED-PCB.git
+[submodule "prusa3d/MM-control-2.0"]
+	path = prusa3d/MM-control-2.0
+	url = https://github.com/prusa3d/MM-control-2.0.git
+[submodule "prusa3d/MKxS-IR-sensor"]
+	path = prusa3d/MKxS-IR-sensor
+	url = https://github.com/prusa3d/MKxS-IR-sensor.git
+[submodule "prusa3d/CW-CONTROLLER-PCB"]
+	path = prusa3d/CW-CONTROLLER-PCB
+	url = https://github.com/prusa3d/CW-CONTROLLER-PCB.git
+[submodule "prusa3d/IR-MH-sensor-PCB"]
+	path = prusa3d/IR-MH-sensor-PCB
+	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
+[submodule "freetronics/RELAY16MEGA"]
+	path = freetronics/RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+[submodule "freetronics/RELAYSHIELD16"]
+	path = freetronics/RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+[submodule "freetronics/USBSerial"]
+	path = freetronics/USBSerial
+	url = https://github.com/freetronics/USBSerial
+[submodule "dtnking/PCB-STM32F401CCT6_Development_Board"]
+	path = dtnking/PCB-STM32F401CCT6_Development_Board
+	url = https://github.com/dtnking/PCB-STM32F401CCT6_Development_Board.git
+[submodule "dtnking/Reflow-Oven"]
+	path = dtnking/Reflow-Oven
+	url = https://github.com/dtnking/Reflow-Oven.git
+[submodule "dtnking/Micro-USB-Connector"]
+	path = dtnking/Micro-USB-Connector
+	url = https://github.com/dtnking/Micro-USB-Connector.git
+[submodule "dtnking/PCB-RJ12"]
+	path = dtnking/PCB-RJ12
+	url = https://github.com/dtnking/PCB-RJ12.git
+[submodule "dtnking/STLINK_V2-1"]
+	path = dtnking/STLINK_V2-1
+	url = https://github.com/dtnking/STLINK_V2-1.git
+[submodule "svcguy/LoRaWAN-Feather-Hardware"]
+	path = svcguy/LoRaWAN-Feather-Hardware
+	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
