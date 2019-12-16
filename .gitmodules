@@ -1750,3 +1750,24 @@
 [submodule "hallard/Particle-Gateway"]
 	path = hallard/Particle-Gateway
 	url = https://github.com/hallard/Particle-Gateway.git
+[submodule "iotmakervn/esp32-cellular-shield"]
+	path = iotmakervn/esp32-cellular-shield
+	url = https://github.com/iotmakervn/esp32-cellular-shield
+[submodule "iotmakervn/esp32-connectivity-shield"]
+	path = iotmakervn/esp32-connectivity-shield
+	url = https://github.com/iotmakervn/esp32-connectivity-shield
+[submodule "iotmakervn/gsm-iot-core-hw"]
+	path = iotmakervn/gsm-iot-core-hw
+	url = https://github.com/iotmakervn/gsm-iot-core-hw
+[submodule "iotmakervn/iot-gprs-wifi-uno-hw"]
+	path = iotmakervn/iot-gprs-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-gprs-wifi-uno-hw
+[submodule "iotmakervn/iot-wifi-uno-hw"]
+	path = iotmakervn/iot-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-wifi-uno-hw
+[submodule "iotmakervn/iotmaker-unox"]
+	path = iotmakervn/iotmaker-unox
+	url = https://github.com/iotmakervn/iotmaker-unox
+[submodule "iotmakervn/VM-sensor-PT1000"]
+	path = iotmakervn/VM-sensor-PT1000
+	url = https://github.com/iotmakervn/VM-sensor-PT1000
