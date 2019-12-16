@@ -1654,3 +1654,75 @@
 [submodule "arturo182/stusb1600_breakout"]
 	path = arturo182/stusb1600_breakout
 	url = https://github.com/arturo182/stusb1600_breakout
+[submodule "bigtreetech/BIGTREETECH-Relay-V1.2"]
+	path = bigtreetech/BIGTREETECH-Relay-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2.git
+[submodule "bigtreetech/BIGTREETECH-SKR-mini-E3"]
+	path = bigtreetech/BIGTREETECH-SKR-mini-E3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3.git
+[submodule "bigtreetech/BIGTREETECH-SKR-MINI-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-MINI-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-MINI-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0"]
+	path = bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-SKR-PRO-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-PRO-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-MINI-UPS-V2.0"]
+	path = bigtreetech/BIGTREETECH-MINI-UPS-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0.git
+[submodule "bigtreetech/BIGTREETECH-TFT35-V3.0"]
+	path = bigtreetech/BIGTREETECH-TFT35-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2225-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2225-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2225-V1.0.git
+[submodule "bigtreetech/TMC2209-V1.1"]
+	path = bigtreetech/TMC2209-V1.1
+	url = https://github.com/bigtreetech/TMC2209-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-SKR-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2209-V1.2"]
+	path = bigtreetech/BIGTREETECH-TMC2209-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2.git
+[submodule "bigtreetech/BIGTREETECH-TMC5161-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5161-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5161-V1.0.git
+[submodule "bigtreetech/Tango-3D-Printer-Motherboard"]
+	path = bigtreetech/Tango-3D-Printer-Motherboard
+	url = https://github.com/bigtreetech/Tango-3D-Printer-Motherboard.git
+[submodule "bigtreetech/BIGTREETECH-ST820-V1.0"]
+	path = bigtreetech/BIGTREETECH-ST820-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-ST820-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V1.1"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V1.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V1.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V2.1"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V2.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V2.1.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V2.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V2.0.git
+[submodule "bigtreetech/BIGTREETECH-TMC5160-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5160-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5160-V1.0.git
+[submodule "bigtreetech/ramps-1.6"]
+	path = bigtreetech/ramps-1.6
+	url = https://github.com/bigtreetech/ramps-1.6.git
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0.git
+[submodule "bigtreetech/BIGTREETECH-TFT24-V1.1"]
+	path = bigtreetech/BIGTREETECH-TFT24-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT24-V1.1.git
+[submodule "bigtreetech/BIQU-Thunder"]
+	path = bigtreetech/BIQU-Thunder
+	url = https://github.com/bigtreetech/BIQU-Thunder.git
