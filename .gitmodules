@@ -52,3 +52,6 @@
 [submodule "dtnking/STLINK_V2-1"]
 	path = dtnking/STLINK_V2-1
 	url = https://github.com/dtnking/STLINK_V2-1.git
+[submodule "svcguy/LoRaWAN-Feather-Hardware"]
+	path = svcguy/LoRaWAN-Feather-Hardware
+	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
