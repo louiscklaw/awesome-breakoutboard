@@ -1774,3 +1774,9 @@
 [submodule "im-tomu/tomu-hardware"]
 	path = im-tomu/tomu-hardware
 	url = https://github.com/im-tomu/tomu-hardware
+[submodule "m5stack/M5-3D_and_PCB"]
+	path = m5stack/M5-3D_and_PCB
+	url = git@github.com:m5stack/M5-3D_and_PCB.git
+[submodule "m5stack/M5Stack_TFT_ILI9341"]
+	path = m5stack/M5Stack_TFT_ILI9341
+	url = git@github.com:m5stack/M5Stack_TFT_ILI9341.git
