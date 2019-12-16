@@ -616,3 +616,972 @@
 [submodule "adafruit/4-Channel-Level-Shifter-PCB"]
 	path = adafruit/4-Channel-Level-Shifter-PCB
 	url = https://github.com/adafruit/4-Channel-Level-Shifter-PCB
+[submodule "adafruit/ADS1X15-Breakout-Board-PCBs"]
+	path = adafruit/ADS1X15-Breakout-Board-PCBs
+	url = https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs
+[submodule "adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB"]
+	path = adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB
+[submodule "adafruit/Adafruit-1.14-inch-240x135-TFT-PCB"]
+	path = adafruit/Adafruit-1.14-inch-240x135-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.14-inch-240x135-TFT-PCB
+[submodule "adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB
+[submodule "adafruit/Adafruit-1.3-inch-240x240-TFT-PCB"]
+	path = adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
+[submodule "adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB"]
+	path = adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB
+[submodule "adafruit/Adafruit-1.44-TFT-Breakout-PCB"]
+	path = adafruit/Adafruit-1.44-TFT-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB
+[submodule "adafruit/Adafruit-1.54-inch-240x240-TFT-PCB"]
+	path = adafruit/Adafruit-1.54-inch-240x240-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.54-inch-240x240-TFT-PCB
+[submodule "adafruit/Adafruit-1.5inch-Color-OLED-PCB"]
+	path = adafruit/Adafruit-1.5inch-Color-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB
+[submodule "adafruit/Adafruit-1.8-TFT-Shield-PCB"]
+	path = adafruit/Adafruit-1.8-TFT-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-1.8-TFT-Shield-PCB
+[submodule "adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
+[submodule "adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB"]
+	path = adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB
+	url = https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB
+[submodule "adafruit/Adafruit-128x64-Monochrome-OLED-PCB"]
+	path = adafruit/Adafruit-128x64-Monochrome-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB
+[submodule "adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB
+[submodule "adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB"]
+	path = adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB
+	url = https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB
+[submodule "adafruit/Adafruit-2.0-inch-240x320-TFT-PCB"]
+	path = adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
+[submodule "adafruit/Adafruit-2.4-TFT-Breakout-PCB"]
+	path = adafruit/Adafruit-2.4-TFT-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-2.4-TFT-Breakout-PCB
+[submodule "adafruit/Adafruit-2.4-TFT-FeatherWing-PCB"]
+	path = adafruit/Adafruit-2.4-TFT-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-2.4-TFT-FeatherWing-PCB
+[submodule "adafruit/Adafruit-2.8-TFT-Shield-v2-PCB"]
+	path = adafruit/Adafruit-2.8-TFT-Shield-v2-PCB
+	url = https://github.com/adafruit/Adafruit-2.8-TFT-Shield-v2-PCB
+[submodule "adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB"]
+	path = adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB
+	url = https://github.com/adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB
+[submodule "adafruit/Adafruit-3.5in-TFT-Featherwing-PCB"]
+	path = adafruit/Adafruit-3.5in-TFT-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-3.5in-TFT-Featherwing-PCB
+[submodule "adafruit/Adafruit-5-HDMI-Backpack-PCB"]
+	path = adafruit/Adafruit-5-HDMI-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-5-HDMI-Backpack-PCB
+[submodule "adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB"]
+	path = adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+[submodule "adafruit/Adafruit-7-HDMI-Backpack-PCB"]
+	path = adafruit/Adafruit-7-HDMI-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-7-HDMI-Backpack-PCB
+[submodule "adafruit/Adafruit-9-DOF-and-10-DOF-PCBs"]
+	path = adafruit/Adafruit-9-DOF-and-10-DOF-PCBs
+	url = https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs
+[submodule "adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB
+[submodule "adafruit/Adafruit-AD8495-Breakout-PCB"]
+	path = adafruit/Adafruit-AD8495-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB
+[submodule "adafruit/Adafruit-ADT7410-PCB"]
+	path = adafruit/Adafruit-ADT7410-PCB
+	url = https://github.com/adafruit/Adafruit-ADT7410-PCB
+[submodule "adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB"]
+	path = adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB
+[submodule "adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-AMG8833-Breakout-PCB"]
+	path = adafruit/Adafruit-AMG8833-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB
+[submodule "adafruit/Adafruit-APDS9960-Breakout-PCB"]
+	path = adafruit/Adafruit-APDS9960-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB
+[submodule "adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB"]
+	path = adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+	url = https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+[submodule "adafruit/Adafruit-AS7262-Breakout-PCB"]
+	path = adafruit/Adafruit-AS7262-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AS7262-Breakout-PCB
+[submodule "adafruit/Adafruit-ATECC608-PCB"]
+	path = adafruit/Adafruit-ATECC608-PCB
+	url = https://github.com/adafruit/Adafruit-ATECC608-PCB
+[submodule "adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB"]
+	path = adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB
+[submodule "adafruit/Adafruit-Adalogger-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Adalogger-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Adalogger-FeatherWing-PCB
+[submodule "adafruit/Adafruit-AirLift-Breakout-PCB"]
+	path = adafruit/Adafruit-AirLift-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB
+[submodule "adafruit/Adafruit-AirLift-FeatherWing-PCB"]
+	path = adafruit/Adafruit-AirLift-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB"]
+	path = adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB
+	url = https://github.com/adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB
+[submodule "adafruit/Adafruit-Airlift-Shield-PCB"]
+	path = adafruit/Adafruit-Airlift-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Airlift-Shield-PCB
+[submodule "adafruit/Adafruit-Analog-Accelerometers-PCBs"]
+	path = adafruit/Adafruit-Analog-Accelerometers-PCBs
+	url = https://github.com/adafruit/Adafruit-Analog-Accelerometers-PCBs
+[submodule "adafruit/Adafruit-Animated-Eyes-Bonnet-PCB"]
+	path = adafruit/Adafruit-Animated-Eyes-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB
+[submodule "adafruit/Adafruit-Arcade-Bonnet-PCB"]
+	path = adafruit/Adafruit-Arcade-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Arcade-Bonnet-PCB
+[submodule "adafruit/Adafruit-Audio-FX-Sound-Board-PCBs"]
+	path = adafruit/Adafruit-Audio-FX-Sound-Board-PCBs
+	url = https://github.com/adafruit/Adafruit-Audio-FX-Sound-Board-PCBs
+[submodule "adafruit/Adafruit-BME280-Breakout-PCB"]
+	path = adafruit/Adafruit-BME280-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BME280-Breakout-PCB
+[submodule "adafruit/Adafruit-BME680-PCB"]
+	path = adafruit/Adafruit-BME680-PCB
+	url = https://github.com/adafruit/Adafruit-BME680-PCB
+[submodule "adafruit/Adafruit-BMP085-PCB"]
+	path = adafruit/Adafruit-BMP085-PCB
+	url = https://github.com/adafruit/Adafruit-BMP085-PCB
+[submodule "adafruit/Adafruit-BMP180-PCB"]
+	path = adafruit/Adafruit-BMP180-PCB
+	url = https://github.com/adafruit/Adafruit-BMP180-PCB
+[submodule "adafruit/Adafruit-BMP183-Breakout-PCB"]
+	path = adafruit/Adafruit-BMP183-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BMP183-Breakout-PCB
+[submodule "adafruit/Adafruit-BMP280-Breakout-PCB"]
+	path = adafruit/Adafruit-BMP280-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB
+[submodule "adafruit/Adafruit-BMP388-PCB"]
+	path = adafruit/Adafruit-BMP388-PCB
+	url = https://github.com/adafruit/Adafruit-BMP388-PCB
+[submodule "adafruit/Adafruit-BNO055-Breakout-PCB"]
+	path = adafruit/Adafruit-BNO055-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB
+[submodule "adafruit/Adafruit-BeagleBone-ProtoBoard-PCB"]
+	path = adafruit/Adafruit-BeagleBone-ProtoBoard-PCB
+	url = https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB
+[submodule "adafruit/Adafruit-Bluefruit-Classic-PCBs"]
+	path = adafruit/Adafruit-Bluefruit-Classic-PCBs
+	url = https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs
+[submodule "adafruit/Adafruit-Bluefruit-EZ-Key-PCB"]
+	path = adafruit/Adafruit-Bluefruit-EZ-Key-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB
+[submodule "adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB"]
+	path = adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-Micro-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-Micro-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-Micro-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-Shield-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
+[submodule "adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB
+[submodule "adafruit/Adafruit-CAP1188-PCB"]
+	path = adafruit/Adafruit-CAP1188-PCB
+	url = https://github.com/adafruit/Adafruit-CAP1188-PCB
+[submodule "adafruit/Adafruit-CC3000-Breakout-PCB"]
+	path = adafruit/Adafruit-CC3000-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB
+[submodule "adafruit/Adafruit-CCS811-Breakout-PCB"]
+	path = adafruit/Adafruit-CCS811-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB
+[submodule "adafruit/Adafruit-CP2104-Friend-PCB"]
+	path = adafruit/Adafruit-CP2104-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-CP2104-Friend-PCB
+[submodule "adafruit/Adafruit-Capacitive-Touch-HAT-PCB"]
+	path = adafruit/Adafruit-Capacitive-Touch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Capacitive-Touch-HAT-PCB
+[submodule "adafruit/Adafruit-CharliePlex-Bonnet-PCBs"]
+	path = adafruit/Adafruit-CharliePlex-Bonnet-PCBs
+	url = https://github.com/adafruit/Adafruit-CharliePlex-Bonnet-PCBs
+[submodule "adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB
+[submodule "adafruit/Adafruit-Circuit-Playground-Express-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB
+[submodule "adafruit/Adafruit-Circuit-Playground-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-PCB
+[submodule "adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB
+[submodule "adafruit/Adafruit-Cupcade-Adapter-PCB"]
+	path = adafruit/Adafruit-Cupcade-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Cupcade-Adapter-PCB
+[submodule "adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB
+[submodule "adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB"]
+	path = adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB
+[submodule "adafruit/Adafruit-DPI-Kippah-PCB"]
+	path = adafruit/Adafruit-DPI-Kippah-PCB
+	url = https://github.com/adafruit/Adafruit-DPI-Kippah-PCB
+[submodule "adafruit/Adafruit-DRV2605-PCB"]
+	path = adafruit/Adafruit-DRV2605-PCB
+	url = https://github.com/adafruit/Adafruit-DRV2605-PCB
+[submodule "adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB"]
+	path = adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB
+[submodule "adafruit/Adafruit-DRV8871-Breakout-PCB"]
+	path = adafruit/Adafruit-DRV8871-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB
+[submodule "adafruit/Adafruit-DS2413-PCB"]
+	path = adafruit/Adafruit-DS2413-PCB
+	url = https://github.com/adafruit/Adafruit-DS2413-PCB
+[submodule "adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB"]
+	path = adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB
+[submodule "adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB
+[submodule "adafruit/Adafruit-DS3502-PCB"]
+	path = adafruit/Adafruit-DS3502-PCB
+	url = https://github.com/adafruit/Adafruit-DS3502-PCB
+[submodule "adafruit/Adafruit-DotStar-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DotStar-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DotStar-FeatherWing-PCB
+[submodule "adafruit/Adafruit-DragonTail-for-micro-bit-PCB"]
+	path = adafruit/Adafruit-DragonTail-for-micro-bit-PCB
+	url = https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB
+[submodule "adafruit/Adafruit-E-Paper-Display-Breakout-PCBs"]
+	path = adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
+[submodule "adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB"]
+	path = adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB
+[submodule "adafruit/Adafruit-Ethernet-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Ethernet-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Ethernet-FeatherWing-PCB
+[submodule "adafruit/Adafruit-FONA-800-GSM-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-800-GSM-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-800-GSM-Breakout-PCB
+[submodule "adafruit/Adafruit-FONA-800-Shield-PCB"]
+	path = adafruit/Adafruit-FONA-800-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB
+[submodule "adafruit/Adafruit-FONA-808-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-808-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-808-Breakout-PCB
+[submodule "adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB
+[submodule "adafruit/Adafruit-FONA808-Shield-PCB"]
+	path = adafruit/Adafruit-FONA808-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-FONA808-Shield-PCB
+[submodule "adafruit/Adafruit-FPC-SMT-Adapter-PCBs"]
+	path = adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+	url = https://github.com/adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+[submodule "adafruit/Adafruit-FRAM-Breakout-PCB"]
+	path = adafruit/Adafruit-FRAM-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB
+[submodule "adafruit/Adafruit-FT232H-Breakout-PCB"]
+	path = adafruit/Adafruit-FT232H-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FT232H-Breakout-PCB
+[submodule "adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB"]
+	path = adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB
+[submodule "adafruit/Adafruit-Feather-328P-PCB"]
+	path = adafruit/Adafruit-Feather-328P-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-328P-PCB
+[submodule "adafruit/Adafruit-Feather-32u4-Adalogger-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Adalogger-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Adalogger-PCB
+[submodule "adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB
+[submodule "adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB
+[submodule "adafruit/Adafruit-Feather-32u4-FONA-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-FONA-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB
+[submodule "adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB
+[submodule "adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB"]
+	path = adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB
+[submodule "adafruit/Adafruit-Feather-M0-Adalogger-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Adalogger-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Adalogger-PCB
+[submodule "adafruit/Adafruit-Feather-M0-Basic-Proto-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
+[submodule "adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB
+[submodule "adafruit/Adafruit-Feather-M0-Express-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Express-PCB
+[submodule "adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB"]
+	path = adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
+[submodule "adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB"]
+	path = adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB
+[submodule "adafruit/Adafruit-Feather-M4-Express-PCB"]
+	path = adafruit/Adafruit-Feather-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB
+[submodule "adafruit/Adafruit-Flora-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Flora-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Bluefruit-LE-PCB
+[submodule "adafruit/Adafruit-Flora-LSM303-PCB"]
+	path = adafruit/Adafruit-Flora-LSM303-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-LSM303-PCB
+[submodule "adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB"]
+	path = adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB
+[submodule "adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB"]
+	path = adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+[submodule "adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB
+[submodule "adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB
+[submodule "adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB
+[submodule "adafruit/Adafruit-GA1A1S202WP-Breakout-PCB"]
+	path = adafruit/Adafruit-GA1A1S202WP-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB
+[submodule "adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs"]
+	path = adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs
+	url = https://github.com/adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs
+[submodule "adafruit/Adafruit-GPS-Logger-Shield-PCB"]
+	path = adafruit/Adafruit-GPS-Logger-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-GPS-Logger-Shield-PCB
+[submodule "adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-Gemma-M0-PCB"]
+	path = adafruit/Adafruit-Gemma-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Gemma-M0-PCB
+[submodule "adafruit/Adafruit-Gemma-PCB"]
+	path = adafruit/Adafruit-Gemma-PCB
+	url = https://github.com/adafruit/Adafruit-Gemma-PCB
+[submodule "adafruit/Adafruit-Grand-Central-PCB"]
+	path = adafruit/Adafruit-Grand-Central-PCB
+	url = https://github.com/adafruit/Adafruit-Grand-Central-PCB
+[submodule "adafruit/Adafruit-HDC1008-Breakout-PCB"]
+	path = adafruit/Adafruit-HDC1008-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB
+[submodule "adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB"]
+	path = adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB
+[submodule "adafruit/Adafruit-HTU21D-Breakout-PCB"]
+	path = adafruit/Adafruit-HTU21D-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB
+[submodule "adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB"]
+	path = adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB
+[submodule "adafruit/Adafruit-Hallowing-M0-PCB"]
+	path = adafruit/Adafruit-Hallowing-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Hallowing-M0-PCB
+[submodule "adafruit/Adafruit-Hallowing-M4-PCB"]
+	path = adafruit/Adafruit-Hallowing-M4-PCB
+	url = https://github.com/adafruit/Adafruit-Hallowing-M4-PCB
+[submodule "adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB"]
+	path = adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+[submodule "adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB"]
+	path = adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB
+[submodule "adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB
+[submodule "adafruit/Adafruit-I2S-Microphone-Breakout-PCB"]
+	path = adafruit/Adafruit-I2S-Microphone-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB
+[submodule "adafruit/Adafruit-INA169-Breakout-PCB"]
+	path = adafruit/Adafruit-INA169-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-INA169-Breakout-PCB
+[submodule "adafruit/Adafruit-INA219-Current-Sensor-PCB"]
+	path = adafruit/Adafruit-INA219-Current-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB
+[submodule "adafruit/Adafruit-INA260-PCB"]
+	path = adafruit/Adafruit-INA260-PCB
+	url = https://github.com/adafruit/Adafruit-INA260-PCB
+[submodule "adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB"]
+	path = adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB
+[submodule "adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs"]
+	path = adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs
+[submodule "adafruit/Adafruit-ItsyBitsy-32u4-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-32u4-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB
+[submodule "adafruit/Adafruit-ItsyBitsy-M0-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-M0-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB
+[submodule "adafruit/Adafruit-ItsyBitsy-M4-Express-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
+[submodule "adafruit/Adafruit-Joy-Bonnet-PCB"]
+	path = adafruit/Adafruit-Joy-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Joy-Bonnet-PCB
+[submodule "adafruit/Adafruit-Joy-Featherwing-PCB"]
+	path = adafruit/Adafruit-Joy-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB
+[submodule "adafruit/Adafruit-L3GD20-Breakout-PCB"]
+	path = adafruit/Adafruit-L3GD20-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB
+[submodule "adafruit/Adafruit-LED-Backpack-FeatherWing-PCB"]
+	path = adafruit/Adafruit-LED-Backpack-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-LED-Backpack-FeatherWing-PCB
+[submodule "adafruit/Adafruit-LED-Sequin-PCB"]
+	path = adafruit/Adafruit-LED-Sequin-PCB
+	url = https://github.com/adafruit/Adafruit-LED-Sequin-PCB
+[submodule "adafruit/Adafruit-LIS3DH-Breakout-PCB"]
+	path = adafruit/Adafruit-LIS3DH-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB
+[submodule "adafruit/Adafruit-LM3671-Buck-Converter-PCB"]
+	path = adafruit/Adafruit-LM3671-Buck-Converter-PCB
+	url = https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB
+[submodule "adafruit/Adafruit-LM4040-Voltage-Reference-PCB"]
+	path = adafruit/Adafruit-LM4040-Voltage-Reference-PCB
+	url = https://github.com/adafruit/Adafruit-LM4040-Voltage-Reference-PCB
+[submodule "adafruit/Adafruit-LPS3X-PCB"]
+	path = adafruit/Adafruit-LPS3X-PCB
+	url = https://github.com/adafruit/Adafruit-LPS3X-PCB
+[submodule "adafruit/Adafruit-LSM303-PCB"]
+	path = adafruit/Adafruit-LSM303-PCB
+	url = https://github.com/adafruit/Adafruit-LSM303-PCB
+[submodule "adafruit/Adafruit-LSM303AGR-PCB"]
+	path = adafruit/Adafruit-LSM303AGR-PCB
+	url = https://github.com/adafruit/Adafruit-LSM303AGR-PCB
+[submodule "adafruit/Adafruit-LSM6DSOX-PCB"]
+	path = adafruit/Adafruit-LSM6DSOX-PCB
+	url = https://github.com/adafruit/Adafruit-LSM6DSOX-PCB
+[submodule "adafruit/Adafruit-LSM9DS0-PCB"]
+	path = adafruit/Adafruit-LSM9DS0-PCB
+	url = https://github.com/adafruit/Adafruit-LSM9DS0-PCB
+[submodule "adafruit/Adafruit-LSM9DS1-Breakout-PCB"]
+	path = adafruit/Adafruit-LSM9DS1-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-LSM9DS1-Breakout-PCB
+[submodule "adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB"]
+	path = adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+[submodule "adafruit/Adafruit-MAX31850-thermocouple-breakout-board"]
+	path = adafruit/Adafruit-MAX31850-thermocouple-breakout-board
+	url = https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board
+[submodule "adafruit/Adafruit-MAX31855-breakout-board"]
+	path = adafruit/Adafruit-MAX31855-breakout-board
+	url = https://github.com/adafruit/Adafruit-MAX31855-breakout-board
+[submodule "adafruit/Adafruit-MAX31856-PCB"]
+	path = adafruit/Adafruit-MAX31856-PCB
+	url = https://github.com/adafruit/Adafruit-MAX31856-PCB
+[submodule "adafruit/Adafruit-MAX31865-PCB"]
+	path = adafruit/Adafruit-MAX31865-PCB
+	url = https://github.com/adafruit/Adafruit-MAX31865-PCB
+[submodule "adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs"]
+	path = adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs
+	url = https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs
+[submodule "adafruit/Adafruit-MAX6675-Breakout-Board-PCB"]
+	path = adafruit/Adafruit-MAX6675-Breakout-Board-PCB
+	url = https://github.com/adafruit/Adafruit-MAX6675-Breakout-Board-PCB
+[submodule "adafruit/Adafruit-MAX9744-Amplifier-PCB"]
+	path = adafruit/Adafruit-MAX9744-Amplifier-PCB
+	url = https://github.com/adafruit/Adafruit-MAX9744-Amplifier-PCB
+[submodule "adafruit/Adafruit-MAX9814-AGC-Microphone-PCB"]
+	path = adafruit/Adafruit-MAX9814-AGC-Microphone-PCB
+	url = https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB
+[submodule "adafruit/Adafruit-MAX98306-Class-D-Amp-PCB"]
+	path = adafruit/Adafruit-MAX98306-Class-D-Amp-PCB
+	url = https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB
+[submodule "adafruit/Adafruit-MAX98357-I2S-Amp-Breakout"]
+	path = adafruit/Adafruit-MAX98357-I2S-Amp-Breakout
+	url = https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout
+[submodule "adafruit/Adafruit-MCP4725-PCB"]
+	path = adafruit/Adafruit-MCP4725-PCB
+	url = https://github.com/adafruit/Adafruit-MCP4725-PCB
+[submodule "adafruit/Adafruit-MCP9600-PCB"]
+	path = adafruit/Adafruit-MCP9600-PCB
+	url = https://github.com/adafruit/Adafruit-MCP9600-PCB
+[submodule "adafruit/Adafruit-MCP9808-Breakout-PCB"]
+	path = adafruit/Adafruit-MCP9808-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MCP9808-Breakout-PCB
+[submodule "adafruit/Adafruit-METRO-328-PCB"]
+	path = adafruit/Adafruit-METRO-328-PCB
+	url = https://github.com/adafruit/Adafruit-METRO-328-PCB
+[submodule "adafruit/Adafruit-MLX90393-PCB"]
+	path = adafruit/Adafruit-MLX90393-PCB
+	url = https://github.com/adafruit/Adafruit-MLX90393-PCB
+[submodule "adafruit/Adafruit-MMA8451-Breakout-PCB"]
+	path = adafruit/Adafruit-MMA8451-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MMA8451-Breakout-PCB
+[submodule "adafruit/Adafruit-MONSTER-M4SK-PCB"]
+	path = adafruit/Adafruit-MONSTER-M4SK-PCB
+	url = https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB
+[submodule "adafruit/Adafruit-MPL115A2-Breakout-PCB"]
+	path = adafruit/Adafruit-MPL115A2-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB
+[submodule "adafruit/Adafruit-MPL3115A2-PCB"]
+	path = adafruit/Adafruit-MPL3115A2-PCB
+	url = https://github.com/adafruit/Adafruit-MPL3115A2-PCB
+[submodule "adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB"]
+	path = adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB
+[submodule "adafruit/Adafruit-MPR121-PCB"]
+	path = adafruit/Adafruit-MPR121-PCB
+	url = https://github.com/adafruit/Adafruit-MPR121-PCB
+[submodule "adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-MPU6050-PCB"]
+	path = adafruit/Adafruit-MPU6050-PCB
+	url = https://github.com/adafruit/Adafruit-MPU6050-PCB
+[submodule "adafruit/Adafruit-MSA301-PCB"]
+	path = adafruit/Adafruit-MSA301-PCB
+	url = https://github.com/adafruit/Adafruit-MSA301-PCB
+[submodule "adafruit/Adafruit-Menta-PCB"]
+	path = adafruit/Adafruit-Menta-PCB
+	url = https://github.com/adafruit/Adafruit-Menta-PCB
+[submodule "adafruit/Adafruit-Metro-M0-Express-PCB"]
+	path = adafruit/Adafruit-Metro-M0-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M0-Express-PCB
+[submodule "adafruit/Adafruit-Metro-M4-Express-AirLift-PCB"]
+	path = adafruit/Adafruit-Metro-M4-Express-AirLift-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M4-Express-AirLift-PCB
+[submodule "adafruit/Adafruit-Metro-M4-Express-PCB"]
+	path = adafruit/Adafruit-Metro-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M4-Express-PCB
+[submodule "adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-MicroLipo-PCB"]
+	path = adafruit/Adafruit-MicroLipo-PCB
+	url = https://github.com/adafruit/Adafruit-MicroLipo-PCB
+[submodule "adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB"]
+	path = adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB
+[submodule "adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB"]
+	path = adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB
+[submodule "adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB"]
+	path = adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB
+[submodule "adafruit/Adafruit-Motor-Shield-V2-PCB"]
+	path = adafruit/Adafruit-Motor-Shield-V2-PCB
+	url = https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB
+[submodule "adafruit/Adafruit-Music-Maker-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Music-Maker-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Music-Maker-MP3-Shield-PCB"]
+	path = adafruit/Adafruit-Music-Maker-MP3-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB
+[submodule "adafruit/Adafruit-NeoPXL8-PCBs"]
+	path = adafruit/Adafruit-NeoPXL8-PCBs
+	url = https://github.com/adafruit/Adafruit-NeoPXL8-PCBs
+[submodule "adafruit/Adafruit-NeoPixel-FeatherWing-PCB"]
+	path = adafruit/Adafruit-NeoPixel-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-NeoPixel-FeatherWing-PCB
+[submodule "adafruit/Adafruit-NeoPixel-Shield-PCB"]
+	path = adafruit/Adafruit-NeoPixel-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-NeoPixel-Shield-PCB
+[submodule "adafruit/Adafruit-NeoTrellis-4x4-PCB"]
+	path = adafruit/Adafruit-NeoTrellis-4x4-PCB
+	url = https://github.com/adafruit/Adafruit-NeoTrellis-4x4-PCB
+[submodule "adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure"]
+	path = adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
+	url = https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
+[submodule "adafruit/Adafruit-OLED-FeatherWing-PCB"]
+	path = adafruit/Adafruit-OLED-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-OLED-FeatherWing-PCB
+[submodule "adafruit/Adafruit-PA1010D-Mini-GPS-PCB"]
+	path = adafruit/Adafruit-PA1010D-Mini-GPS-PCB
+	url = https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB
+[submodule "adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB"]
+	path = adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB
+	url = https://github.com/adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB
+[submodule "adafruit/Adafruit-PCB-Ruler"]
+	path = adafruit/Adafruit-PCB-Ruler
+	url = https://github.com/adafruit/Adafruit-PCB-Ruler
+[submodule "adafruit/Adafruit-PCF8523-RTC-Breakout-PCB"]
+	path = adafruit/Adafruit-PCF8523-RTC-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB
+[submodule "adafruit/Adafruit-PN532-RFID-NFC-Breakout"]
+	path = adafruit/Adafruit-PN532-RFID-NFC-Breakout
+	url = https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Breakout
+[submodule "adafruit/Adafruit-PWM-Servo-FeatherWing-PCB"]
+	path = adafruit/Adafruit-PWM-Servo-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB"]
+	path = adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB
+	url = https://github.com/adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB
+[submodule "adafruit/Adafruit-Perma-Proto-Bonnet-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB
+[submodule "adafruit/Adafruit-Perma-Proto-HAT-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-HAT-PCB
+[submodule "adafruit/Adafruit-Perma-Proto-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-PCB
+[submodule "adafruit/Adafruit-Perma-Proto-Pi-PCBs"]
+	path = adafruit/Adafruit-Perma-Proto-Pi-PCBs
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs
+[submodule "adafruit/Adafruit-Pi-Cobber-PCBs"]
+	path = adafruit/Adafruit-Pi-Cobber-PCBs
+	url = https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs
+[submodule "adafruit/Adafruit-PiGRRL-PCB"]
+	path = adafruit/Adafruit-PiGRRL-PCB
+	url = https://github.com/adafruit/Adafruit-PiGRRL-PCB
+[submodule "adafruit/Adafruit-PiOLED-128x32-PCB"]
+	path = adafruit/Adafruit-PiOLED-128x32-PCB
+	url = https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB
+[submodule "adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB
+[submodule "adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB
+[submodule "adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB
+[submodule "adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB
+[submodule "adafruit/Adafruit-PiTFT-3.5-Plus-PCB"]
+	path = adafruit/Adafruit-PiTFT-3.5-Plus-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-3.5-Plus-PCB
+[submodule "adafruit/Adafruit-PiTFT-Plus-2.8-PCB"]
+	path = adafruit/Adafruit-PiTFT-Plus-2.8-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB
+[submodule "adafruit/Adafruit-PiTFT-Plus-3.2-PCB"]
+	path = adafruit/Adafruit-PiTFT-Plus-3.2-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-Plus-3.2-PCB
+[submodule "adafruit/Adafruit-PiUART-PCB"]
+	path = adafruit/Adafruit-PiUART-PCB
+	url = https://github.com/adafruit/Adafruit-PiUART-PCB
+[submodule "adafruit/Adafruit-Power-Relay-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Power-Relay-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Power-Relay-FeatherWing-PCB
+[submodule "adafruit/Adafruit-PowerBoost-1000-PCB"]
+	path = adafruit/Adafruit-PowerBoost-1000-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-1000-PCB
+[submodule "adafruit/Adafruit-PowerBoost-500-Basic-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Basic-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB
+[submodule "adafruit/Adafruit-PowerBoost-500-Charger-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Charger-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB
+[submodule "adafruit/Adafruit-PowerBoost-500-Shield-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Shield-PCB
+[submodule "adafruit/Adafruit-Pro-Trinket-PCBs"]
+	path = adafruit/Adafruit-Pro-Trinket-PCBs
+	url = https://github.com/adafruit/Adafruit-Pro-Trinket-PCBs
+[submodule "adafruit/Adafruit-Prop-Maker-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Prop-Maker-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Prop-Maker-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB"]
+	path = adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB
+[submodule "adafruit/Adafruit-Proto-Screwshield-PCB"]
+	path = adafruit/Adafruit-Proto-Screwshield-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB
+[submodule "adafruit/Adafruit-Proto-Shield-PCB"]
+	path = adafruit/Adafruit-Proto-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Shield-PCB
+[submodule "adafruit/Adafruit-Prototyping-Pi-Plate-PCB"]
+	path = adafruit/Adafruit-Prototyping-Pi-Plate-PCB
+	url = https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB
+[submodule "adafruit/Adafruit-Push-Button-Power-Switch-PCB"]
+	path = adafruit/Adafruit-Push-Button-Power-Switch-PCB
+	url = https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB
+[submodule "adafruit/Adafruit-PyBadge-PCB"]
+	path = adafruit/Adafruit-PyBadge-PCB
+	url = https://github.com/adafruit/Adafruit-PyBadge-PCB
+[submodule "adafruit/Adafruit-PyGamer-PCB"]
+	path = adafruit/Adafruit-PyGamer-PCB
+	url = https://github.com/adafruit/Adafruit-PyGamer-PCB
+[submodule "adafruit/Adafruit-PyPortal-PCB"]
+	path = adafruit/Adafruit-PyPortal-PCB
+	url = https://github.com/adafruit/Adafruit-PyPortal-PCB
+[submodule "adafruit/Adafruit-PyRuler-PCB"]
+	path = adafruit/Adafruit-PyRuler-PCB
+	url = https://github.com/adafruit/Adafruit-PyRuler-PCB
+[submodule "adafruit/Adafruit-Qualia-Driver-PCB"]
+	path = adafruit/Adafruit-Qualia-Driver-PCB
+	url = https://github.com/adafruit/Adafruit-Qualia-Driver-PCB
+[submodule "adafruit/Adafruit-RA8875-Breakout-Board-PCB"]
+	path = adafruit/Adafruit-RA8875-Breakout-Board-PCB
+	url = https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB
+[submodule "adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB"]
+	path = adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+[submodule "adafruit/Adafruit-RGB-LCD-shield-PCB"]
+	path = adafruit/Adafruit-RGB-LCD-shield-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB
+[submodule "adafruit/Adafruit-RGB-Matrix-Bonnet-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-Bonnet-PCB
+[submodule "adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB
+[submodule "adafruit/Adafruit-RGB-Matrix-HAT-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-HAT-PCB
+[submodule "adafruit/Adafruit-RGB-Matrix-Shield-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB
+[submodule "adafruit/Adafruit-Radio-Bonnet-PCB"]
+	path = adafruit/Adafruit-Radio-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Radio-Bonnet-PCB
+[submodule "adafruit/Adafruit-Radio-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Radio-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Relay-FeatherWing-PCBs"]
+	path = adafruit/Adafruit-Relay-FeatherWing-PCBs
+	url = https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs
+[submodule "adafruit/Adafruit-SAMD09-Breakout-PCB"]
+	path = adafruit/Adafruit-SAMD09-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-SAMD09-Breakout-PCB
+[submodule "adafruit/Adafruit-SHT31-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-SMT-Breakout-PCBs"]
+	path = adafruit/Adafruit-SMT-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+[submodule "adafruit/Adafruit-SPW2430-PCB"]
+	path = adafruit/Adafruit-SPW2430-PCB
+	url = https://github.com/adafruit/Adafruit-SPW2430-PCB
+[submodule "adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB"]
+	path = adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB
+[submodule "adafruit/Adafruit-STEMMA-Soil-Sensor-PCB"]
+	path = adafruit/Adafruit-STEMMA-Soil-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Soil-Sensor-PCB
+[submodule "adafruit/Adafruit-STEMMA-Speaker-PCB"]
+	path = adafruit/Adafruit-STEMMA-Speaker-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB
+[submodule "adafruit/Adafruit-STMPE610-Breakout-PCB"]
+	path = adafruit/Adafruit-STMPE610-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB
+[submodule "adafruit/Adafruit-Servo-HAT-Bonnet-PCB"]
+	path = adafruit/Adafruit-Servo-HAT-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Servo-HAT-Bonnet-PCB
+[submodule "adafruit/Adafruit-Si1145-Light-Sensor-PCB"]
+	path = adafruit/Adafruit-Si1145-Light-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB
+[submodule "adafruit/Adafruit-Si4713-PCB"]
+	path = adafruit/Adafruit-Si4713-PCB
+	url = https://github.com/adafruit/Adafruit-Si4713-PCB
+[submodule "adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB"]
+	path = adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB
+[submodule "adafruit/Adafruit-Si7021-PCB"]
+	path = adafruit/Adafruit-Si7021-PCB
+	url = https://github.com/adafruit/Adafruit-Si7021-PCB
+[submodule "adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB"]
+	path = adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB
+[submodule "adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB"]
+	path = adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB
+[submodule "adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB"]
+	path = adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB
+[submodule "adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB"]
+	path = adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB
+	url = https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB
+[submodule "adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB
+[submodule "adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB"]
+	path = adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB
+[submodule "adafruit/Adafruit-TFT-Gizmo-PCB"]
+	path = adafruit/Adafruit-TFT-Gizmo-PCB
+	url = https://github.com/adafruit/Adafruit-TFT-Gizmo-PCB
+[submodule "adafruit/Adafruit-TLC5947-PCB"]
+	path = adafruit/Adafruit-TLC5947-PCB
+	url = https://github.com/adafruit/Adafruit-TLC5947-PCB
+[submodule "adafruit/Adafruit-TLC59711-Breakout-PCB"]
+	path = adafruit/Adafruit-TLC59711-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TLC59711-Breakout-PCB
+[submodule "adafruit/Adafruit-TLV493D-PCB"]
+	path = adafruit/Adafruit-TLV493D-PCB
+	url = https://github.com/adafruit/Adafruit-TLV493D-PCB
+[submodule "adafruit/Adafruit-TMP006-and-TMP007-PCB"]
+	path = adafruit/Adafruit-TMP006-and-TMP007-PCB
+	url = https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB
+[submodule "adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB"]
+	path = adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB
+[submodule "adafruit/Adafruit-TPA2016-PCB"]
+	path = adafruit/Adafruit-TPA2016-PCB
+	url = https://github.com/adafruit/Adafruit-TPA2016-PCB
+[submodule "adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB"]
+	path = adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB
+[submodule "adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB"]
+	path = adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB
+	url = https://github.com/adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB
+[submodule "adafruit/Adafruit-TSL2591-Breakout-PCB"]
+	path = adafruit/Adafruit-TSL2591-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TSL2591-Breakout-PCB
+[submodule "adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB"]
+	path = adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB
+[submodule "adafruit/Adafruit-TXB0108-PCB"]
+	path = adafruit/Adafruit-TXB0108-PCB
+	url = https://github.com/adafruit/Adafruit-TXB0108-PCB
+[submodule "adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB"]
+	path = adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+[submodule "adafruit/Adafruit-Terminal-Block-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Terminal-Block-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Terminal-Block-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Trinket-M0-PCB"]
+	path = adafruit/Adafruit-Trinket-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Trinket-M0-PCB
+[submodule "adafruit/Adafruit-Trinket-PCB"]
+	path = adafruit/Adafruit-Trinket-PCB
+	url = https://github.com/adafruit/Adafruit-Trinket-PCB
+[submodule "adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB"]
+	path = adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB
+	url = https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB
+[submodule "adafruit/Adafruit-USB-C-Downstream-Breakout"]
+	path = adafruit/Adafruit-USB-C-Downstream-Breakout
+	url = https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout
+[submodule "adafruit/Adafruit-USB-Isolator-PCB"]
+	path = adafruit/Adafruit-USB-Isolator-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Isolator-PCB
+[submodule "adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB"]
+	path = adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB
+	url = https://github.com/adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB
+[submodule "adafruit/Adafruit-USB-Power-Gauge-PCB"]
+	path = adafruit/Adafruit-USB-Power-Gauge-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Power-Gauge-PCB
+[submodule "adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB"]
+	path = adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB
+[submodule "adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB
+[submodule "adafruit/Adafruit-Ultimate-GPS-HAT-PCB"]
+	path = adafruit/Adafruit-Ultimate-GPS-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Ultimate-GPS-HAT-PCB
+[submodule "adafruit/Adafruit-VCNL4040-PCB"]
+	path = adafruit/Adafruit-VCNL4040-PCB
+	url = https://github.com/adafruit/Adafruit-VCNL4040-PCB
+[submodule "adafruit/Adafruit-VCNL40X0-PCB"]
+	path = adafruit/Adafruit-VCNL40X0-PCB
+	url = https://github.com/adafruit/Adafruit-VCNL40X0-PCB
+[submodule "adafruit/Adafruit-VEML6070-PCB"]
+	path = adafruit/Adafruit-VEML6070-PCB
+	url = https://github.com/adafruit/Adafruit-VEML6070-PCB
+[submodule "adafruit/Adafruit-VEML6075-UV-Sensor-PCB"]
+	path = adafruit/Adafruit-VEML6075-UV-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-VEML6075-UV-Sensor-PCB
+[submodule "adafruit/Adafruit-VEML7700-PCB"]
+	path = adafruit/Adafruit-VEML7700-PCB
+	url = https://github.com/adafruit/Adafruit-VEML7700-PCB
+[submodule "adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB"]
+	path = adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB
+[submodule "adafruit/Adafruit-VS1053-Breakout-PCB"]
+	path = adafruit/Adafruit-VS1053-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-VS1053-Breakout-PCB
+[submodule "adafruit/Adafruit-Verter-PCB"]
+	path = adafruit/Adafruit-Verter-PCB
+	url = https://github.com/adafruit/Adafruit-Verter-PCB
+[submodule "adafruit/Adafruit-WICED-WiFi-Feather-PCB"]
+	path = adafruit/Adafruit-WICED-WiFi-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-WICED-WiFi-Feather-PCB
+[submodule "adafruit/Adafruit-WINC1500-Shield-PCB"]
+	path = adafruit/Adafruit-WINC1500-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-WINC1500-Shield-PCB
+[submodule "adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB"]
+	path = adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
+[submodule "adafruit/Adafruit-pIRKey-PCB"]
+	path = adafruit/Adafruit-pIRKey-PCB
+	url = https://github.com/adafruit/Adafruit-pIRKey-PCB
+[submodule "adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB"]
+	path = adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB
+	url = https://github.com/adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB
+[submodule "adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB"]
+	path = adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB
+	url = https://github.com/adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB
+[submodule "adafruit/Adafruit_ADXL343_PCB"]
+	path = adafruit/Adafruit_ADXL343_PCB
+	url = https://github.com/adafruit/Adafruit_ADXL343_PCB
+[submodule "adafruit/Adafruit_ADXL345_PCB"]
+	path = adafruit/Adafruit_ADXL345_PCB
+	url = https://github.com/adafruit/Adafruit_ADXL345_PCB
+[submodule "adafruit/Adafruit_Atmega32u4_Breakout_Board"]
+	path = adafruit/Adafruit_Atmega32u4_Breakout_Board
+	url = https://github.com/adafruit/Adafruit_Atmega32u4_Breakout_Board
+[submodule "adafruit/Adafruit_Breadboard_NeoPixel_PCB"]
+	path = adafruit/Adafruit_Breadboard_NeoPixel_PCB
+	url = https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB
+[submodule "adafruit/Adafruit_CC3000_Shield_PCB"]
+	path = adafruit/Adafruit_CC3000_Shield_PCB
+	url = https://github.com/adafruit/Adafruit_CC3000_Shield_PCB
+[submodule "adafruit/Adafruit_FTDI-Friend-PCB"]
+	path = adafruit/Adafruit_FTDI-Friend-PCB
+	url = https://github.com/adafruit/Adafruit_FTDI-Friend-PCB
+[submodule "adafruit/Adafruit_MCP73833_PCB"]
+	path = adafruit/Adafruit_MCP73833_PCB
+	url = https://github.com/adafruit/Adafruit_MCP73833_PCB
+[submodule "adafruit/Adafruit_MintyBoost_PCB"]
+	path = adafruit/Adafruit_MintyBoost_PCB
+	url = https://github.com/adafruit/Adafruit_MintyBoost_PCB
+[submodule "adafruit/Adafruit_USB_Boarduino_PCB"]
+	path = adafruit/Adafruit_USB_Boarduino_PCB
+	url = https://github.com/adafruit/Adafruit_USB_Boarduino_PCB
+[submodule "adafruit/DS1307-breakout-board"]
+	path = adafruit/DS1307-breakout-board
+	url = https://github.com/adafruit/DS1307-breakout-board
+[submodule "adafruit/DotStar-2020-8x8-Matrix-PCB"]
+	path = adafruit/DotStar-2020-8x8-Matrix-PCB
+	url = https://github.com/adafruit/DotStar-2020-8x8-Matrix-PCB
+[submodule "adafruit/Feather-ICE40-PCB"]
+	path = adafruit/Feather-ICE40-PCB
+	url = https://github.com/adafruit/Feather-ICE40-PCB
+[submodule "adafruit/Feather-RISC-V-PCB"]
+	path = adafruit/Feather-RISC-V-PCB
+	url = https://github.com/adafruit/Feather-RISC-V-PCB
+[submodule "adafruit/Pixie-3W-Smart-LED-PCB"]
+	path = adafruit/Pixie-3W-Smart-LED-PCB
+	url = https://github.com/adafruit/Pixie-3W-Smart-LED-PCB
+[submodule "adafruit/TSL2561-breakout-board-PCB"]
+	path = adafruit/TSL2561-breakout-board-PCB
+	url = https://github.com/adafruit/TSL2561-breakout-board-PCB
+[submodule "adafruit/cookiecutter-adafruit-pcb"]
+	path = adafruit/cookiecutter-adafruit-pcb
+	url = https://github.com/adafruit/cookiecutter-adafruit-pcb
