@@ -1,0 +1,30 @@
+[submodule "sparkfun/32U4_Breakout_Board"]
+	path = sparkfun/32U4_Breakout_Board
+	url = https://github.com/sparkfun/32U4_Breakout_Board
+[submodule "sparkfun/BMP085_Breakout"]
+	path = sparkfun/BMP085_Breakout
+	url = https://github.com/sparkfun/BMP085_Breakout
+[submodule "sparkfun/CP2102_Breakout"]
+	path = sparkfun/CP2102_Breakout
+	url = https://github.com/sparkfun/CP2102_Breakout
+[submodule "sparkfun/ESP32_LoRa_1Ch_Gateway"]
+	path = sparkfun/ESP32_LoRa_1Ch_Gateway
+	url = https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway
+[submodule "sparkfun/ESP32_Power_Control_Shield"]
+	path = sparkfun/ESP32_Power_Control_Shield
+	url = https://github.com/sparkfun/ESP32_Power_Control_Shield
+[submodule "sparkfun/ESP8266_Thing"]
+	path = sparkfun/ESP8266_Thing
+	url = https://github.com/sparkfun/ESP8266_Thing
+[submodule "sparkfun/ESP8266_Thing_Dev"]
+	path = sparkfun/ESP8266_Thing_Dev
+	url = https://github.com/sparkfun/ESP8266_Thing_Dev
+[submodule "sparkfun/GPS_Breakout"]
+	path = sparkfun/GPS_Breakout
+	url = https://github.com/sparkfun/GPS_Breakout
+[submodule "sparkfun/LCD_TFT_Breakout_1in8_128x160"]
+	path = sparkfun/LCD_TFT_Breakout_1in8_128x160
+	url = https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160
+[submodule "sparkfun/SD-MMC_Breakout"]
+	path = sparkfun/SD-MMC_Breakout
+	url = https://github.com/sparkfun/SD-MMC_Breakout
