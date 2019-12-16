@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 [submodule "raphaelchang/dragonquad-hardware"]
 	path = raphaelchang/dragonquad-hardware
 	url = https://github.com/raphaelchang/dragonquad-hardware.git
-=======
 [submodule "OLIMEX/NB-IoT"]
 	path = OLIMEX/NB-IoT
 	url = https://github.com/OLIMEX/NB-IoT
@@ -567,4 +565,3 @@
 [submodule "svcguy/LoRaWAN-Feather-Hardware"]
 	path = svcguy/LoRaWAN-Feather-Hardware
 	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
->>>>>>> feature/add-OLIMEX
