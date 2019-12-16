@@ -1,3 +1,558 @@
 [submodule "BPI-SINOVOIP/BPI-Schematics"]
 	path = BPI-SINOVOIP/BPI-Schematics
 	url = https://github.com/BPI-SINOVOIP/BPI-Schematics
+[submodule "Tinkerforge/ac-current-bricklet"]
+	path = Tinkerforge/ac-current-bricklet
+	url = https://github.com/Tinkerforge/ac-current-bricklet
+[submodule "Tinkerforge/accelerometer-bricklet"]
+	path = Tinkerforge/accelerometer-bricklet
+	url = https://github.com/Tinkerforge/accelerometer-bricklet
+[submodule "Tinkerforge/accelerometer-v2-bricklet"]
+	path = Tinkerforge/accelerometer-v2-bricklet
+	url = https://github.com/Tinkerforge/accelerometer-v2-bricklet
+[submodule "Tinkerforge/adapter-xmc-flash"]
+	path = Tinkerforge/adapter-xmc-flash
+	url = https://github.com/Tinkerforge/adapter-xmc-flash
+[submodule "Tinkerforge/air-quality-bricklet"]
+	path = Tinkerforge/air-quality-bricklet
+	url = https://github.com/Tinkerforge/air-quality-bricklet
+[submodule "Tinkerforge/ambient-light-bricklet"]
+	path = Tinkerforge/ambient-light-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-bricklet
+[submodule "Tinkerforge/ambient-light-v2-bricklet"]
+	path = Tinkerforge/ambient-light-v2-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-v2-bricklet
+[submodule "Tinkerforge/ambient-light-v3-bricklet"]
+	path = Tinkerforge/ambient-light-v3-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-v3-bricklet
+[submodule "Tinkerforge/analog-in-bricklet"]
+	path = Tinkerforge/analog-in-bricklet
+	url = https://github.com/Tinkerforge/analog-in-bricklet
+[submodule "Tinkerforge/analog-in-v2-bricklet"]
+	path = Tinkerforge/analog-in-v2-bricklet
+	url = https://github.com/Tinkerforge/analog-in-v2-bricklet
+[submodule "Tinkerforge/analog-in-v3-bricklet"]
+	path = Tinkerforge/analog-in-v3-bricklet
+	url = https://github.com/Tinkerforge/analog-in-v3-bricklet
+[submodule "Tinkerforge/analog-out-bricklet"]
+	path = Tinkerforge/analog-out-bricklet
+	url = https://github.com/Tinkerforge/analog-out-bricklet
+[submodule "Tinkerforge/analog-out-v2-bricklet"]
+	path = Tinkerforge/analog-out-v2-bricklet
+	url = https://github.com/Tinkerforge/analog-out-v2-bricklet
+[submodule "Tinkerforge/analog-out-v3-bricklet"]
+	path = Tinkerforge/analog-out-v3-bricklet
+	url = https://github.com/Tinkerforge/analog-out-v3-bricklet
+[submodule "Tinkerforge/barometer-bricklet"]
+	path = Tinkerforge/barometer-bricklet
+	url = https://github.com/Tinkerforge/barometer-bricklet
+[submodule "Tinkerforge/barometer-v2-bricklet"]
+	path = Tinkerforge/barometer-v2-bricklet
+	url = https://github.com/Tinkerforge/barometer-v2-bricklet
+[submodule "Tinkerforge/battery-holder"]
+	path = Tinkerforge/battery-holder
+	url = https://github.com/Tinkerforge/battery-holder
+[submodule "Tinkerforge/blinkenlights"]
+	path = Tinkerforge/blinkenlights
+	url = https://github.com/Tinkerforge/blinkenlights
+[submodule "Tinkerforge/bootstrapper_xmc"]
+	path = Tinkerforge/bootstrapper_xmc
+	url = https://github.com/Tinkerforge/bootstrapper_xmc
+[submodule "Tinkerforge/breakout_xmc1300"]
+	path = Tinkerforge/breakout_xmc1300
+	url = https://github.com/Tinkerforge/breakout_xmc1300
+[submodule "Tinkerforge/breakout-brick"]
+	path = Tinkerforge/breakout-brick
+	url = https://github.com/Tinkerforge/breakout-brick
+[submodule "Tinkerforge/breakout-bricklet"]
+	path = Tinkerforge/breakout-bricklet
+	url = https://github.com/Tinkerforge/breakout-bricklet
+[submodule "Tinkerforge/breakout-v2-bricklet"]
+	path = Tinkerforge/breakout-v2-bricklet
+	url = https://github.com/Tinkerforge/breakout-v2-bricklet
+[submodule "Tinkerforge/brick-mqtt-proxy"]
+	path = Tinkerforge/brick-mqtt-proxy
+	url = https://github.com/Tinkerforge/brick-mqtt-proxy
+[submodule "Tinkerforge/brickboot"]
+	path = Tinkerforge/brickboot
+	url = https://github.com/Tinkerforge/brickboot
+[submodule "Tinkerforge/brickd"]
+	path = Tinkerforge/brickd
+	url = https://github.com/Tinkerforge/brickd
+[submodule "Tinkerforge/brickletboot_samd"]
+	path = Tinkerforge/brickletboot_samd
+	url = https://github.com/Tinkerforge/brickletboot_samd
+[submodule "Tinkerforge/brickletboot_xmc"]
+	path = Tinkerforge/brickletboot_xmc
+	url = https://github.com/Tinkerforge/brickletboot_xmc
+[submodule "Tinkerforge/brickletlib"]
+	path = Tinkerforge/brickletlib
+	url = https://github.com/Tinkerforge/brickletlib
+[submodule "Tinkerforge/bricklib"]
+	path = Tinkerforge/bricklib
+	url = https://github.com/Tinkerforge/bricklib
+[submodule "Tinkerforge/bricklib2"]
+	path = Tinkerforge/bricklib2
+	url = https://github.com/Tinkerforge/bricklib2
+[submodule "Tinkerforge/brickv"]
+	path = Tinkerforge/brickv
+	url = https://github.com/Tinkerforge/brickv
+[submodule "Tinkerforge/brickv.com"]
+	path = Tinkerforge/brickv.com
+	url = https://github.com/Tinkerforge/brickv.com
+[submodule "Tinkerforge/camera-slider"]
+	path = Tinkerforge/camera-slider
+	url = https://github.com/Tinkerforge/camera-slider
+[submodule "Tinkerforge/can-bricklet"]
+	path = Tinkerforge/can-bricklet
+	url = https://github.com/Tinkerforge/can-bricklet
+[submodule "Tinkerforge/can-v2-bricklet"]
+	path = Tinkerforge/can-v2-bricklet
+	url = https://github.com/Tinkerforge/can-v2-bricklet
+[submodule "Tinkerforge/cases"]
+	path = Tinkerforge/cases
+	url = https://github.com/Tinkerforge/cases
+[submodule "Tinkerforge/chibi-extension"]
+	path = Tinkerforge/chibi-extension
+	url = https://github.com/Tinkerforge/chibi-extension
+[submodule "Tinkerforge/co2-bricklet"]
+	path = Tinkerforge/co2-bricklet
+	url = https://github.com/Tinkerforge/co2-bricklet
+[submodule "Tinkerforge/co2-v2-bricklet"]
+	path = Tinkerforge/co2-v2-bricklet
+	url = https://github.com/Tinkerforge/co2-v2-bricklet
+[submodule "Tinkerforge/color-bricklet"]
+	path = Tinkerforge/color-bricklet
+	url = https://github.com/Tinkerforge/color-bricklet
+[submodule "Tinkerforge/color-v2-bricklet"]
+	path = Tinkerforge/color-v2-bricklet
+	url = https://github.com/Tinkerforge/color-v2-bricklet
+[submodule "Tinkerforge/compass-bricklet"]
+	path = Tinkerforge/compass-bricklet
+	url = https://github.com/Tinkerforge/compass-bricklet
+[submodule "Tinkerforge/current12-bricklet"]
+	path = Tinkerforge/current12-bricklet
+	url = https://github.com/Tinkerforge/current12-bricklet
+[submodule "Tinkerforge/current25-bricklet"]
+	path = Tinkerforge/current25-bricklet
+	url = https://github.com/Tinkerforge/current25-bricklet
+[submodule "Tinkerforge/daemonlib"]
+	path = Tinkerforge/daemonlib
+	url = https://github.com/Tinkerforge/daemonlib
+[submodule "Tinkerforge/dc-adapter"]
+	path = Tinkerforge/dc-adapter
+	url = https://github.com/Tinkerforge/dc-adapter
+[submodule "Tinkerforge/dc-brick"]
+	path = Tinkerforge/dc-brick
+	url = https://github.com/Tinkerforge/dc-brick
+[submodule "Tinkerforge/dc-bricklet"]
+	path = Tinkerforge/dc-bricklet
+	url = https://github.com/Tinkerforge/dc-bricklet
+[submodule "Tinkerforge/debug-brick"]
+	path = Tinkerforge/debug-brick
+	url = https://github.com/Tinkerforge/debug-brick
+[submodule "Tinkerforge/distance-ir-bricklet"]
+	path = Tinkerforge/distance-ir-bricklet
+	url = https://github.com/Tinkerforge/distance-ir-bricklet
+[submodule "Tinkerforge/distance-ir-v2-bricklet"]
+	path = Tinkerforge/distance-ir-v2-bricklet
+	url = https://github.com/Tinkerforge/distance-ir-v2-bricklet
+[submodule "Tinkerforge/distance-us-bricklet"]
+	path = Tinkerforge/distance-us-bricklet
+	url = https://github.com/Tinkerforge/distance-us-bricklet
+[submodule "Tinkerforge/distance-us-v2-bricklet"]
+	path = Tinkerforge/distance-us-v2-bricklet
+	url = https://github.com/Tinkerforge/distance-us-v2-bricklet
+[submodule "Tinkerforge/distance-us-v2-bricklet-techniker"]
+	path = Tinkerforge/distance-us-v2-bricklet-techniker
+	url = https://github.com/Tinkerforge/distance-us-v2-bricklet-techniker
+[submodule "Tinkerforge/dmx-bricklet"]
+	path = Tinkerforge/dmx-bricklet
+	url = https://github.com/Tinkerforge/dmx-bricklet
+[submodule "Tinkerforge/dual-button-bricklet"]
+	path = Tinkerforge/dual-button-bricklet
+	url = https://github.com/Tinkerforge/dual-button-bricklet
+[submodule "Tinkerforge/dual-button-v2-bricklet"]
+	path = Tinkerforge/dual-button-v2-bricklet
+	url = https://github.com/Tinkerforge/dual-button-v2-bricklet
+[submodule "Tinkerforge/dual-relay-bricklet"]
+	path = Tinkerforge/dual-relay-bricklet
+	url = https://github.com/Tinkerforge/dual-relay-bricklet
+[submodule "Tinkerforge/dust-detector-bricklet"]
+	path = Tinkerforge/dust-detector-bricklet
+	url = https://github.com/Tinkerforge/dust-detector-bricklet
+[submodule "Tinkerforge/e-paper-296x128-bricklet"]
+	path = Tinkerforge/e-paper-296x128-bricklet
+	url = https://github.com/Tinkerforge/e-paper-296x128-bricklet
+[submodule "Tinkerforge/energy-monitor-bricklet"]
+	path = Tinkerforge/energy-monitor-bricklet
+	url = https://github.com/Tinkerforge/energy-monitor-bricklet
+[submodule "Tinkerforge/ethernet-extension"]
+	path = Tinkerforge/ethernet-extension
+	url = https://github.com/Tinkerforge/ethernet-extension
+[submodule "Tinkerforge/fingerprint-bricklet"]
+	path = Tinkerforge/fingerprint-bricklet
+	url = https://github.com/Tinkerforge/fingerprint-bricklet
+[submodule "Tinkerforge/gas-bricklet"]
+	path = Tinkerforge/gas-bricklet
+	url = https://github.com/Tinkerforge/gas-bricklet
+[submodule "Tinkerforge/gas-detector-bricklet"]
+	path = Tinkerforge/gas-detector-bricklet
+	url = https://github.com/Tinkerforge/gas-detector-bricklet
+[submodule "Tinkerforge/gps-bricklet"]
+	path = Tinkerforge/gps-bricklet
+	url = https://github.com/Tinkerforge/gps-bricklet
+[submodule "Tinkerforge/gps-v2-bricklet"]
+	path = Tinkerforge/gps-v2-bricklet
+	url = https://github.com/Tinkerforge/gps-v2-bricklet
+[submodule "Tinkerforge/hall-effect-bricklet"]
+	path = Tinkerforge/hall-effect-bricklet
+	url = https://github.com/Tinkerforge/hall-effect-bricklet
+[submodule "Tinkerforge/hall-effect-v2-bricklet"]
+	path = Tinkerforge/hall-effect-v2-bricklet
+	url = https://github.com/Tinkerforge/hall-effect-v2-bricklet
+[submodule "Tinkerforge/humidity-bricklet"]
+	path = Tinkerforge/humidity-bricklet
+	url = https://github.com/Tinkerforge/humidity-bricklet
+[submodule "Tinkerforge/humidity-v2-bricklet"]
+	path = Tinkerforge/humidity-v2-bricklet
+	url = https://github.com/Tinkerforge/humidity-v2-bricklet
+[submodule "Tinkerforge/industrial-analog-out-bricklet"]
+	path = Tinkerforge/industrial-analog-out-bricklet
+	url = https://github.com/Tinkerforge/industrial-analog-out-bricklet
+[submodule "Tinkerforge/industrial-analog-out-v2-bricklet"]
+	path = Tinkerforge/industrial-analog-out-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-analog-out-v2-bricklet
+[submodule "Tinkerforge/industrial-counter-bricklet"]
+	path = Tinkerforge/industrial-counter-bricklet
+	url = https://github.com/Tinkerforge/industrial-counter-bricklet
+[submodule "Tinkerforge/industrial-digital-in-4-bricklet"]
+	path = Tinkerforge/industrial-digital-in-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-in-4-bricklet
+[submodule "Tinkerforge/industrial-digital-in-4-v2-bricklet"]
+	path = Tinkerforge/industrial-digital-in-4-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-in-4-v2-bricklet
+[submodule "Tinkerforge/industrial-digital-out-4-bricklet"]
+	path = Tinkerforge/industrial-digital-out-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-4-bricklet
+[submodule "Tinkerforge/industrial-digital-out-4-v2-bricklet"]
+	path = Tinkerforge/industrial-digital-out-4-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-4-v2-bricklet
+[submodule "Tinkerforge/industrial-digital-out-hs-4-bricklet"]
+	path = Tinkerforge/industrial-digital-out-hs-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-hs-4-bricklet
+[submodule "Tinkerforge/industrial-dual-0-20ma-bricklet"]
+	path = Tinkerforge/industrial-dual-0-20ma-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-0-20ma-bricklet
+[submodule "Tinkerforge/industrial-dual-0-20ma-v2-bricklet"]
+	path = Tinkerforge/industrial-dual-0-20ma-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-0-20ma-v2-bricklet
+[submodule "Tinkerforge/industrial-dual-analog-in-bricklet"]
+	path = Tinkerforge/industrial-dual-analog-in-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-analog-in-bricklet
+[submodule "Tinkerforge/industrial-dual-analog-in-v2-bricklet"]
+	path = Tinkerforge/industrial-dual-analog-in-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-analog-in-v2-bricklet
+[submodule "Tinkerforge/industrial-dual-relay-bricklet"]
+	path = Tinkerforge/industrial-dual-relay-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-relay-bricklet
+[submodule "Tinkerforge/industrial-encoder-bricklet"]
+	path = Tinkerforge/industrial-encoder-bricklet
+	url = https://github.com/Tinkerforge/industrial-encoder-bricklet
+[submodule "Tinkerforge/industrial-push-pull-bricklet"]
+	path = Tinkerforge/industrial-push-pull-bricklet
+	url = https://github.com/Tinkerforge/industrial-push-pull-bricklet
+[submodule "Tinkerforge/industrial-quad-relay-bricklet"]
+	path = Tinkerforge/industrial-quad-relay-bricklet
+	url = https://github.com/Tinkerforge/industrial-quad-relay-bricklet
+[submodule "Tinkerforge/industrial-quad-relay-v2-bricklet"]
+	path = Tinkerforge/industrial-quad-relay-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-quad-relay-v2-bricklet
+[submodule "Tinkerforge/internet-of-things"]
+	path = Tinkerforge/internet-of-things
+	url = https://github.com/Tinkerforge/internet-of-things
+[submodule "Tinkerforge/joystick-bricklet"]
+	path = Tinkerforge/joystick-bricklet
+	url = https://github.com/Tinkerforge/joystick-bricklet
+[submodule "Tinkerforge/joystick-v2-bricklet"]
+	path = Tinkerforge/joystick-v2-bricklet
+	url = https://github.com/Tinkerforge/joystick-v2-bricklet
+[submodule "Tinkerforge/laser-range-finder-bricklet"]
+	path = Tinkerforge/laser-range-finder-bricklet
+	url = https://github.com/Tinkerforge/laser-range-finder-bricklet
+[submodule "Tinkerforge/laser-range-finder-v2-bricklet"]
+	path = Tinkerforge/laser-range-finder-v2-bricklet
+	url = https://github.com/Tinkerforge/laser-range-finder-v2-bricklet
+[submodule "Tinkerforge/lcd-128x64-bricklet"]
+	path = Tinkerforge/lcd-128x64-bricklet
+	url = https://github.com/Tinkerforge/lcd-128x64-bricklet
+[submodule "Tinkerforge/lcd-16x2-bricklet"]
+	path = Tinkerforge/lcd-16x2-bricklet
+	url = https://github.com/Tinkerforge/lcd-16x2-bricklet
+[submodule "Tinkerforge/lcd-20x4-bricklet"]
+	path = Tinkerforge/lcd-20x4-bricklet
+	url = https://github.com/Tinkerforge/lcd-20x4-bricklet
+[submodule "Tinkerforge/led-strip-bricklet"]
+	path = Tinkerforge/led-strip-bricklet
+	url = https://github.com/Tinkerforge/led-strip-bricklet
+[submodule "Tinkerforge/led-strip-v2-bricklet"]
+	path = Tinkerforge/led-strip-v2-bricklet
+	url = https://github.com/Tinkerforge/led-strip-v2-bricklet
+[submodule "Tinkerforge/line-bricklet"]
+	path = Tinkerforge/line-bricklet
+	url = https://github.com/Tinkerforge/line-bricklet
+[submodule "Tinkerforge/linear-poti-bricklet"]
+	path = Tinkerforge/linear-poti-bricklet
+	url = https://github.com/Tinkerforge/linear-poti-bricklet
+[submodule "Tinkerforge/linear-poti-v2-bricklet"]
+	path = Tinkerforge/linear-poti-v2-bricklet
+	url = https://github.com/Tinkerforge/linear-poti-v2-bricklet
+[submodule "Tinkerforge/load-cell-bricklet"]
+	path = Tinkerforge/load-cell-bricklet
+	url = https://github.com/Tinkerforge/load-cell-bricklet
+[submodule "Tinkerforge/load-cell-v2-bricklet"]
+	path = Tinkerforge/load-cell-v2-bricklet
+	url = https://github.com/Tinkerforge/load-cell-v2-bricklet
+[submodule "Tinkerforge/master-brick"]
+	path = Tinkerforge/master-brick
+	url = https://github.com/Tinkerforge/master-brick
+[submodule "Tinkerforge/midi-bricklet"]
+	path = Tinkerforge/midi-bricklet
+	url = https://github.com/Tinkerforge/midi-bricklet
+[submodule "Tinkerforge/moisture-bricklet"]
+	path = Tinkerforge/moisture-bricklet
+	url = https://github.com/Tinkerforge/moisture-bricklet
+[submodule "Tinkerforge/moisture-v2-bricklet"]
+	path = Tinkerforge/moisture-v2-bricklet
+	url = https://github.com/Tinkerforge/moisture-v2-bricklet
+[submodule "Tinkerforge/motion-detector-bricklet"]
+	path = Tinkerforge/motion-detector-bricklet
+	url = https://github.com/Tinkerforge/motion-detector-bricklet
+[submodule "Tinkerforge/motion-detector-v2-bricklet"]
+	path = Tinkerforge/motion-detector-v2-bricklet
+	url = https://github.com/Tinkerforge/motion-detector-v2-bricklet
+[submodule "Tinkerforge/motorized-linear-poti-bricklet"]
+	path = Tinkerforge/motorized-linear-poti-bricklet
+	url = https://github.com/Tinkerforge/motorized-linear-poti-bricklet
+[submodule "Tinkerforge/multi-touch-bricklet"]
+	path = Tinkerforge/multi-touch-bricklet
+	url = https://github.com/Tinkerforge/multi-touch-bricklet
+[submodule "Tinkerforge/multi-touch-v2-bricklet"]
+	path = Tinkerforge/multi-touch-v2-bricklet
+	url = https://github.com/Tinkerforge/multi-touch-v2-bricklet
+[submodule "Tinkerforge/nfc-bricklet"]
+	path = Tinkerforge/nfc-bricklet
+	url = https://github.com/Tinkerforge/nfc-bricklet
+[submodule "Tinkerforge/nfc-rfid-bricklet"]
+	path = Tinkerforge/nfc-rfid-bricklet
+	url = https://github.com/Tinkerforge/nfc-rfid-bricklet
+[submodule "Tinkerforge/o3-bricklet"]
+	path = Tinkerforge/o3-bricklet
+	url = https://github.com/Tinkerforge/o3-bricklet
+[submodule "Tinkerforge/oled-128x64-bricklet"]
+	path = Tinkerforge/oled-128x64-bricklet
+	url = https://github.com/Tinkerforge/oled-128x64-bricklet
+[submodule "Tinkerforge/oled-128x64-v2-bricklet"]
+	path = Tinkerforge/oled-128x64-v2-bricklet
+	url = https://github.com/Tinkerforge/oled-128x64-v2-bricklet
+[submodule "Tinkerforge/oled-64x48-bricklet"]
+	path = Tinkerforge/oled-64x48-bricklet
+	url = https://github.com/Tinkerforge/oled-64x48-bricklet
+[submodule "Tinkerforge/one-wire-bricklet"]
+	path = Tinkerforge/one-wire-bricklet
+	url = https://github.com/Tinkerforge/one-wire-bricklet
+[submodule "Tinkerforge/outdoor-weather-bricklet"]
+	path = Tinkerforge/outdoor-weather-bricklet
+	url = https://github.com/Tinkerforge/outdoor-weather-bricklet
+[submodule "Tinkerforge/ozone-bricklet"]
+	path = Tinkerforge/ozone-bricklet
+	url = https://github.com/Tinkerforge/ozone-bricklet
+[submodule "Tinkerforge/particulate-matter-bricklet"]
+	path = Tinkerforge/particulate-matter-bricklet
+	url = https://github.com/Tinkerforge/particulate-matter-bricklet
+[submodule "Tinkerforge/piezo-buzzer-bricklet"]
+	path = Tinkerforge/piezo-buzzer-bricklet
+	url = https://github.com/Tinkerforge/piezo-buzzer-bricklet
+[submodule "Tinkerforge/piezo-speaker-bricklet"]
+	path = Tinkerforge/piezo-speaker-bricklet
+	url = https://github.com/Tinkerforge/piezo-speaker-bricklet
+[submodule "Tinkerforge/piezo-speaker-v2-bricklet"]
+	path = Tinkerforge/piezo-speaker-v2-bricklet
+	url = https://github.com/Tinkerforge/piezo-speaker-v2-bricklet
+[submodule "Tinkerforge/power-supply-bricklet"]
+	path = Tinkerforge/power-supply-bricklet
+	url = https://github.com/Tinkerforge/power-supply-bricklet
+[submodule "Tinkerforge/pressure-bricklet"]
+	path = Tinkerforge/pressure-bricklet
+	url = https://github.com/Tinkerforge/pressure-bricklet
+[submodule "Tinkerforge/ptc-bricklet"]
+	path = Tinkerforge/ptc-bricklet
+	url = https://github.com/Tinkerforge/ptc-bricklet
+[submodule "Tinkerforge/ptc-v2-bricklet"]
+	path = Tinkerforge/ptc-v2-bricklet
+	url = https://github.com/Tinkerforge/ptc-v2-bricklet
+[submodule "Tinkerforge/real-time-clock-bricklet"]
+	path = Tinkerforge/real-time-clock-bricklet
+	url = https://github.com/Tinkerforge/real-time-clock-bricklet
+[submodule "Tinkerforge/real-time-clock-v2-bricklet"]
+	path = Tinkerforge/real-time-clock-v2-bricklet
+	url = https://github.com/Tinkerforge/real-time-clock-v2-bricklet
+[submodule "Tinkerforge/red-brick"]
+	path = Tinkerforge/red-brick
+	url = https://github.com/Tinkerforge/red-brick
+[submodule "Tinkerforge/remote-switch-v2-bricklet"]
+	path = Tinkerforge/remote-switch-v2-bricklet
+	url = https://github.com/Tinkerforge/remote-switch-v2-bricklet
+[submodule "Tinkerforge/rgb-led-matrix-v2-bricklet"]
+	path = Tinkerforge/rgb-led-matrix-v2-bricklet
+	url = https://github.com/Tinkerforge/rgb-led-matrix-v2-bricklet
+[submodule "Tinkerforge/rgb-led-v2-bricklet"]
+	path = Tinkerforge/rgb-led-v2-bricklet
+	url = https://github.com/Tinkerforge/rgb-led-v2-bricklet
+[submodule "Tinkerforge/rotary-encoder-bricklet"]
+	path = Tinkerforge/rotary-encoder-bricklet
+	url = https://github.com/Tinkerforge/rotary-encoder-bricklet
+[submodule "Tinkerforge/rotary-encoder-v2-bricklet"]
+	path = Tinkerforge/rotary-encoder-v2-bricklet
+	url = https://github.com/Tinkerforge/rotary-encoder-v2-bricklet
+[submodule "Tinkerforge/rotary-poti-bricklet"]
+	path = Tinkerforge/rotary-poti-bricklet
+	url = https://github.com/Tinkerforge/rotary-poti-bricklet
+[submodule "Tinkerforge/rotary-poti-v2-bricklet"]
+	path = Tinkerforge/rotary-poti-v2-bricklet
+	url = https://github.com/Tinkerforge/rotary-poti-v2-bricklet
+[submodule "Tinkerforge/rs232-bricklet"]
+	path = Tinkerforge/rs232-bricklet
+	url = https://github.com/Tinkerforge/rs232-bricklet
+[submodule "Tinkerforge/rs232-v2-bricklet"]
+	path = Tinkerforge/rs232-v2-bricklet
+	url = https://github.com/Tinkerforge/rs232-v2-bricklet
+[submodule "Tinkerforge/rs485-bricklet"]
+	path = Tinkerforge/rs485-bricklet
+	url = https://github.com/Tinkerforge/rs485-bricklet
+[submodule "Tinkerforge/servo-brick"]
+	path = Tinkerforge/servo-brick
+	url = https://github.com/Tinkerforge/servo-brick
+[submodule "Tinkerforge/servo-bricklet"]
+	path = Tinkerforge/servo-bricklet
+	url = https://github.com/Tinkerforge/servo-bricklet
+[submodule "Tinkerforge/silent-stepper-brick"]
+	path = Tinkerforge/silent-stepper-brick
+	url = https://github.com/Tinkerforge/silent-stepper-brick
+[submodule "Tinkerforge/silent-stepper-v2-bricklet"]
+	path = Tinkerforge/silent-stepper-v2-bricklet
+	url = https://github.com/Tinkerforge/silent-stepper-v2-bricklet
+[submodule "Tinkerforge/solid-state-relay-bricklet"]
+	path = Tinkerforge/solid-state-relay-bricklet
+	url = https://github.com/Tinkerforge/solid-state-relay-bricklet
+[submodule "Tinkerforge/solid-state-relay-v2-bricklet"]
+	path = Tinkerforge/solid-state-relay-v2-bricklet
+	url = https://github.com/Tinkerforge/solid-state-relay-v2-bricklet
+[submodule "Tinkerforge/sound-intensity-bricklet"]
+	path = Tinkerforge/sound-intensity-bricklet
+	url = https://github.com/Tinkerforge/sound-intensity-bricklet
+[submodule "Tinkerforge/sound-pressure-level-bricklet"]
+	path = Tinkerforge/sound-pressure-level-bricklet
+	url = https://github.com/Tinkerforge/sound-pressure-level-bricklet
+[submodule "Tinkerforge/step-down-powersupply"]
+	path = Tinkerforge/step-down-powersupply
+	url = https://github.com/Tinkerforge/step-down-powersupply
+[submodule "Tinkerforge/stepper-brick"]
+	path = Tinkerforge/stepper-brick
+	url = https://github.com/Tinkerforge/stepper-brick
+[submodule "Tinkerforge/temperature-bricklet"]
+	path = Tinkerforge/temperature-bricklet
+	url = https://github.com/Tinkerforge/temperature-bricklet
+[submodule "Tinkerforge/temperature-ir-bricklet"]
+	path = Tinkerforge/temperature-ir-bricklet
+	url = https://github.com/Tinkerforge/temperature-ir-bricklet
+[submodule "Tinkerforge/temperature-ir-v2-bricklet"]
+	path = Tinkerforge/temperature-ir-v2-bricklet
+	url = https://github.com/Tinkerforge/temperature-ir-v2-bricklet
+[submodule "Tinkerforge/temperature-v2-bricklet"]
+	path = Tinkerforge/temperature-v2-bricklet
+	url = https://github.com/Tinkerforge/temperature-v2-bricklet
+[submodule "Tinkerforge/thermocouple-v2-bricklet"]
+	path = Tinkerforge/thermocouple-v2-bricklet
+	url = https://github.com/Tinkerforge/thermocouple-v2-bricklet
+[submodule "Tinkerforge/uv-light-bricklet"]
+	path = Tinkerforge/uv-light-bricklet
+	url = https://github.com/Tinkerforge/uv-light-bricklet
+[submodule "Tinkerforge/uv-light-v2-bricklet"]
+	path = Tinkerforge/uv-light-v2-bricklet
+	url = https://github.com/Tinkerforge/uv-light-v2-bricklet
+[submodule "Tinkerforge/voltage-bricklet"]
+	path = Tinkerforge/voltage-bricklet
+	url = https://github.com/Tinkerforge/voltage-bricklet
+[submodule "Tinkerforge/voltage-current-bricklet"]
+	path = Tinkerforge/voltage-current-bricklet
+	url = https://github.com/Tinkerforge/voltage-current-bricklet
+[submodule "Tinkerforge/voltage-current-v2-bricklet"]
+	path = Tinkerforge/voltage-current-v2-bricklet
+	url = https://github.com/Tinkerforge/voltage-current-v2-bricklet
+[submodule "Tinkerforge/weather-station"]
+	path = Tinkerforge/weather-station
+	url = https://github.com/Tinkerforge/weather-station
+[submodule "Tinkerforge/wifi-v2-extension"]
+	path = Tinkerforge/wifi-v2-extension
+	url = https://github.com/Tinkerforge/wifi-v2-extension
+[submodule "Tinkerforge/xmc1400-breakout-bricklet"]
+	path = Tinkerforge/xmc1400-breakout-bricklet
+	url = https://github.com/Tinkerforge/xmc1400-breakout-bricklet
+[submodule "prusa3d/SL-LED-PCB"]
+	path = prusa3d/SL-LED-PCB
+	url = https://github.com/prusa3d/SL-LED-PCB.git
+[submodule "prusa3d/SL-USB-PCB"]
+	path = prusa3d/SL-USB-PCB
+	url = https://github.com/prusa3d/SL-USB-PCB.git
+[submodule "prusa3d/SL-PS-PCB"]
+	path = prusa3d/SL-PS-PCB
+	url = https://github.com/prusa3d/SL-PS-PCB.git
+[submodule "prusa3d/SL-UVcoin-sensor-PCB"]
+	path = prusa3d/SL-UVcoin-sensor-PCB
+	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
+[submodule "prusa3d/SL-CONTROLLER-PCB"]
+	path = prusa3d/SL-CONTROLLER-PCB
+	url = https://github.com/prusa3d/SL-CONTROLLER-PCB.git
+[submodule "prusa3d/CW-01-LED-PCB"]
+	path = prusa3d/CW-01-LED-PCB
+	url = https://github.com/prusa3d/CW-01-LED-PCB.git
+[submodule "prusa3d/MM-control-2.0"]
+	path = prusa3d/MM-control-2.0
+	url = https://github.com/prusa3d/MM-control-2.0.git
+[submodule "prusa3d/MKxS-IR-sensor"]
+	path = prusa3d/MKxS-IR-sensor
+	url = https://github.com/prusa3d/MKxS-IR-sensor.git
+[submodule "prusa3d/CW-CONTROLLER-PCB"]
+	path = prusa3d/CW-CONTROLLER-PCB
+	url = https://github.com/prusa3d/CW-CONTROLLER-PCB.git
+[submodule "prusa3d/IR-MH-sensor-PCB"]
+	path = prusa3d/IR-MH-sensor-PCB
+	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
+[submodule "freetronics/RELAY16MEGA"]
+	path = freetronics/RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+[submodule "freetronics/RELAYSHIELD16"]
+	path = freetronics/RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+[submodule "freetronics/USBSerial"]
+	path = freetronics/USBSerial
+	url = https://github.com/freetronics/USBSerial
+[submodule "dtnking/PCB-STM32F401CCT6_Development_Board"]
+	path = dtnking/PCB-STM32F401CCT6_Development_Board
+	url = https://github.com/dtnking/PCB-STM32F401CCT6_Development_Board.git
+[submodule "dtnking/Reflow-Oven"]
+	path = dtnking/Reflow-Oven
+	url = https://github.com/dtnking/Reflow-Oven.git
+[submodule "dtnking/Micro-USB-Connector"]
+	path = dtnking/Micro-USB-Connector
+	url = https://github.com/dtnking/Micro-USB-Connector.git
+[submodule "dtnking/PCB-RJ12"]
+	path = dtnking/PCB-RJ12
+	url = https://github.com/dtnking/PCB-RJ12.git
+[submodule "dtnking/STLINK_V2-1"]
+	path = dtnking/STLINK_V2-1
+	url = https://github.com/dtnking/STLINK_V2-1.git
+[submodule "svcguy/LoRaWAN-Feather-Hardware"]
+	path = svcguy/LoRaWAN-Feather-Hardware
+	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git

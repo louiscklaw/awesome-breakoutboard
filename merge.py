@@ -6,7 +6,7 @@
 import os, re, subprocess
 import slack
 
-from fabric.api import local, shell_env, lcd, run
+from fabric.api import local, shell_env, lcd, run, settings
 
 SLACK_TOKEN = os.environ['SLACK_TOKEN']
 
@@ -44,17 +44,14 @@ if (m == None ) :
   slack_message('skip merging for BUILD #{} `{}` from `{}` to `{}`'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
 
 else:
-  with(lcd(TEMP_DIR)):
+  with lcd(TEMP_DIR), settings(warn_only=True):
     with( shell_env( GIT_COMMITTER_EMAIL='travis@travis', GIT_COMMITTER_NAME='Travis CI' ) ):
       print('checkout {} branch'.format(BRANCH_TO_MERGE_INTO))
       run_command('git checkout {}'.format(BRANCH_TO_MERGE_INTO))
 
       print('Merging "{}"'.format(TRAVIS_COMMIT))
       result_to_check = run_command('git merge --ff-only "{}"'.format(TRAVIS_COMMIT))
-      if any([
-        result_to_check.lower().find('error') > -1,
-        result_to_check.lower().find('abort') > -1,
-      ]):
+      if result_to_check.failed:
         slack_message('error found during merging BUILD{} `{}` from `{}` to `{}`'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
       else:
         slack_message('merging BUILD{} from {} `{}` to `{}` done'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
