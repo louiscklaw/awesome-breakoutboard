@@ -1810,3 +1810,6 @@
 [submodule "96boards/documentation"]
 	path = 96boards/documentation
 	url = https://github.com/96boards/documentation.git
+[submodule "mysensors/SensebenderMicro"]
+	path = mysensors/SensebenderMicro
+	url = https://github.com/mysensors/SensebenderMicro.git
