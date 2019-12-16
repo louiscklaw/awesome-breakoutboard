@@ -595,3 +595,21 @@
 [submodule "svcguy/LoRaWAN-Feather-Hardware"]
 	path = svcguy/LoRaWAN-Feather-Hardware
 	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
+[submodule "fablabcn/smartcitizen-enclosures"]
+	path = fablabcn/smartcitizen-enclosures
+	url = https://github.com/fablabbcn/smartcitizen-enclosures.git
+[submodule "fablabcn/smartcitizen-kit-10"]
+	path = fablabcn/smartcitizen-kit-10
+	url = https://github.com/fablabbcn/smartcitizen-kit-10.git
+[submodule "fablabcn/smartcitizen-kit-20"]
+	path = fablabcn/smartcitizen-kit-20
+	url = https://github.com/fablabbcn/smartcitizen-kit-20.git
+[submodule "fablabcn/smartcitizen-kit-21"]
+	path = fablabcn/smartcitizen-kit-21
+	url = https://github.com/fablabbcn/smartcitizen-kit-21.git
+[submodule "fablabcn/smartcitizen-kit-gases-pro-board"]
+	path = fablabcn/smartcitizen-kit-gases-pro-board
+	url = https://github.com/fablabbcn/smartcitizen-kit-gases-pro-board.git
+[submodule "fablabcn/smartcitizen-kit-pm-board"]
+	path = fablabcn/smartcitizen-kit-pm-board
+	url = https://github.com/fablabbcn/smartcitizen-kit-pm-board.git
