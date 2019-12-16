@@ -1585,3 +1585,6 @@
 [submodule "adafruit/cookiecutter-adafruit-pcb"]
 	path = adafruit/cookiecutter-adafruit-pcb
 	url = https://github.com/adafruit/cookiecutter-adafruit-pcb
+[submodule "m5stack/M5-Schematic"]
+	path = m5stack/M5-Schematic
+	url = git@github.com:m5stack/M5-Schematic.git
