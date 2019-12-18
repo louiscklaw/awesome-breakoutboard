@@ -3,7 +3,7 @@
 import os, sys
 
 submodule_path = []
-cwd = os.path.dirname(__file__)
+cwd = os.path.dirname(os.path.abspath(__file__))
 gitmodules_path = os.path.sep.join([cwd,'..','.gitmodules'])
 
 with open(gitmodules_path, 'r') as fi:
