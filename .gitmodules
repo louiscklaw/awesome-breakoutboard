@@ -1,45 +1,2380 @@
+[submodule "sparkfun/32U4_Breakout_Board"]
+	path = sparkfun/32U4_Breakout_Board
+	url = https://github.com/sparkfun/32U4_Breakout_Board
+	shallow = true
+[submodule "sparkfun/BMP085_Breakout"]
+	path = sparkfun/BMP085_Breakout
+	url = https://github.com/sparkfun/BMP085_Breakout
+	shallow = true
+[submodule "sparkfun/CP2102_Breakout"]
+	path = sparkfun/CP2102_Breakout
+	url = https://github.com/sparkfun/CP2102_Breakout
+	shallow = true
+[submodule "sparkfun/ESP32_LoRa_1Ch_Gateway"]
+	path = sparkfun/ESP32_LoRa_1Ch_Gateway
+	url = https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway
+	shallow = true
+[submodule "sparkfun/ESP32_Power_Control_Shield"]
+	path = sparkfun/ESP32_Power_Control_Shield
+	url = https://github.com/sparkfun/ESP32_Power_Control_Shield
+	shallow = true
+[submodule "sparkfun/ESP8266_Thing"]
+	path = sparkfun/ESP8266_Thing
+	url = https://github.com/sparkfun/ESP8266_Thing
+	shallow = true
+[submodule "sparkfun/ESP8266_Thing_Dev"]
+	path = sparkfun/ESP8266_Thing_Dev
+	url = https://github.com/sparkfun/ESP8266_Thing_Dev
+	shallow = true
+[submodule "sparkfun/GPS_Breakout"]
+	path = sparkfun/GPS_Breakout
+	url = https://github.com/sparkfun/GPS_Breakout
+	shallow = true
+[submodule "sparkfun/LCD_TFT_Breakout_1in8_128x160"]
+	path = sparkfun/LCD_TFT_Breakout_1in8_128x160
+	url = https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160
+	shallow = true
+[submodule "sparkfun/SD-MMC_Breakout"]
+	path = sparkfun/SD-MMC_Breakout
+	url = https://github.com/sparkfun/SD-MMC_Breakout
+	shallow = true
+[submodule "raphaelchang/dragonquad-hardware"]
+	path = raphaelchang/dragonquad-hardware
+	url = https://github.com/raphaelchang/dragonquad-hardware.git
+	shallow = true
+[submodule "OLIMEX/NB-IoT"]
+	path = OLIMEX/NB-IoT
+	url = https://github.com/OLIMEX/NB-IoT
+	shallow = true
+[submodule "OLIMEX/OLIMEXINO-2560"]
+	path = OLIMEX/OLIMEXINO-2560
+	url = https://github.com/OLIMEX/OLIMEXINO-2560
+	shallow = true
+[submodule "BPI-SINOVOIP/BPI-Schematics"]
+	path = BPI-SINOVOIP/BPI-Schematics
+	url = https://github.com/BPI-SINOVOIP/BPI-Schematics
+	shallow = true
+[submodule "Tinkerforge/ac-current-bricklet"]
+	path = Tinkerforge/ac-current-bricklet
+	url = https://github.com/Tinkerforge/ac-current-bricklet
+	shallow = true
+[submodule "Tinkerforge/accelerometer-bricklet"]
+	path = Tinkerforge/accelerometer-bricklet
+	url = https://github.com/Tinkerforge/accelerometer-bricklet
+	shallow = true
+[submodule "Tinkerforge/accelerometer-v2-bricklet"]
+	path = Tinkerforge/accelerometer-v2-bricklet
+	url = https://github.com/Tinkerforge/accelerometer-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/adapter-xmc-flash"]
+	path = Tinkerforge/adapter-xmc-flash
+	url = https://github.com/Tinkerforge/adapter-xmc-flash
+	shallow = true
+[submodule "Tinkerforge/air-quality-bricklet"]
+	path = Tinkerforge/air-quality-bricklet
+	url = https://github.com/Tinkerforge/air-quality-bricklet
+	shallow = true
+[submodule "Tinkerforge/ambient-light-bricklet"]
+	path = Tinkerforge/ambient-light-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-bricklet
+	shallow = true
+[submodule "Tinkerforge/ambient-light-v2-bricklet"]
+	path = Tinkerforge/ambient-light-v2-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/ambient-light-v3-bricklet"]
+	path = Tinkerforge/ambient-light-v3-bricklet
+	url = https://github.com/Tinkerforge/ambient-light-v3-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-in-bricklet"]
+	path = Tinkerforge/analog-in-bricklet
+	url = https://github.com/Tinkerforge/analog-in-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-in-v2-bricklet"]
+	path = Tinkerforge/analog-in-v2-bricklet
+	url = https://github.com/Tinkerforge/analog-in-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-in-v3-bricklet"]
+	path = Tinkerforge/analog-in-v3-bricklet
+	url = https://github.com/Tinkerforge/analog-in-v3-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-out-bricklet"]
+	path = Tinkerforge/analog-out-bricklet
+	url = https://github.com/Tinkerforge/analog-out-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-out-v2-bricklet"]
+	path = Tinkerforge/analog-out-v2-bricklet
+	url = https://github.com/Tinkerforge/analog-out-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/analog-out-v3-bricklet"]
+	path = Tinkerforge/analog-out-v3-bricklet
+	url = https://github.com/Tinkerforge/analog-out-v3-bricklet
+	shallow = true
+[submodule "Tinkerforge/barometer-bricklet"]
+	path = Tinkerforge/barometer-bricklet
+	url = https://github.com/Tinkerforge/barometer-bricklet
+	shallow = true
+[submodule "Tinkerforge/barometer-v2-bricklet"]
+	path = Tinkerforge/barometer-v2-bricklet
+	url = https://github.com/Tinkerforge/barometer-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/battery-holder"]
+	path = Tinkerforge/battery-holder
+	url = https://github.com/Tinkerforge/battery-holder
+	shallow = true
+[submodule "Tinkerforge/blinkenlights"]
+	path = Tinkerforge/blinkenlights
+	url = https://github.com/Tinkerforge/blinkenlights
+	shallow = true
+[submodule "Tinkerforge/bootstrapper_xmc"]
+	path = Tinkerforge/bootstrapper_xmc
+	url = https://github.com/Tinkerforge/bootstrapper_xmc
+	shallow = true
+[submodule "Tinkerforge/breakout_xmc1300"]
+	path = Tinkerforge/breakout_xmc1300
+	url = https://github.com/Tinkerforge/breakout_xmc1300
+	shallow = true
+[submodule "Tinkerforge/breakout-brick"]
+	path = Tinkerforge/breakout-brick
+	url = https://github.com/Tinkerforge/breakout-brick
+	shallow = true
+[submodule "Tinkerforge/breakout-bricklet"]
+	path = Tinkerforge/breakout-bricklet
+	url = https://github.com/Tinkerforge/breakout-bricklet
+	shallow = true
+[submodule "Tinkerforge/breakout-v2-bricklet"]
+	path = Tinkerforge/breakout-v2-bricklet
+	url = https://github.com/Tinkerforge/breakout-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/brick-mqtt-proxy"]
+	path = Tinkerforge/brick-mqtt-proxy
+	url = https://github.com/Tinkerforge/brick-mqtt-proxy
+	shallow = true
+[submodule "Tinkerforge/brickboot"]
+	path = Tinkerforge/brickboot
+	url = https://github.com/Tinkerforge/brickboot
+	shallow = true
+[submodule "Tinkerforge/brickd"]
+	path = Tinkerforge/brickd
+	url = https://github.com/Tinkerforge/brickd
+	shallow = true
+[submodule "Tinkerforge/brickletboot_samd"]
+	path = Tinkerforge/brickletboot_samd
+	url = https://github.com/Tinkerforge/brickletboot_samd
+	shallow = true
+[submodule "Tinkerforge/brickletboot_xmc"]
+	path = Tinkerforge/brickletboot_xmc
+	url = https://github.com/Tinkerforge/brickletboot_xmc
+	shallow = true
+[submodule "Tinkerforge/brickletlib"]
+	path = Tinkerforge/brickletlib
+	url = https://github.com/Tinkerforge/brickletlib
+	shallow = true
+[submodule "Tinkerforge/bricklib"]
+	path = Tinkerforge/bricklib
+	url = https://github.com/Tinkerforge/bricklib
+	shallow = true
+[submodule "Tinkerforge/bricklib2"]
+	path = Tinkerforge/bricklib2
+	url = https://github.com/Tinkerforge/bricklib2
+	shallow = true
+[submodule "Tinkerforge/brickv"]
+	path = Tinkerforge/brickv
+	url = https://github.com/Tinkerforge/brickv
+	shallow = true
+[submodule "Tinkerforge/brickv.com"]
+	path = Tinkerforge/brickv.com
+	url = https://github.com/Tinkerforge/brickv.com
+	shallow = true
+[submodule "Tinkerforge/camera-slider"]
+	path = Tinkerforge/camera-slider
+	url = https://github.com/Tinkerforge/camera-slider
+	shallow = true
+[submodule "Tinkerforge/can-bricklet"]
+	path = Tinkerforge/can-bricklet
+	url = https://github.com/Tinkerforge/can-bricklet
+	shallow = true
+[submodule "Tinkerforge/can-v2-bricklet"]
+	path = Tinkerforge/can-v2-bricklet
+	url = https://github.com/Tinkerforge/can-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/cases"]
+	path = Tinkerforge/cases
+	url = https://github.com/Tinkerforge/cases
+	shallow = true
+[submodule "Tinkerforge/chibi-extension"]
+	path = Tinkerforge/chibi-extension
+	url = https://github.com/Tinkerforge/chibi-extension
+	shallow = true
+[submodule "Tinkerforge/co2-bricklet"]
+	path = Tinkerforge/co2-bricklet
+	url = https://github.com/Tinkerforge/co2-bricklet
+	shallow = true
+[submodule "Tinkerforge/co2-v2-bricklet"]
+	path = Tinkerforge/co2-v2-bricklet
+	url = https://github.com/Tinkerforge/co2-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/color-bricklet"]
+	path = Tinkerforge/color-bricklet
+	url = https://github.com/Tinkerforge/color-bricklet
+	shallow = true
+[submodule "Tinkerforge/color-v2-bricklet"]
+	path = Tinkerforge/color-v2-bricklet
+	url = https://github.com/Tinkerforge/color-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/compass-bricklet"]
+	path = Tinkerforge/compass-bricklet
+	url = https://github.com/Tinkerforge/compass-bricklet
+	shallow = true
+[submodule "Tinkerforge/current12-bricklet"]
+	path = Tinkerforge/current12-bricklet
+	url = https://github.com/Tinkerforge/current12-bricklet
+	shallow = true
+[submodule "Tinkerforge/current25-bricklet"]
+	path = Tinkerforge/current25-bricklet
+	url = https://github.com/Tinkerforge/current25-bricklet
+	shallow = true
+[submodule "Tinkerforge/daemonlib"]
+	path = Tinkerforge/daemonlib
+	url = https://github.com/Tinkerforge/daemonlib
+	shallow = true
+[submodule "Tinkerforge/dc-adapter"]
+	path = Tinkerforge/dc-adapter
+	url = https://github.com/Tinkerforge/dc-adapter
+	shallow = true
+[submodule "Tinkerforge/dc-brick"]
+	path = Tinkerforge/dc-brick
+	url = https://github.com/Tinkerforge/dc-brick
+	shallow = true
+[submodule "Tinkerforge/dc-bricklet"]
+	path = Tinkerforge/dc-bricklet
+	url = https://github.com/Tinkerforge/dc-bricklet
+	shallow = true
+[submodule "Tinkerforge/debug-brick"]
+	path = Tinkerforge/debug-brick
+	url = https://github.com/Tinkerforge/debug-brick
+	shallow = true
+[submodule "Tinkerforge/distance-ir-bricklet"]
+	path = Tinkerforge/distance-ir-bricklet
+	url = https://github.com/Tinkerforge/distance-ir-bricklet
+	shallow = true
+[submodule "Tinkerforge/distance-ir-v2-bricklet"]
+	path = Tinkerforge/distance-ir-v2-bricklet
+	url = https://github.com/Tinkerforge/distance-ir-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/distance-us-bricklet"]
+	path = Tinkerforge/distance-us-bricklet
+	url = https://github.com/Tinkerforge/distance-us-bricklet
+	shallow = true
+[submodule "Tinkerforge/distance-us-v2-bricklet"]
+	path = Tinkerforge/distance-us-v2-bricklet
+	url = https://github.com/Tinkerforge/distance-us-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/distance-us-v2-bricklet-techniker"]
+	path = Tinkerforge/distance-us-v2-bricklet-techniker
+	url = https://github.com/Tinkerforge/distance-us-v2-bricklet-techniker
+	shallow = true
+[submodule "Tinkerforge/dmx-bricklet"]
+	path = Tinkerforge/dmx-bricklet
+	url = https://github.com/Tinkerforge/dmx-bricklet
+	shallow = true
+[submodule "Tinkerforge/dual-button-bricklet"]
+	path = Tinkerforge/dual-button-bricklet
+	url = https://github.com/Tinkerforge/dual-button-bricklet
+	shallow = true
+[submodule "Tinkerforge/dual-button-v2-bricklet"]
+	path = Tinkerforge/dual-button-v2-bricklet
+	url = https://github.com/Tinkerforge/dual-button-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/dual-relay-bricklet"]
+	path = Tinkerforge/dual-relay-bricklet
+	url = https://github.com/Tinkerforge/dual-relay-bricklet
+	shallow = true
+[submodule "Tinkerforge/dust-detector-bricklet"]
+	path = Tinkerforge/dust-detector-bricklet
+	url = https://github.com/Tinkerforge/dust-detector-bricklet
+	shallow = true
+[submodule "Tinkerforge/e-paper-296x128-bricklet"]
+	path = Tinkerforge/e-paper-296x128-bricklet
+	url = https://github.com/Tinkerforge/e-paper-296x128-bricklet
+	shallow = true
+[submodule "Tinkerforge/energy-monitor-bricklet"]
+	path = Tinkerforge/energy-monitor-bricklet
+	url = https://github.com/Tinkerforge/energy-monitor-bricklet
+	shallow = true
+[submodule "Tinkerforge/ethernet-extension"]
+	path = Tinkerforge/ethernet-extension
+	url = https://github.com/Tinkerforge/ethernet-extension
+	shallow = true
+[submodule "Tinkerforge/fingerprint-bricklet"]
+	path = Tinkerforge/fingerprint-bricklet
+	url = https://github.com/Tinkerforge/fingerprint-bricklet
+	shallow = true
+[submodule "Tinkerforge/gas-bricklet"]
+	path = Tinkerforge/gas-bricklet
+	url = https://github.com/Tinkerforge/gas-bricklet
+	shallow = true
+[submodule "Tinkerforge/gas-detector-bricklet"]
+	path = Tinkerforge/gas-detector-bricklet
+	url = https://github.com/Tinkerforge/gas-detector-bricklet
+	shallow = true
+[submodule "Tinkerforge/gps-bricklet"]
+	path = Tinkerforge/gps-bricklet
+	url = https://github.com/Tinkerforge/gps-bricklet
+	shallow = true
+[submodule "Tinkerforge/gps-v2-bricklet"]
+	path = Tinkerforge/gps-v2-bricklet
+	url = https://github.com/Tinkerforge/gps-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/hall-effect-bricklet"]
+	path = Tinkerforge/hall-effect-bricklet
+	url = https://github.com/Tinkerforge/hall-effect-bricklet
+	shallow = true
+[submodule "Tinkerforge/hall-effect-v2-bricklet"]
+	path = Tinkerforge/hall-effect-v2-bricklet
+	url = https://github.com/Tinkerforge/hall-effect-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/humidity-bricklet"]
+	path = Tinkerforge/humidity-bricklet
+	url = https://github.com/Tinkerforge/humidity-bricklet
+	shallow = true
+[submodule "Tinkerforge/humidity-v2-bricklet"]
+	path = Tinkerforge/humidity-v2-bricklet
+	url = https://github.com/Tinkerforge/humidity-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-analog-out-bricklet"]
+	path = Tinkerforge/industrial-analog-out-bricklet
+	url = https://github.com/Tinkerforge/industrial-analog-out-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-analog-out-v2-bricklet"]
+	path = Tinkerforge/industrial-analog-out-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-analog-out-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-counter-bricklet"]
+	path = Tinkerforge/industrial-counter-bricklet
+	url = https://github.com/Tinkerforge/industrial-counter-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-digital-in-4-bricklet"]
+	path = Tinkerforge/industrial-digital-in-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-in-4-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-digital-in-4-v2-bricklet"]
+	path = Tinkerforge/industrial-digital-in-4-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-in-4-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-digital-out-4-bricklet"]
+	path = Tinkerforge/industrial-digital-out-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-4-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-digital-out-4-v2-bricklet"]
+	path = Tinkerforge/industrial-digital-out-4-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-4-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-digital-out-hs-4-bricklet"]
+	path = Tinkerforge/industrial-digital-out-hs-4-bricklet
+	url = https://github.com/Tinkerforge/industrial-digital-out-hs-4-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-dual-0-20ma-bricklet"]
+	path = Tinkerforge/industrial-dual-0-20ma-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-0-20ma-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-dual-0-20ma-v2-bricklet"]
+	path = Tinkerforge/industrial-dual-0-20ma-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-0-20ma-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-dual-analog-in-bricklet"]
+	path = Tinkerforge/industrial-dual-analog-in-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-analog-in-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-dual-analog-in-v2-bricklet"]
+	path = Tinkerforge/industrial-dual-analog-in-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-analog-in-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-dual-relay-bricklet"]
+	path = Tinkerforge/industrial-dual-relay-bricklet
+	url = https://github.com/Tinkerforge/industrial-dual-relay-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-encoder-bricklet"]
+	path = Tinkerforge/industrial-encoder-bricklet
+	url = https://github.com/Tinkerforge/industrial-encoder-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-push-pull-bricklet"]
+	path = Tinkerforge/industrial-push-pull-bricklet
+	url = https://github.com/Tinkerforge/industrial-push-pull-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-quad-relay-bricklet"]
+	path = Tinkerforge/industrial-quad-relay-bricklet
+	url = https://github.com/Tinkerforge/industrial-quad-relay-bricklet
+	shallow = true
+[submodule "Tinkerforge/industrial-quad-relay-v2-bricklet"]
+	path = Tinkerforge/industrial-quad-relay-v2-bricklet
+	url = https://github.com/Tinkerforge/industrial-quad-relay-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/internet-of-things"]
+	path = Tinkerforge/internet-of-things
+	url = https://github.com/Tinkerforge/internet-of-things
+	shallow = true
+[submodule "Tinkerforge/joystick-bricklet"]
+	path = Tinkerforge/joystick-bricklet
+	url = https://github.com/Tinkerforge/joystick-bricklet
+	shallow = true
+[submodule "Tinkerforge/joystick-v2-bricklet"]
+	path = Tinkerforge/joystick-v2-bricklet
+	url = https://github.com/Tinkerforge/joystick-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/laser-range-finder-bricklet"]
+	path = Tinkerforge/laser-range-finder-bricklet
+	url = https://github.com/Tinkerforge/laser-range-finder-bricklet
+	shallow = true
+[submodule "Tinkerforge/laser-range-finder-v2-bricklet"]
+	path = Tinkerforge/laser-range-finder-v2-bricklet
+	url = https://github.com/Tinkerforge/laser-range-finder-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/lcd-128x64-bricklet"]
+	path = Tinkerforge/lcd-128x64-bricklet
+	url = https://github.com/Tinkerforge/lcd-128x64-bricklet
+	shallow = true
+[submodule "Tinkerforge/lcd-16x2-bricklet"]
+	path = Tinkerforge/lcd-16x2-bricklet
+	url = https://github.com/Tinkerforge/lcd-16x2-bricklet
+	shallow = true
+[submodule "Tinkerforge/lcd-20x4-bricklet"]
+	path = Tinkerforge/lcd-20x4-bricklet
+	url = https://github.com/Tinkerforge/lcd-20x4-bricklet
+	shallow = true
+[submodule "Tinkerforge/led-strip-bricklet"]
+	path = Tinkerforge/led-strip-bricklet
+	url = https://github.com/Tinkerforge/led-strip-bricklet
+	shallow = true
+[submodule "Tinkerforge/led-strip-v2-bricklet"]
+	path = Tinkerforge/led-strip-v2-bricklet
+	url = https://github.com/Tinkerforge/led-strip-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/line-bricklet"]
+	path = Tinkerforge/line-bricklet
+	url = https://github.com/Tinkerforge/line-bricklet
+	shallow = true
+[submodule "Tinkerforge/linear-poti-bricklet"]
+	path = Tinkerforge/linear-poti-bricklet
+	url = https://github.com/Tinkerforge/linear-poti-bricklet
+	shallow = true
+[submodule "Tinkerforge/linear-poti-v2-bricklet"]
+	path = Tinkerforge/linear-poti-v2-bricklet
+	url = https://github.com/Tinkerforge/linear-poti-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/load-cell-bricklet"]
+	path = Tinkerforge/load-cell-bricklet
+	url = https://github.com/Tinkerforge/load-cell-bricklet
+	shallow = true
+[submodule "Tinkerforge/load-cell-v2-bricklet"]
+	path = Tinkerforge/load-cell-v2-bricklet
+	url = https://github.com/Tinkerforge/load-cell-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/master-brick"]
+	path = Tinkerforge/master-brick
+	url = https://github.com/Tinkerforge/master-brick
+	shallow = true
+[submodule "Tinkerforge/midi-bricklet"]
+	path = Tinkerforge/midi-bricklet
+	url = https://github.com/Tinkerforge/midi-bricklet
+	shallow = true
+[submodule "Tinkerforge/moisture-bricklet"]
+	path = Tinkerforge/moisture-bricklet
+	url = https://github.com/Tinkerforge/moisture-bricklet
+	shallow = true
+[submodule "Tinkerforge/moisture-v2-bricklet"]
+	path = Tinkerforge/moisture-v2-bricklet
+	url = https://github.com/Tinkerforge/moisture-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/motion-detector-bricklet"]
+	path = Tinkerforge/motion-detector-bricklet
+	url = https://github.com/Tinkerforge/motion-detector-bricklet
+	shallow = true
+[submodule "Tinkerforge/motion-detector-v2-bricklet"]
+	path = Tinkerforge/motion-detector-v2-bricklet
+	url = https://github.com/Tinkerforge/motion-detector-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/motorized-linear-poti-bricklet"]
+	path = Tinkerforge/motorized-linear-poti-bricklet
+	url = https://github.com/Tinkerforge/motorized-linear-poti-bricklet
+	shallow = true
+[submodule "Tinkerforge/multi-touch-bricklet"]
+	path = Tinkerforge/multi-touch-bricklet
+	url = https://github.com/Tinkerforge/multi-touch-bricklet
+	shallow = true
+[submodule "Tinkerforge/multi-touch-v2-bricklet"]
+	path = Tinkerforge/multi-touch-v2-bricklet
+	url = https://github.com/Tinkerforge/multi-touch-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/nfc-bricklet"]
+	path = Tinkerforge/nfc-bricklet
+	url = https://github.com/Tinkerforge/nfc-bricklet
+	shallow = true
+[submodule "Tinkerforge/nfc-rfid-bricklet"]
+	path = Tinkerforge/nfc-rfid-bricklet
+	url = https://github.com/Tinkerforge/nfc-rfid-bricklet
+	shallow = true
+[submodule "Tinkerforge/o3-bricklet"]
+	path = Tinkerforge/o3-bricklet
+	url = https://github.com/Tinkerforge/o3-bricklet
+	shallow = true
+[submodule "Tinkerforge/oled-128x64-bricklet"]
+	path = Tinkerforge/oled-128x64-bricklet
+	url = https://github.com/Tinkerforge/oled-128x64-bricklet
+	shallow = true
+[submodule "Tinkerforge/oled-128x64-v2-bricklet"]
+	path = Tinkerforge/oled-128x64-v2-bricklet
+	url = https://github.com/Tinkerforge/oled-128x64-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/oled-64x48-bricklet"]
+	path = Tinkerforge/oled-64x48-bricklet
+	url = https://github.com/Tinkerforge/oled-64x48-bricklet
+	shallow = true
+[submodule "Tinkerforge/one-wire-bricklet"]
+	path = Tinkerforge/one-wire-bricklet
+	url = https://github.com/Tinkerforge/one-wire-bricklet
+	shallow = true
+[submodule "Tinkerforge/outdoor-weather-bricklet"]
+	path = Tinkerforge/outdoor-weather-bricklet
+	url = https://github.com/Tinkerforge/outdoor-weather-bricklet
+	shallow = true
+[submodule "Tinkerforge/ozone-bricklet"]
+	path = Tinkerforge/ozone-bricklet
+	url = https://github.com/Tinkerforge/ozone-bricklet
+	shallow = true
+[submodule "Tinkerforge/particulate-matter-bricklet"]
+	path = Tinkerforge/particulate-matter-bricklet
+	url = https://github.com/Tinkerforge/particulate-matter-bricklet
+	shallow = true
+[submodule "Tinkerforge/piezo-buzzer-bricklet"]
+	path = Tinkerforge/piezo-buzzer-bricklet
+	url = https://github.com/Tinkerforge/piezo-buzzer-bricklet
+	shallow = true
+[submodule "Tinkerforge/piezo-speaker-bricklet"]
+	path = Tinkerforge/piezo-speaker-bricklet
+	url = https://github.com/Tinkerforge/piezo-speaker-bricklet
+	shallow = true
+[submodule "Tinkerforge/piezo-speaker-v2-bricklet"]
+	path = Tinkerforge/piezo-speaker-v2-bricklet
+	url = https://github.com/Tinkerforge/piezo-speaker-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/power-supply-bricklet"]
+	path = Tinkerforge/power-supply-bricklet
+	url = https://github.com/Tinkerforge/power-supply-bricklet
+	shallow = true
+[submodule "Tinkerforge/pressure-bricklet"]
+	path = Tinkerforge/pressure-bricklet
+	url = https://github.com/Tinkerforge/pressure-bricklet
+	shallow = true
+[submodule "Tinkerforge/ptc-bricklet"]
+	path = Tinkerforge/ptc-bricklet
+	url = https://github.com/Tinkerforge/ptc-bricklet
+	shallow = true
+[submodule "Tinkerforge/ptc-v2-bricklet"]
+	path = Tinkerforge/ptc-v2-bricklet
+	url = https://github.com/Tinkerforge/ptc-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/real-time-clock-bricklet"]
+	path = Tinkerforge/real-time-clock-bricklet
+	url = https://github.com/Tinkerforge/real-time-clock-bricklet
+	shallow = true
+[submodule "Tinkerforge/real-time-clock-v2-bricklet"]
+	path = Tinkerforge/real-time-clock-v2-bricklet
+	url = https://github.com/Tinkerforge/real-time-clock-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/red-brick"]
+	path = Tinkerforge/red-brick
+	url = https://github.com/Tinkerforge/red-brick
+	shallow = true
+[submodule "Tinkerforge/remote-switch-v2-bricklet"]
+	path = Tinkerforge/remote-switch-v2-bricklet
+	url = https://github.com/Tinkerforge/remote-switch-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rgb-led-matrix-v2-bricklet"]
+	path = Tinkerforge/rgb-led-matrix-v2-bricklet
+	url = https://github.com/Tinkerforge/rgb-led-matrix-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rgb-led-v2-bricklet"]
+	path = Tinkerforge/rgb-led-v2-bricklet
+	url = https://github.com/Tinkerforge/rgb-led-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rotary-encoder-bricklet"]
+	path = Tinkerforge/rotary-encoder-bricklet
+	url = https://github.com/Tinkerforge/rotary-encoder-bricklet
+	shallow = true
+[submodule "Tinkerforge/rotary-encoder-v2-bricklet"]
+	path = Tinkerforge/rotary-encoder-v2-bricklet
+	url = https://github.com/Tinkerforge/rotary-encoder-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rotary-poti-bricklet"]
+	path = Tinkerforge/rotary-poti-bricklet
+	url = https://github.com/Tinkerforge/rotary-poti-bricklet
+	shallow = true
+[submodule "Tinkerforge/rotary-poti-v2-bricklet"]
+	path = Tinkerforge/rotary-poti-v2-bricklet
+	url = https://github.com/Tinkerforge/rotary-poti-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rs232-bricklet"]
+	path = Tinkerforge/rs232-bricklet
+	url = https://github.com/Tinkerforge/rs232-bricklet
+	shallow = true
+[submodule "Tinkerforge/rs232-v2-bricklet"]
+	path = Tinkerforge/rs232-v2-bricklet
+	url = https://github.com/Tinkerforge/rs232-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/rs485-bricklet"]
+	path = Tinkerforge/rs485-bricklet
+	url = https://github.com/Tinkerforge/rs485-bricklet
+	shallow = true
+[submodule "Tinkerforge/servo-brick"]
+	path = Tinkerforge/servo-brick
+	url = https://github.com/Tinkerforge/servo-brick
+	shallow = true
+[submodule "Tinkerforge/servo-bricklet"]
+	path = Tinkerforge/servo-bricklet
+	url = https://github.com/Tinkerforge/servo-bricklet
+	shallow = true
+[submodule "Tinkerforge/silent-stepper-brick"]
+	path = Tinkerforge/silent-stepper-brick
+	url = https://github.com/Tinkerforge/silent-stepper-brick
+	shallow = true
+[submodule "Tinkerforge/silent-stepper-v2-bricklet"]
+	path = Tinkerforge/silent-stepper-v2-bricklet
+	url = https://github.com/Tinkerforge/silent-stepper-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/solid-state-relay-bricklet"]
+	path = Tinkerforge/solid-state-relay-bricklet
+	url = https://github.com/Tinkerforge/solid-state-relay-bricklet
+	shallow = true
+[submodule "Tinkerforge/solid-state-relay-v2-bricklet"]
+	path = Tinkerforge/solid-state-relay-v2-bricklet
+	url = https://github.com/Tinkerforge/solid-state-relay-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/sound-intensity-bricklet"]
+	path = Tinkerforge/sound-intensity-bricklet
+	url = https://github.com/Tinkerforge/sound-intensity-bricklet
+	shallow = true
+[submodule "Tinkerforge/sound-pressure-level-bricklet"]
+	path = Tinkerforge/sound-pressure-level-bricklet
+	url = https://github.com/Tinkerforge/sound-pressure-level-bricklet
+	shallow = true
+[submodule "Tinkerforge/step-down-powersupply"]
+	path = Tinkerforge/step-down-powersupply
+	url = https://github.com/Tinkerforge/step-down-powersupply
+	shallow = true
+[submodule "Tinkerforge/stepper-brick"]
+	path = Tinkerforge/stepper-brick
+	url = https://github.com/Tinkerforge/stepper-brick
+	shallow = true
+[submodule "Tinkerforge/temperature-bricklet"]
+	path = Tinkerforge/temperature-bricklet
+	url = https://github.com/Tinkerforge/temperature-bricklet
+	shallow = true
+[submodule "Tinkerforge/temperature-ir-bricklet"]
+	path = Tinkerforge/temperature-ir-bricklet
+	url = https://github.com/Tinkerforge/temperature-ir-bricklet
+	shallow = true
+[submodule "Tinkerforge/temperature-ir-v2-bricklet"]
+	path = Tinkerforge/temperature-ir-v2-bricklet
+	url = https://github.com/Tinkerforge/temperature-ir-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/temperature-v2-bricklet"]
+	path = Tinkerforge/temperature-v2-bricklet
+	url = https://github.com/Tinkerforge/temperature-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/thermocouple-v2-bricklet"]
+	path = Tinkerforge/thermocouple-v2-bricklet
+	url = https://github.com/Tinkerforge/thermocouple-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/uv-light-bricklet"]
+	path = Tinkerforge/uv-light-bricklet
+	url = https://github.com/Tinkerforge/uv-light-bricklet
+	shallow = true
+[submodule "Tinkerforge/uv-light-v2-bricklet"]
+	path = Tinkerforge/uv-light-v2-bricklet
+	url = https://github.com/Tinkerforge/uv-light-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/voltage-bricklet"]
+	path = Tinkerforge/voltage-bricklet
+	url = https://github.com/Tinkerforge/voltage-bricklet
+	shallow = true
+[submodule "Tinkerforge/voltage-current-bricklet"]
+	path = Tinkerforge/voltage-current-bricklet
+	url = https://github.com/Tinkerforge/voltage-current-bricklet
+	shallow = true
+[submodule "Tinkerforge/voltage-current-v2-bricklet"]
+	path = Tinkerforge/voltage-current-v2-bricklet
+	url = https://github.com/Tinkerforge/voltage-current-v2-bricklet
+	shallow = true
+[submodule "Tinkerforge/weather-station"]
+	path = Tinkerforge/weather-station
+	url = https://github.com/Tinkerforge/weather-station
+	shallow = true
+[submodule "Tinkerforge/wifi-v2-extension"]
+	path = Tinkerforge/wifi-v2-extension
+	url = https://github.com/Tinkerforge/wifi-v2-extension
+	shallow = true
+[submodule "Tinkerforge/xmc1400-breakout-bricklet"]
+	path = Tinkerforge/xmc1400-breakout-bricklet
+	url = https://github.com/Tinkerforge/xmc1400-breakout-bricklet
+	shallow = true
 [submodule "prusa3d/SL-LED-PCB"]
 	path = prusa3d/SL-LED-PCB
 	url = https://github.com/prusa3d/SL-LED-PCB.git
+	shallow = true
 [submodule "prusa3d/SL-USB-PCB"]
 	path = prusa3d/SL-USB-PCB
 	url = https://github.com/prusa3d/SL-USB-PCB.git
+	shallow = true
 [submodule "prusa3d/SL-PS-PCB"]
 	path = prusa3d/SL-PS-PCB
 	url = https://github.com/prusa3d/SL-PS-PCB.git
+	shallow = true
 [submodule "prusa3d/SL-UVcoin-sensor-PCB"]
 	path = prusa3d/SL-UVcoin-sensor-PCB
 	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
+	shallow = true
 [submodule "prusa3d/SL-CONTROLLER-PCB"]
 	path = prusa3d/SL-CONTROLLER-PCB
 	url = https://github.com/prusa3d/SL-CONTROLLER-PCB.git
+	shallow = true
 [submodule "prusa3d/CW-01-LED-PCB"]
 	path = prusa3d/CW-01-LED-PCB
 	url = https://github.com/prusa3d/CW-01-LED-PCB.git
+	shallow = true
 [submodule "prusa3d/MM-control-2.0"]
 	path = prusa3d/MM-control-2.0
 	url = https://github.com/prusa3d/MM-control-2.0.git
+	shallow = true
 [submodule "prusa3d/MKxS-IR-sensor"]
 	path = prusa3d/MKxS-IR-sensor
 	url = https://github.com/prusa3d/MKxS-IR-sensor.git
+	shallow = true
 [submodule "prusa3d/CW-CONTROLLER-PCB"]
 	path = prusa3d/CW-CONTROLLER-PCB
 	url = https://github.com/prusa3d/CW-CONTROLLER-PCB.git
+	shallow = true
 [submodule "prusa3d/IR-MH-sensor-PCB"]
 	path = prusa3d/IR-MH-sensor-PCB
 	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
+	shallow = true
 [submodule "prusa3d/Heatbed-Mini-PCB"]
 	path = prusa3d/Heatbed-Mini-PCB
 	url = https://github.com/prusa3d/Heatbed-Mini-PCB.git
+	shallow = true
 [submodule "prusa3d/Heatbed_MK52_magnetic"]
 	path = prusa3d/Heatbed_MK52_magnetic
 	url = https://github.com/prusa3d/Heatbed_MK52_magnetic.git
+	shallow = true
 [submodule "prusa3d/MK2mm_Stepper_switch"]
 	path = prusa3d/MK2mm_Stepper_switch
 	url = https://github.com/prusa3d/MK2mm_Stepper_switch.git
+	shallow = true
 [submodule "prusa3d/PRUSA_Laser_filament_sensor"]
 	path = prusa3d/PRUSA_Laser_filament_sensor
 	url = https://github.com/prusa3d/PRUSA_Laser_filament_sensor.git
+	shallow = true
 [submodule "prusa3d/Buddy-board-MINI-PCB"]
 	path = prusa3d/Buddy-board-MINI-PCB
 	url = https://github.com/prusa3d/Buddy-board-MINI-PCB.git
+	shallow = true
+[submodule "freetronics/RELAY16MEGA"]
+	path = freetronics/RELAY16MEGA
+	url = https://github.com/freetronics/RELAY16MEGA
+	shallow = true
+[submodule "freetronics/RELAYSHIELD16"]
+	path = freetronics/RELAYSHIELD16
+	url = https://github.com/freetronics/RELAYSHIELD16
+	shallow = true
+[submodule "freetronics/USBSerial"]
+	path = freetronics/USBSerial
+	url = https://github.com/freetronics/USBSerial
+	shallow = true
+[submodule "dtnking/PCB-STM32F401CCT6_Development_Board"]
+	path = dtnking/PCB-STM32F401CCT6_Development_Board
+	url = https://github.com/dtnking/PCB-STM32F401CCT6_Development_Board.git
+	shallow = true
+[submodule "dtnking/Reflow-Oven"]
+	path = dtnking/Reflow-Oven
+	url = https://github.com/dtnking/Reflow-Oven.git
+	shallow = true
+[submodule "dtnking/Micro-USB-Connector"]
+	path = dtnking/Micro-USB-Connector
+	url = https://github.com/dtnking/Micro-USB-Connector.git
+	shallow = true
+[submodule "dtnking/PCB-RJ12"]
+	path = dtnking/PCB-RJ12
+	url = https://github.com/dtnking/PCB-RJ12.git
+	shallow = true
+[submodule "dtnking/STLINK_V2-1"]
+	path = dtnking/STLINK_V2-1
+	url = https://github.com/dtnking/STLINK_V2-1.git
+	shallow = true
+[submodule "svcguy/LoRaWAN-Feather-Hardware"]
+	path = svcguy/LoRaWAN-Feather-Hardware
+	url = https://github.com/svcguy/LoRaWAN-Feather-Hardware.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-enclosures"]
+	path = fablabcn/smartcitizen-enclosures
+	url = https://github.com/fablabbcn/smartcitizen-enclosures.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-kit-10"]
+	path = fablabcn/smartcitizen-kit-10
+	url = https://github.com/fablabbcn/smartcitizen-kit-10.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-kit-20"]
+	path = fablabcn/smartcitizen-kit-20
+	url = https://github.com/fablabbcn/smartcitizen-kit-20.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-kit-21"]
+	path = fablabcn/smartcitizen-kit-21
+	url = https://github.com/fablabbcn/smartcitizen-kit-21.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-kit-gases-pro-board"]
+	path = fablabcn/smartcitizen-kit-gases-pro-board
+	url = https://github.com/fablabbcn/smartcitizen-kit-gases-pro-board.git
+	shallow = true
+[submodule "fablabcn/smartcitizen-kit-pm-board"]
+	path = fablabcn/smartcitizen-kit-pm-board
+	url = https://github.com/fablabbcn/smartcitizen-kit-pm-board.git
+	shallow = true
+[submodule "adafruit/4-Channel-Level-Shifter-PCB"]
+	path = adafruit/4-Channel-Level-Shifter-PCB
+	url = https://github.com/adafruit/4-Channel-Level-Shifter-PCB
+	shallow = true
+[submodule "adafruit/ADS1X15-Breakout-Board-PCBs"]
+	path = adafruit/ADS1X15-Breakout-Board-PCBs
+	url = https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB"]
+	path = adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.14-inch-240x135-TFT-PCB"]
+	path = adafruit/Adafruit-1.14-inch-240x135-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.14-inch-240x135-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.3-inch-240x240-TFT-PCB"]
+	path = adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB"]
+	path = adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.44-TFT-Breakout-PCB"]
+	path = adafruit/Adafruit-1.44-TFT-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.54-inch-240x240-TFT-PCB"]
+	path = adafruit/Adafruit-1.54-inch-240x240-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-1.54-inch-240x240-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.5inch-Color-OLED-PCB"]
+	path = adafruit/Adafruit-1.5inch-Color-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-1.8-TFT-Shield-PCB"]
+	path = adafruit/Adafruit-1.8-TFT-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-1.8-TFT-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB"]
+	path = adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB
+	url = https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-128x64-Monochrome-OLED-PCB"]
+	path = adafruit/Adafruit-128x64-Monochrome-OLED-PCB
+	url = https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB"]
+	path = adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB
+	url = https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-2.0-inch-240x320-TFT-PCB"]
+	path = adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-2.4-TFT-Breakout-PCB"]
+	path = adafruit/Adafruit-2.4-TFT-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-2.4-TFT-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-2.4-TFT-FeatherWing-PCB"]
+	path = adafruit/Adafruit-2.4-TFT-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-2.4-TFT-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-2.8-TFT-Shield-v2-PCB"]
+	path = adafruit/Adafruit-2.8-TFT-Shield-v2-PCB
+	url = https://github.com/adafruit/Adafruit-2.8-TFT-Shield-v2-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB"]
+	path = adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB
+	url = https://github.com/adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-3.5in-TFT-Featherwing-PCB"]
+	path = adafruit/Adafruit-3.5in-TFT-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-3.5in-TFT-Featherwing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-5-HDMI-Backpack-PCB"]
+	path = adafruit/Adafruit-5-HDMI-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-5-HDMI-Backpack-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB"]
+	path = adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-7-HDMI-Backpack-PCB"]
+	path = adafruit/Adafruit-7-HDMI-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-7-HDMI-Backpack-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-9-DOF-and-10-DOF-PCBs"]
+	path = adafruit/Adafruit-9-DOF-and-10-DOF-PCBs
+	url = https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB"]
+	path = adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AD8495-Breakout-PCB"]
+	path = adafruit/Adafruit-AD8495-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ADT7410-PCB"]
+	path = adafruit/Adafruit-ADT7410-PCB
+	url = https://github.com/adafruit/Adafruit-ADT7410-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB"]
+	path = adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AMG8833-Breakout-PCB"]
+	path = adafruit/Adafruit-AMG8833-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-APDS9960-Breakout-PCB"]
+	path = adafruit/Adafruit-APDS9960-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB"]
+	path = adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+	url = https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AS7262-Breakout-PCB"]
+	path = adafruit/Adafruit-AS7262-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AS7262-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ATECC608-PCB"]
+	path = adafruit/Adafruit-ATECC608-PCB
+	url = https://github.com/adafruit/Adafruit-ATECC608-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB"]
+	path = adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Adalogger-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Adalogger-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Adalogger-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AirLift-Breakout-PCB"]
+	path = adafruit/Adafruit-AirLift-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-AirLift-FeatherWing-PCB"]
+	path = adafruit/Adafruit-AirLift-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB"]
+	path = adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB
+	url = https://github.com/adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Airlift-Shield-PCB"]
+	path = adafruit/Adafruit-Airlift-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Airlift-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Analog-Accelerometers-PCBs"]
+	path = adafruit/Adafruit-Analog-Accelerometers-PCBs
+	url = https://github.com/adafruit/Adafruit-Analog-Accelerometers-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-Animated-Eyes-Bonnet-PCB"]
+	path = adafruit/Adafruit-Animated-Eyes-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Arcade-Bonnet-PCB"]
+	path = adafruit/Adafruit-Arcade-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Arcade-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Audio-FX-Sound-Board-PCBs"]
+	path = adafruit/Adafruit-Audio-FX-Sound-Board-PCBs
+	url = https://github.com/adafruit/Adafruit-Audio-FX-Sound-Board-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-BME280-Breakout-PCB"]
+	path = adafruit/Adafruit-BME280-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BME280-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BME680-PCB"]
+	path = adafruit/Adafruit-BME680-PCB
+	url = https://github.com/adafruit/Adafruit-BME680-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BMP085-PCB"]
+	path = adafruit/Adafruit-BMP085-PCB
+	url = https://github.com/adafruit/Adafruit-BMP085-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BMP180-PCB"]
+	path = adafruit/Adafruit-BMP180-PCB
+	url = https://github.com/adafruit/Adafruit-BMP180-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BMP183-Breakout-PCB"]
+	path = adafruit/Adafruit-BMP183-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BMP183-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BMP280-Breakout-PCB"]
+	path = adafruit/Adafruit-BMP280-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BMP388-PCB"]
+	path = adafruit/Adafruit-BMP388-PCB
+	url = https://github.com/adafruit/Adafruit-BMP388-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BNO055-Breakout-PCB"]
+	path = adafruit/Adafruit-BNO055-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-BeagleBone-ProtoBoard-PCB"]
+	path = adafruit/Adafruit-BeagleBone-ProtoBoard-PCB
+	url = https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-Classic-PCBs"]
+	path = adafruit/Adafruit-Bluefruit-Classic-PCBs
+	url = https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-EZ-Key-PCB"]
+	path = adafruit/Adafruit-Bluefruit-EZ-Key-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB"]
+	path = adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-Micro-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-Micro-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-Micro-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-Shield-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB"]
+	path = adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB
+	url = https://github.com/adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-CAP1188-PCB"]
+	path = adafruit/Adafruit-CAP1188-PCB
+	url = https://github.com/adafruit/Adafruit-CAP1188-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-CC3000-Breakout-PCB"]
+	path = adafruit/Adafruit-CC3000-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-CCS811-Breakout-PCB"]
+	path = adafruit/Adafruit-CCS811-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-CP2104-Friend-PCB"]
+	path = adafruit/Adafruit-CP2104-Friend-PCB
+	url = https://github.com/adafruit/Adafruit-CP2104-Friend-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Capacitive-Touch-HAT-PCB"]
+	path = adafruit/Adafruit-Capacitive-Touch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Capacitive-Touch-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-CharliePlex-Bonnet-PCBs"]
+	path = adafruit/Adafruit-CharliePlex-Bonnet-PCBs
+	url = https://github.com/adafruit/Adafruit-CharliePlex-Bonnet-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Circuit-Playground-Express-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Circuit-Playground-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB"]
+	path = adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB
+	url = https://github.com/adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Cupcade-Adapter-PCB"]
+	path = adafruit/Adafruit-Cupcade-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Cupcade-Adapter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB"]
+	path = adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DPI-Kippah-PCB"]
+	path = adafruit/Adafruit-DPI-Kippah-PCB
+	url = https://github.com/adafruit/Adafruit-DPI-Kippah-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DRV2605-PCB"]
+	path = adafruit/Adafruit-DRV2605-PCB
+	url = https://github.com/adafruit/Adafruit-DRV2605-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB"]
+	path = adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DRV8871-Breakout-PCB"]
+	path = adafruit/Adafruit-DRV8871-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DS2413-PCB"]
+	path = adafruit/Adafruit-DS2413-PCB
+	url = https://github.com/adafruit/Adafruit-DS2413-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB"]
+	path = adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DS3502-PCB"]
+	path = adafruit/Adafruit-DS3502-PCB
+	url = https://github.com/adafruit/Adafruit-DS3502-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DotStar-FeatherWing-PCB"]
+	path = adafruit/Adafruit-DotStar-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-DotStar-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-DragonTail-for-micro-bit-PCB"]
+	path = adafruit/Adafruit-DragonTail-for-micro-bit-PCB
+	url = https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-E-Paper-Display-Breakout-PCBs"]
+	path = adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB"]
+	path = adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Ethernet-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Ethernet-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Ethernet-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FONA-800-GSM-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-800-GSM-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-800-GSM-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FONA-800-Shield-PCB"]
+	path = adafruit/Adafruit-FONA-800-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FONA-808-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-808-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-808-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB"]
+	path = adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FONA808-Shield-PCB"]
+	path = adafruit/Adafruit-FONA808-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-FONA808-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FPC-SMT-Adapter-PCBs"]
+	path = adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+	url = https://github.com/adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-FRAM-Breakout-PCB"]
+	path = adafruit/Adafruit-FRAM-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FT232H-Breakout-PCB"]
+	path = adafruit/Adafruit-FT232H-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FT232H-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB"]
+	path = adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-328P-PCB"]
+	path = adafruit/Adafruit-Feather-328P-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-328P-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-32u4-Adalogger-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Adalogger-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Adalogger-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-32u4-FONA-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-FONA-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB"]
+	path = adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB"]
+	path = adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-Adalogger-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Adalogger-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Adalogger-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-Basic-Proto-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-Express-PCB"]
+	path = adafruit/Adafruit-Feather-M0-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB"]
+	path = adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB"]
+	path = adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Feather-M4-Express-PCB"]
+	path = adafruit/Adafruit-Feather-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-Bluefruit-LE-PCB"]
+	path = adafruit/Adafruit-Flora-Bluefruit-LE-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Bluefruit-LE-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-LSM303-PCB"]
+	path = adafruit/Adafruit-Flora-LSM303-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-LSM303-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB"]
+	path = adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB"]
+	path = adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB"]
+	path = adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-GA1A1S202WP-Breakout-PCB"]
+	path = adafruit/Adafruit-GA1A1S202WP-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs"]
+	path = adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs
+	url = https://github.com/adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-GPS-Logger-Shield-PCB"]
+	path = adafruit/Adafruit-GPS-Logger-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-GPS-Logger-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Gemma-M0-PCB"]
+	path = adafruit/Adafruit-Gemma-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Gemma-M0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Gemma-PCB"]
+	path = adafruit/Adafruit-Gemma-PCB
+	url = https://github.com/adafruit/Adafruit-Gemma-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Grand-Central-PCB"]
+	path = adafruit/Adafruit-Grand-Central-PCB
+	url = https://github.com/adafruit/Adafruit-Grand-Central-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-HDC1008-Breakout-PCB"]
+	path = adafruit/Adafruit-HDC1008-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB"]
+	path = adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-HTU21D-Breakout-PCB"]
+	path = adafruit/Adafruit-HTU21D-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB"]
+	path = adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Hallowing-M0-PCB"]
+	path = adafruit/Adafruit-Hallowing-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Hallowing-M0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Hallowing-M4-PCB"]
+	path = adafruit/Adafruit-Hallowing-M4-PCB
+	url = https://github.com/adafruit/Adafruit-Hallowing-M4-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB"]
+	path = adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB"]
+	path = adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-I2S-Microphone-Breakout-PCB"]
+	path = adafruit/Adafruit-I2S-Microphone-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-INA169-Breakout-PCB"]
+	path = adafruit/Adafruit-INA169-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-INA169-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-INA219-Current-Sensor-PCB"]
+	path = adafruit/Adafruit-INA219-Current-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-INA260-PCB"]
+	path = adafruit/Adafruit-INA260-PCB
+	url = https://github.com/adafruit/Adafruit-INA260-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB"]
+	path = adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs"]
+	path = adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-ItsyBitsy-32u4-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-32u4-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ItsyBitsy-M0-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-M0-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-ItsyBitsy-M4-Express-PCB"]
+	path = adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Joy-Bonnet-PCB"]
+	path = adafruit/Adafruit-Joy-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Joy-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Joy-Featherwing-PCB"]
+	path = adafruit/Adafruit-Joy-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-L3GD20-Breakout-PCB"]
+	path = adafruit/Adafruit-L3GD20-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LED-Backpack-FeatherWing-PCB"]
+	path = adafruit/Adafruit-LED-Backpack-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-LED-Backpack-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LED-Sequin-PCB"]
+	path = adafruit/Adafruit-LED-Sequin-PCB
+	url = https://github.com/adafruit/Adafruit-LED-Sequin-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LIS3DH-Breakout-PCB"]
+	path = adafruit/Adafruit-LIS3DH-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LM3671-Buck-Converter-PCB"]
+	path = adafruit/Adafruit-LM3671-Buck-Converter-PCB
+	url = https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LM4040-Voltage-Reference-PCB"]
+	path = adafruit/Adafruit-LM4040-Voltage-Reference-PCB
+	url = https://github.com/adafruit/Adafruit-LM4040-Voltage-Reference-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LPS3X-PCB"]
+	path = adafruit/Adafruit-LPS3X-PCB
+	url = https://github.com/adafruit/Adafruit-LPS3X-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LSM303-PCB"]
+	path = adafruit/Adafruit-LSM303-PCB
+	url = https://github.com/adafruit/Adafruit-LSM303-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LSM303AGR-PCB"]
+	path = adafruit/Adafruit-LSM303AGR-PCB
+	url = https://github.com/adafruit/Adafruit-LSM303AGR-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LSM6DSOX-PCB"]
+	path = adafruit/Adafruit-LSM6DSOX-PCB
+	url = https://github.com/adafruit/Adafruit-LSM6DSOX-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LSM9DS0-PCB"]
+	path = adafruit/Adafruit-LSM9DS0-PCB
+	url = https://github.com/adafruit/Adafruit-LSM9DS0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-LSM9DS1-Breakout-PCB"]
+	path = adafruit/Adafruit-LSM9DS1-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-LSM9DS1-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB"]
+	path = adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX31850-thermocouple-breakout-board"]
+	path = adafruit/Adafruit-MAX31850-thermocouple-breakout-board
+	url = https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board
+	shallow = true
+[submodule "adafruit/Adafruit-MAX31855-breakout-board"]
+	path = adafruit/Adafruit-MAX31855-breakout-board
+	url = https://github.com/adafruit/Adafruit-MAX31855-breakout-board
+	shallow = true
+[submodule "adafruit/Adafruit-MAX31856-PCB"]
+	path = adafruit/Adafruit-MAX31856-PCB
+	url = https://github.com/adafruit/Adafruit-MAX31856-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX31865-PCB"]
+	path = adafruit/Adafruit-MAX31865-PCB
+	url = https://github.com/adafruit/Adafruit-MAX31865-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs"]
+	path = adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs
+	url = https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-MAX6675-Breakout-Board-PCB"]
+	path = adafruit/Adafruit-MAX6675-Breakout-Board-PCB
+	url = https://github.com/adafruit/Adafruit-MAX6675-Breakout-Board-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX9744-Amplifier-PCB"]
+	path = adafruit/Adafruit-MAX9744-Amplifier-PCB
+	url = https://github.com/adafruit/Adafruit-MAX9744-Amplifier-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX9814-AGC-Microphone-PCB"]
+	path = adafruit/Adafruit-MAX9814-AGC-Microphone-PCB
+	url = https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX98306-Class-D-Amp-PCB"]
+	path = adafruit/Adafruit-MAX98306-Class-D-Amp-PCB
+	url = https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MAX98357-I2S-Amp-Breakout"]
+	path = adafruit/Adafruit-MAX98357-I2S-Amp-Breakout
+	url = https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout
+	shallow = true
+[submodule "adafruit/Adafruit-MCP4725-PCB"]
+	path = adafruit/Adafruit-MCP4725-PCB
+	url = https://github.com/adafruit/Adafruit-MCP4725-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MCP9600-PCB"]
+	path = adafruit/Adafruit-MCP9600-PCB
+	url = https://github.com/adafruit/Adafruit-MCP9600-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MCP9808-Breakout-PCB"]
+	path = adafruit/Adafruit-MCP9808-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MCP9808-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-METRO-328-PCB"]
+	path = adafruit/Adafruit-METRO-328-PCB
+	url = https://github.com/adafruit/Adafruit-METRO-328-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MLX90393-PCB"]
+	path = adafruit/Adafruit-MLX90393-PCB
+	url = https://github.com/adafruit/Adafruit-MLX90393-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MMA8451-Breakout-PCB"]
+	path = adafruit/Adafruit-MMA8451-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MMA8451-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MONSTER-M4SK-PCB"]
+	path = adafruit/Adafruit-MONSTER-M4SK-PCB
+	url = https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPL115A2-Breakout-PCB"]
+	path = adafruit/Adafruit-MPL115A2-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPL3115A2-PCB"]
+	path = adafruit/Adafruit-MPL3115A2-PCB
+	url = https://github.com/adafruit/Adafruit-MPL3115A2-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB"]
+	path = adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPR121-PCB"]
+	path = adafruit/Adafruit-MPR121-PCB
+	url = https://github.com/adafruit/Adafruit-MPR121-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MPU6050-PCB"]
+	path = adafruit/Adafruit-MPU6050-PCB
+	url = https://github.com/adafruit/Adafruit-MPU6050-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MSA301-PCB"]
+	path = adafruit/Adafruit-MSA301-PCB
+	url = https://github.com/adafruit/Adafruit-MSA301-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Menta-PCB"]
+	path = adafruit/Adafruit-Menta-PCB
+	url = https://github.com/adafruit/Adafruit-Menta-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Metro-M0-Express-PCB"]
+	path = adafruit/Adafruit-Metro-M0-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M0-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Metro-M4-Express-AirLift-PCB"]
+	path = adafruit/Adafruit-Metro-M4-Express-AirLift-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M4-Express-AirLift-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Metro-M4-Express-PCB"]
+	path = adafruit/Adafruit-Metro-M4-Express-PCB
+	url = https://github.com/adafruit/Adafruit-Metro-M4-Express-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-MicroLipo-PCB"]
+	path = adafruit/Adafruit-MicroLipo-PCB
+	url = https://github.com/adafruit/Adafruit-MicroLipo-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB"]
+	path = adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB"]
+	path = adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB"]
+	path = adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB
+	url = https://github.com/adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Motor-Shield-V2-PCB"]
+	path = adafruit/Adafruit-Motor-Shield-V2-PCB
+	url = https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Music-Maker-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Music-Maker-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Music-Maker-MP3-Shield-PCB"]
+	path = adafruit/Adafruit-Music-Maker-MP3-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-NeoPXL8-PCBs"]
+	path = adafruit/Adafruit-NeoPXL8-PCBs
+	url = https://github.com/adafruit/Adafruit-NeoPXL8-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-NeoPixel-FeatherWing-PCB"]
+	path = adafruit/Adafruit-NeoPixel-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-NeoPixel-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-NeoPixel-Shield-PCB"]
+	path = adafruit/Adafruit-NeoPixel-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-NeoPixel-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-NeoTrellis-4x4-PCB"]
+	path = adafruit/Adafruit-NeoTrellis-4x4-PCB
+	url = https://github.com/adafruit/Adafruit-NeoTrellis-4x4-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure"]
+	path = adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
+	url = https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
+	shallow = true
+[submodule "adafruit/Adafruit-OLED-FeatherWing-PCB"]
+	path = adafruit/Adafruit-OLED-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-OLED-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PA1010D-Mini-GPS-PCB"]
+	path = adafruit/Adafruit-PA1010D-Mini-GPS-PCB
+	url = https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB"]
+	path = adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB
+	url = https://github.com/adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PCB-Ruler"]
+	path = adafruit/Adafruit-PCB-Ruler
+	url = https://github.com/adafruit/Adafruit-PCB-Ruler
+	shallow = true
+[submodule "adafruit/Adafruit-PCF8523-RTC-Breakout-PCB"]
+	path = adafruit/Adafruit-PCF8523-RTC-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PN532-RFID-NFC-Breakout"]
+	path = adafruit/Adafruit-PN532-RFID-NFC-Breakout
+	url = https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Breakout
+	shallow = true
+[submodule "adafruit/Adafruit-PWM-Servo-FeatherWing-PCB"]
+	path = adafruit/Adafruit-PWM-Servo-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB"]
+	path = adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB
+	url = https://github.com/adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Perma-Proto-Bonnet-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Perma-Proto-HAT-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Perma-Proto-PCB"]
+	path = adafruit/Adafruit-Perma-Proto-PCB
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Perma-Proto-Pi-PCBs"]
+	path = adafruit/Adafruit-Perma-Proto-Pi-PCBs
+	url = https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-Pi-Cobber-PCBs"]
+	path = adafruit/Adafruit-Pi-Cobber-PCBs
+	url = https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-PiGRRL-PCB"]
+	path = adafruit/Adafruit-PiGRRL-PCB
+	url = https://github.com/adafruit/Adafruit-PiGRRL-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiOLED-128x32-PCB"]
+	path = adafruit/Adafruit-PiOLED-128x32-PCB
+	url = https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB"]
+	path = adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB
+	url = https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB"]
+	path = adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-3.5-Plus-PCB"]
+	path = adafruit/Adafruit-PiTFT-3.5-Plus-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-3.5-Plus-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-Plus-2.8-PCB"]
+	path = adafruit/Adafruit-PiTFT-Plus-2.8-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiTFT-Plus-3.2-PCB"]
+	path = adafruit/Adafruit-PiTFT-Plus-3.2-PCB
+	url = https://github.com/adafruit/Adafruit-PiTFT-Plus-3.2-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PiUART-PCB"]
+	path = adafruit/Adafruit-PiUART-PCB
+	url = https://github.com/adafruit/Adafruit-PiUART-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Power-Relay-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Power-Relay-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Power-Relay-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PowerBoost-1000-PCB"]
+	path = adafruit/Adafruit-PowerBoost-1000-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-1000-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PowerBoost-500-Basic-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Basic-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PowerBoost-500-Charger-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Charger-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PowerBoost-500-Shield-PCB"]
+	path = adafruit/Adafruit-PowerBoost-500-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-PowerBoost-500-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Pro-Trinket-PCBs"]
+	path = adafruit/Adafruit-Pro-Trinket-PCBs
+	url = https://github.com/adafruit/Adafruit-Pro-Trinket-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-Prop-Maker-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Prop-Maker-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Prop-Maker-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB"]
+	path = adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Proto-Screwshield-PCB"]
+	path = adafruit/Adafruit-Proto-Screwshield-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Proto-Shield-PCB"]
+	path = adafruit/Adafruit-Proto-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-Proto-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Prototyping-Pi-Plate-PCB"]
+	path = adafruit/Adafruit-Prototyping-Pi-Plate-PCB
+	url = https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Push-Button-Power-Switch-PCB"]
+	path = adafruit/Adafruit-Push-Button-Power-Switch-PCB
+	url = https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PyBadge-PCB"]
+	path = adafruit/Adafruit-PyBadge-PCB
+	url = https://github.com/adafruit/Adafruit-PyBadge-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PyGamer-PCB"]
+	path = adafruit/Adafruit-PyGamer-PCB
+	url = https://github.com/adafruit/Adafruit-PyGamer-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PyPortal-PCB"]
+	path = adafruit/Adafruit-PyPortal-PCB
+	url = https://github.com/adafruit/Adafruit-PyPortal-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-PyRuler-PCB"]
+	path = adafruit/Adafruit-PyRuler-PCB
+	url = https://github.com/adafruit/Adafruit-PyRuler-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Qualia-Driver-PCB"]
+	path = adafruit/Adafruit-Qualia-Driver-PCB
+	url = https://github.com/adafruit/Adafruit-Qualia-Driver-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RA8875-Breakout-Board-PCB"]
+	path = adafruit/Adafruit-RA8875-Breakout-Board-PCB
+	url = https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB"]
+	path = adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RGB-LCD-shield-PCB"]
+	path = adafruit/Adafruit-RGB-LCD-shield-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RGB-Matrix-Bonnet-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RGB-Matrix-HAT-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-RGB-Matrix-Shield-PCB"]
+	path = adafruit/Adafruit-RGB-Matrix-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Radio-Bonnet-PCB"]
+	path = adafruit/Adafruit-Radio-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Radio-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Radio-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Radio-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Relay-FeatherWing-PCBs"]
+	path = adafruit/Adafruit-Relay-FeatherWing-PCBs
+	url = https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-SAMD09-Breakout-PCB"]
+	path = adafruit/Adafruit-SAMD09-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-SAMD09-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-SHT31-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-SMT-Breakout-PCBs"]
+	path = adafruit/Adafruit-SMT-Breakout-PCBs
+	url = https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+	shallow = true
+[submodule "adafruit/Adafruit-SPW2430-PCB"]
+	path = adafruit/Adafruit-SPW2430-PCB
+	url = https://github.com/adafruit/Adafruit-SPW2430-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB"]
+	path = adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-STEMMA-Soil-Sensor-PCB"]
+	path = adafruit/Adafruit-STEMMA-Soil-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Soil-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-STEMMA-Speaker-PCB"]
+	path = adafruit/Adafruit-STEMMA-Speaker-PCB
+	url = https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-STMPE610-Breakout-PCB"]
+	path = adafruit/Adafruit-STMPE610-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Servo-HAT-Bonnet-PCB"]
+	path = adafruit/Adafruit-Servo-HAT-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Servo-HAT-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Si1145-Light-Sensor-PCB"]
+	path = adafruit/Adafruit-Si1145-Light-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Si4713-PCB"]
+	path = adafruit/Adafruit-Si4713-PCB
+	url = https://github.com/adafruit/Adafruit-Si4713-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB"]
+	path = adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Si7021-PCB"]
+	path = adafruit/Adafruit-Si7021-PCB
+	url = https://github.com/adafruit/Adafruit-Si7021-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB"]
+	path = adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB"]
+	path = adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB
+	url = https://github.com/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB"]
+	path = adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB"]
+	path = adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB
+	url = https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB"]
+	path = adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB"]
+	path = adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB
+	url = https://github.com/adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TFT-Gizmo-PCB"]
+	path = adafruit/Adafruit-TFT-Gizmo-PCB
+	url = https://github.com/adafruit/Adafruit-TFT-Gizmo-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TLC5947-PCB"]
+	path = adafruit/Adafruit-TLC5947-PCB
+	url = https://github.com/adafruit/Adafruit-TLC5947-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TLC59711-Breakout-PCB"]
+	path = adafruit/Adafruit-TLC59711-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TLC59711-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TLV493D-PCB"]
+	path = adafruit/Adafruit-TLV493D-PCB
+	url = https://github.com/adafruit/Adafruit-TLV493D-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TMP006-and-TMP007-PCB"]
+	path = adafruit/Adafruit-TMP006-and-TMP007-PCB
+	url = https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB"]
+	path = adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TPA2016-PCB"]
+	path = adafruit/Adafruit-TPA2016-PCB
+	url = https://github.com/adafruit/Adafruit-TPA2016-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB"]
+	path = adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB"]
+	path = adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB
+	url = https://github.com/adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TSL2591-Breakout-PCB"]
+	path = adafruit/Adafruit-TSL2591-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TSL2591-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB"]
+	path = adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-TXB0108-PCB"]
+	path = adafruit/Adafruit-TXB0108-PCB
+	url = https://github.com/adafruit/Adafruit-TXB0108-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB"]
+	path = adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+	url = https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Terminal-Block-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Terminal-Block-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Terminal-Block-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Trinket-M0-PCB"]
+	path = adafruit/Adafruit-Trinket-M0-PCB
+	url = https://github.com/adafruit/Adafruit-Trinket-M0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Trinket-PCB"]
+	path = adafruit/Adafruit-Trinket-PCB
+	url = https://github.com/adafruit/Adafruit-Trinket-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB"]
+	path = adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB
+	url = https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-USB-C-Downstream-Breakout"]
+	path = adafruit/Adafruit-USB-C-Downstream-Breakout
+	url = https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout
+	shallow = true
+[submodule "adafruit/Adafruit-USB-Isolator-PCB"]
+	path = adafruit/Adafruit-USB-Isolator-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Isolator-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB"]
+	path = adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB
+	url = https://github.com/adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-USB-Power-Gauge-PCB"]
+	path = adafruit/Adafruit-USB-Power-Gauge-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Power-Gauge-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB"]
+	path = adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB
+	url = https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB"]
+	path = adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB
+	url = https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Ultimate-GPS-HAT-PCB"]
+	path = adafruit/Adafruit-Ultimate-GPS-HAT-PCB
+	url = https://github.com/adafruit/Adafruit-Ultimate-GPS-HAT-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VCNL4040-PCB"]
+	path = adafruit/Adafruit-VCNL4040-PCB
+	url = https://github.com/adafruit/Adafruit-VCNL4040-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VCNL40X0-PCB"]
+	path = adafruit/Adafruit-VCNL40X0-PCB
+	url = https://github.com/adafruit/Adafruit-VCNL40X0-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VEML6070-PCB"]
+	path = adafruit/Adafruit-VEML6070-PCB
+	url = https://github.com/adafruit/Adafruit-VEML6070-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VEML6075-UV-Sensor-PCB"]
+	path = adafruit/Adafruit-VEML6075-UV-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-VEML6075-UV-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VEML7700-PCB"]
+	path = adafruit/Adafruit-VEML7700-PCB
+	url = https://github.com/adafruit/Adafruit-VEML7700-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB"]
+	path = adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB
+	url = https://github.com/adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-VS1053-Breakout-PCB"]
+	path = adafruit/Adafruit-VS1053-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-VS1053-Breakout-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-Verter-PCB"]
+	path = adafruit/Adafruit-Verter-PCB
+	url = https://github.com/adafruit/Adafruit-Verter-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-WICED-WiFi-Feather-PCB"]
+	path = adafruit/Adafruit-WICED-WiFi-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-WICED-WiFi-Feather-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-WINC1500-Shield-PCB"]
+	path = adafruit/Adafruit-WINC1500-Shield-PCB
+	url = https://github.com/adafruit/Adafruit-WINC1500-Shield-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB"]
+	path = adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
+	url = https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
+	shallow = true
+[submodule "adafruit/Adafruit-pIRKey-PCB"]
+	path = adafruit/Adafruit-pIRKey-PCB
+	url = https://github.com/adafruit/Adafruit-pIRKey-PCB
+	shallow = true
+[submodule "adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB"]
+	path = adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB
+	url = https://github.com/adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB"]
+	path = adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB
+	url = https://github.com/adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_ADXL343_PCB"]
+	path = adafruit/Adafruit_ADXL343_PCB
+	url = https://github.com/adafruit/Adafruit_ADXL343_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_ADXL345_PCB"]
+	path = adafruit/Adafruit_ADXL345_PCB
+	url = https://github.com/adafruit/Adafruit_ADXL345_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_Atmega32u4_Breakout_Board"]
+	path = adafruit/Adafruit_Atmega32u4_Breakout_Board
+	url = https://github.com/adafruit/Adafruit_Atmega32u4_Breakout_Board
+	shallow = true
+[submodule "adafruit/Adafruit_Breadboard_NeoPixel_PCB"]
+	path = adafruit/Adafruit_Breadboard_NeoPixel_PCB
+	url = https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_CC3000_Shield_PCB"]
+	path = adafruit/Adafruit_CC3000_Shield_PCB
+	url = https://github.com/adafruit/Adafruit_CC3000_Shield_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_FTDI-Friend-PCB"]
+	path = adafruit/Adafruit_FTDI-Friend-PCB
+	url = https://github.com/adafruit/Adafruit_FTDI-Friend-PCB
+	shallow = true
+[submodule "adafruit/Adafruit_MCP73833_PCB"]
+	path = adafruit/Adafruit_MCP73833_PCB
+	url = https://github.com/adafruit/Adafruit_MCP73833_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_MintyBoost_PCB"]
+	path = adafruit/Adafruit_MintyBoost_PCB
+	url = https://github.com/adafruit/Adafruit_MintyBoost_PCB
+	shallow = true
+[submodule "adafruit/Adafruit_USB_Boarduino_PCB"]
+	path = adafruit/Adafruit_USB_Boarduino_PCB
+	url = https://github.com/adafruit/Adafruit_USB_Boarduino_PCB
+	shallow = true
+[submodule "adafruit/DS1307-breakout-board"]
+	path = adafruit/DS1307-breakout-board
+	url = https://github.com/adafruit/DS1307-breakout-board
+	shallow = true
+[submodule "adafruit/DotStar-2020-8x8-Matrix-PCB"]
+	path = adafruit/DotStar-2020-8x8-Matrix-PCB
+	url = https://github.com/adafruit/DotStar-2020-8x8-Matrix-PCB
+	shallow = true
+[submodule "adafruit/Feather-ICE40-PCB"]
+	path = adafruit/Feather-ICE40-PCB
+	url = https://github.com/adafruit/Feather-ICE40-PCB
+	shallow = true
+[submodule "adafruit/Feather-RISC-V-PCB"]
+	path = adafruit/Feather-RISC-V-PCB
+	url = https://github.com/adafruit/Feather-RISC-V-PCB
+	shallow = true
+[submodule "adafruit/Pixie-3W-Smart-LED-PCB"]
+	path = adafruit/Pixie-3W-Smart-LED-PCB
+	url = https://github.com/adafruit/Pixie-3W-Smart-LED-PCB
+	shallow = true
+[submodule "adafruit/TSL2561-breakout-board-PCB"]
+	path = adafruit/TSL2561-breakout-board-PCB
+	url = https://github.com/adafruit/TSL2561-breakout-board-PCB
+	shallow = true
+[submodule "adafruit/cookiecutter-adafruit-pcb"]
+	path = adafruit/cookiecutter-adafruit-pcb
+	url = https://github.com/adafruit/cookiecutter-adafruit-pcb
+	shallow = true
+[submodule "IdleHandsProject/espeverywhere"]
+	path = IdleHandsProject/espeverywhere
+	url = https://github.com/IdleHandsProject/espeverywhere.git
+	shallow = true
+[submodule "IdleHandsProject/thePIDDYBOT"]
+	path = IdleHandsProject/thePIDDYBOT
+	url = https://github.com/IdleHandsProject/thePIDDYBOT.git
+	shallow = true
+[submodule "IdleHandsProject/samd_hcc_mod"]
+	path = IdleHandsProject/samd_hcc_mod
+	url = https://github.com/IdleHandsProject/samd_hcc_mod.git
+	shallow = true
+[submodule "IdleHandsProject/makennbot"]
+	path = IdleHandsProject/makennbot
+	url = https://github.com/IdleHandsProject/makennbot.git
+	shallow = true
+[submodule "IdleHandsProject/wind_breakout"]
+	path = IdleHandsProject/wind_breakout
+	url = https://github.com/IdleHandsProject/wind_breakout.git
+	shallow = true
+[submodule "IdleHandsProject/PiZeroHub"]
+	path = IdleHandsProject/PiZeroHub
+	url = https://github.com/IdleHandsProject/PiZeroHub.git
+	shallow = true
+[submodule "IdleHandsProject/CC110L-Breakout"]
+	path = IdleHandsProject/CC110L-Breakout
+	url = https://github.com/IdleHandsProject/CC110L-Breakout.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-Relay-V1.2"]
+	path = bigtreetech/BIGTREETECH-Relay-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-mini-E3"]
+	path = bigtreetech/BIGTREETECH-SKR-mini-E3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-MINI-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-MINI-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-MINI-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0"]
+	path = bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-E3-DIP-V1.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-PRO-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-PRO-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-MINI-UPS-V2.0"]
+	path = bigtreetech/BIGTREETECH-MINI-UPS-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TFT35-V3.0"]
+	path = bigtreetech/BIGTREETECH-TFT35-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2225-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2225-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2225-V1.0.git
+	shallow = true
+[submodule "bigtreetech/TMC2209-V1.1"]
+	path = bigtreetech/TMC2209-V1.1
+	url = https://github.com/bigtreetech/TMC2209-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-V1.1"]
+	path = bigtreetech/BIGTREETECH-SKR-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V3.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2209-V1.2"]
+	path = bigtreetech/BIGTREETECH-TMC2209-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC5161-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5161-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5161-V1.0.git
+	shallow = true
+[submodule "bigtreetech/Tango-3D-Printer-Motherboard"]
+	path = bigtreetech/Tango-3D-Printer-Motherboard
+	url = https://github.com/bigtreetech/Tango-3D-Printer-Motherboard.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-ST820-V1.0"]
+	path = bigtreetech/BIGTREETECH-ST820-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-ST820-V1.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V1.1"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V1.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2208-V2.1"]
+	path = bigtreetech/BIGTREETECH-TMC2208-V2.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2208-V2.1.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V2.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V2.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V2.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC5160-V1.0"]
+	path = bigtreetech/BIGTREETECH-TMC5160-V1.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC5160-V1.0.git
+	shallow = true
+[submodule "bigtreetech/ramps-1.6"]
+	path = bigtreetech/ramps-1.6
+	url = https://github.com/bigtreetech/ramps-1.6.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TMC2130-V3.0"]
+	path = bigtreetech/BIGTREETECH-TMC2130-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TFT24-V1.1"]
+	path = bigtreetech/BIGTREETECH-TFT24-V1.1
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT24-V1.1.git
+	shallow = true
+[submodule "bigtreetech/BIQU-Thunder"]
+	path = bigtreetech/BIQU-Thunder
+	url = https://github.com/bigtreetech/BIQU-Thunder.git
+	shallow = true
+[submodule "hallard/RM1xx-Breakout"]
+	path = hallard/RM1xx-Breakout
+	url = https://github.com/hallard/RM1xx-Breakout.git
+	shallow = true
+[submodule "hallard/WeMos-shield"]
+	path = hallard/WeMos-shield
+	url = https://github.com/hallard/WeMos-shield.git
+	shallow = true
+[submodule "hallard/WeMos-Lora"]
+	path = hallard/WeMos-Lora
+	url = https://github.com/hallard/WeMos-Lora.git
+	shallow = true
+[submodule "hallard/WeMos-RN2483"]
+	path = hallard/WeMos-RN2483
+	url = https://github.com/hallard/WeMos-RN2483.git
+	shallow = true
+[submodule "hallard/LoRasPI"]
+	path = hallard/LoRasPI
+	url = https://github.com/hallard/LoRasPI.git
+	shallow = true
+[submodule "hallard/NodeMCU-Gateway"]
+	path = hallard/NodeMCU-Gateway
+	url = https://github.com/hallard/NodeMCU-Gateway.git
+	shallow = true
+[submodule "hallard/WeMos-Matrix-Shield"]
+	path = hallard/WeMos-Matrix-Shield
+	url = https://github.com/hallard/WeMos-Matrix-Shield.git
+	shallow = true
+[submodule "hallard/Particle-Gateway"]
+	path = hallard/Particle-Gateway
+	url = https://github.com/hallard/Particle-Gateway.git
+	shallow = true
+[submodule "iotmakervn/esp32-cellular-shield"]
+	path = iotmakervn/esp32-cellular-shield
+	url = https://github.com/iotmakervn/esp32-cellular-shield
+	shallow = true
+[submodule "iotmakervn/esp32-connectivity-shield"]
+	path = iotmakervn/esp32-connectivity-shield
+	url = https://github.com/iotmakervn/esp32-connectivity-shield
+	shallow = true
+[submodule "iotmakervn/gsm-iot-core-hw"]
+	path = iotmakervn/gsm-iot-core-hw
+	url = https://github.com/iotmakervn/gsm-iot-core-hw
+	shallow = true
+[submodule "iotmakervn/iot-gprs-wifi-uno-hw"]
+	path = iotmakervn/iot-gprs-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-gprs-wifi-uno-hw
+	shallow = true
+[submodule "iotmakervn/iot-wifi-uno-hw"]
+	path = iotmakervn/iot-wifi-uno-hw
+	url = https://github.com/iotmakervn/iot-wifi-uno-hw
+	shallow = true
+[submodule "iotmakervn/iotmaker-unox"]
+	path = iotmakervn/iotmaker-unox
+	url = https://github.com/iotmakervn/iotmaker-unox
+	shallow = true
+[submodule "iotmakervn/VM-sensor-PT1000"]
+	path = iotmakervn/VM-sensor-PT1000
+	url = https://github.com/iotmakervn/VM-sensor-PT1000
+	shallow = true
+[submodule "im-tomu/tomu-hardware"]
+	path = im-tomu/tomu-hardware
+	url = https://github.com/im-tomu/tomu-hardware
+	shallow = true
+[submodule "m5stack/M5-3D_and_PCB"]
+	path = m5stack/M5-3D_and_PCB
+	url = https://github.com/m5stack/M5-3D_and_PCB.git
+	shallow = true
+[submodule "m5stack/M5Stack_TFT_ILI9341"]
+	path = m5stack/M5Stack_TFT_ILI9341
+	url = https://github.com/m5stack/M5Stack_TFT_ILI9341.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin-Pro"]
+	path = makerbase-mks/MKS-Robin-Pro
+	url = https://github.com/makerbase-mks/MKS-Robin-Pro.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin-mini"]
+	path = makerbase-mks/MKS-Robin-mini
+	url = https://github.com/makerbase-mks/MKS-Robin-mini.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin-lite3"]
+	path = makerbase-mks/MKS-Robin-lite3
+	url = https://github.com/makerbase-mks/MKS-Robin-lite3.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin-Nano"]
+	path = makerbase-mks/MKS-Robin-Nano
+	url = https://github.com/makerbase-mks/MKS-Robin-Nano.git
+	shallow = true
+[submodule "makerbase-mks/MKS-SERVO42B"]
+	path = makerbase-mks/MKS-SERVO42B
+	url = https://github.com/makerbase-mks/MKS-SERVO42B.git
+	shallow = true
+[submodule "makerbase-mks/MKS-SERVO57A"]
+	path = makerbase-mks/MKS-SERVO57A
+	url = https://github.com/makerbase-mks/MKS-SERVO57A.git
+	shallow = true
+[submodule "makerbase-mks/MKS-SERVO42A"]
+	path = makerbase-mks/MKS-SERVO42A
+	url = https://github.com/makerbase-mks/MKS-SERVO42A.git
+	shallow = true
+[submodule "mattdibi/yampad"]
+	path = mattdibi/yampad
+	url = https://github.com/mattdibi/yampad.git
+	shallow = true
+[submodule "najnesnaj/stm8-kicad-design-se8R01-pcb"]
+	path = najnesnaj/stm8-kicad-design-se8R01-pcb
+	url = https://github.com/najnesnaj/stm8-kicad-design-se8R01-pcb.git
+	shallow = true
+[submodule "96boards/documentation"]
+	path = 96boards/documentation
+	url = https://github.com/96boards/documentation.git
+	shallow = true
+[submodule "mysensors/SensebenderMicro"]
+	path = mysensors/SensebenderMicro
+	url = https://github.com/mysensors/SensebenderMicro.git
+	shallow = true
+[submodule "m5stack/M5-Schematic"]
+	path = m5stack/M5-Schematic
+	url = https://github.com/m5stack/M5-Schematic.git
+	shallow = true
