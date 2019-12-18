@@ -2378,3 +2378,12 @@
 	path = m5stack/M5-Schematic
 	url = https://github.com/m5stack/M5-Schematic.git
 	shallow = true
+[submodule "ARoozitalab/STM32F4-Eval-board"]
+	path = ARoozitalab/STM32F4-Eval-board
+	url = https://github.com/ARoozitalab/STM32F4-Eval-board
+[submodule "witek117/ESP32DevBoard"]
+	path = witek117/ESP32DevBoard
+	url = https://github.com/witek117/ESP32DevBoard
+[submodule "witek117/NXPCup2019"]
+	path = witek117/NXPCup2019
+	url = https://github.com/witek117/NXPCup2019
