@@ -54,7 +54,7 @@ else:
       if result_to_check.failed:
         slack_message('error found during merging BUILD{} `{}` from `{}` to `{}`'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
       else:
-        slack_message('merging BUILD{} from {} `{}` to `{}` done, commit message "{}"'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO, ), '#travis-build-result')
+        slack_message('merging BUILD{} from {} `{}` to `{}` done, commit message "{}"'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO, TRAVIS_COMMIT_MESSAGE), '#travis-build-result')
 
 
       print('push commit')
