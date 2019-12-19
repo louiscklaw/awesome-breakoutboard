@@ -2390,3 +2390,27 @@
 	path = witek117/NXPCup2019
 	url = https://github.com/witek117/NXPCup2019
 	shallow = true
+[submodule "T3P3/Duet"]
+	path = T3P3/Duet
+	url = https://github.com/T3P3/Duet.git
+[submodule "T3P3/FilamentMonitors"]
+	path = T3P3/FilamentMonitors
+	url = https://github.com/T3P3/FilamentMonitors.git
+[submodule "T3P3/SmartEffector"]
+	path = T3P3/SmartEffector
+	url = https://github.com/T3P3/SmartEffector.git
+[submodule "T3P3/TempDaughterboards"]
+	path = T3P3/TempDaughterboards
+	url = https://github.com/T3P3/TempDaughterboards.git
+[submodule "T3P3/CurrentLoopControl"]
+	path = T3P3/CurrentLoopControl
+	url = https://github.com/T3P3/CurrentLoopControl.git
+[submodule "T3P3/KosselHotendBoard"]
+	path = T3P3/KosselHotendBoard
+	url = https://github.com/T3P3/KosselHotendBoard.git
+[submodule "T3P3/PanelOne"]
+	path = T3P3/PanelOne
+	url = https://github.com/T3P3/PanelOne.git
+[submodule "T3P3/cable_tester"]
+	path = T3P3/cable_tester
+	url = https://github.com/T3P3/cable_tester.git
