@@ -2598,3 +2598,15 @@
 	path = logxen/SPIEthernetWing
 	url = https://github.com/logxen/SPIEthernetWing.git
 	shallow = true
+[submodule "Creality3DPrinting/CR10-Melzi-1.1.2"]
+	path = Creality3DPrinting/CR10-Melzi-1.1.2
+	url = https://github.com/Creality3DPrinting/CR10-Melzi-1.1.2.git
+	shallow = true
+[submodule "Creality3DPrinting/Ender-3"]
+	path = Creality3DPrinting/Ender-3
+	url = https://github.com/Creality3DPrinting/Ender-3.git
+	shallow = true
+[submodule "Creality3DPrinting/CR-10"]
+	path = Creality3DPrinting/CR-10
+	url = https://github.com/Creality3DPrinting/CR-10.git
+	shallow = true
