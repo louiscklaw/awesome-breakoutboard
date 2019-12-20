@@ -2582,3 +2582,19 @@
 	path = bigtreetech/MK3_Power_Panic
 	url = https://github.com/bigtreetech/MK3_Power_Panic.git
 	shallow = true
+[submodule "Smoothieware/Smoothieboard"]
+	path = Smoothieware/Smoothieboard
+	url = https://github.com/Smoothieware/Smoothieboard.git
+	shallow = true
+[submodule "Smoothieware/Smoothiepanel"]
+	path = Smoothieware/Smoothiepanel
+	url = https://github.com/Smoothieware/Smoothiepanel.git
+	shallow = true
+[submodule "logxen/SPI_Thermocouple"]
+	path = logxen/SPI_Thermocouple
+	url = https://github.com/logxen/SPI_Thermocouple.git
+	shallow = true
+[submodule "logxen/SPIEthernetWing"]
+	path = logxen/SPIEthernetWing
+	url = https://github.com/logxen/SPIEthernetWing.git
+	shallow = true
