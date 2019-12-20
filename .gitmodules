@@ -2430,3 +2430,59 @@
 	path = my12doom/Hardware
 	url = https://github.com/my12doom/Hardware.git
 	shallow = true
+[submodule "Aus3D/RUMBA32"]
+	path = Aus3D/RUMBA32
+	url = https://github.com/Aus3D/RUMBA32.git
+	shallow = true
+[submodule "Aus3D/MightyFan"]
+	path = Aus3D/MightyFan
+	url = https://github.com/Aus3D/MightyFan.git
+	shallow = true
+[submodule "Aus3D/rampshh"]
+	path = Aus3D/rampshh
+	url = https://github.com/Aus3D/rampshh.git
+	shallow = true
+[submodule "Aus3D/PSuSB"]
+	path = Aus3D/PSuSB
+	url = https://github.com/Aus3D/PSuSB.git
+	shallow = true
+[submodule "RUMBA-Plus"]
+	path = RUMBA-Plus
+	url = https://github.com/Aus3D/RUMBA-Plus.git
+	shallow = true
+[submodule "Aus3D/StepstickTester"]
+	path = Aus3D/StepstickTester
+	url = https://github.com/Aus3D/StepstickTester.git
+	shallow = true
+[submodule "Aus3D/TMC26XStepper"]
+	path = Aus3D/TMC26XStepper
+	url = https://github.com/Aus3D/TMC26XStepper.git
+	shallow = true
+[submodule "Aus3D/MagneticEncoder"]
+	path = Aus3D/MagneticEncoder
+	url = https://github.com/Aus3D/MagneticEncoder.git
+	shallow = true
+[submodule "Aus3D/ProtoboardPlus"]
+	path = Aus3D/ProtoboardPlus
+	url = https://github.com/Aus3D/ProtoboardPlus.git
+	shallow = true
+[submodule "Aus3D/TinyFan"]
+	path = Aus3D/TinyFan
+	url = https://github.com/Aus3D/TinyFan.git
+	shallow = true
+[submodule "Aus3D/Filament-Width-Sensor"]
+	path = Aus3D/Filament-Width-Sensor
+	url = https://github.com/Aus3D/Filament-Width-Sensor.git
+	shallow = true
+[submodule "Aus3D/NEMA17-Encoder"]
+	path = Aus3D/NEMA17-Encoder
+	url = https://github.com/Aus3D/NEMA17-Encoder.git
+	shallow = true
+[submodule "ultimachine/EinsyRetro"]
+	path = ultimachine/EinsyRetro
+	url = https://github.com/ultimachine/EinsyRetro.git
+	shallow = true
+[submodule "ultimachine/Tigershark3D"]
+	path = ultimachine/Tigershark3D
+	url = https://github.com/ultimachine/Tigershark3D.git
+	shallow = true
