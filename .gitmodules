@@ -2510,3 +2510,55 @@
 	path = FYSETC/AIO_II
 	url = https://github.com/FYSETC/AIO_II.git
 	shallow = true
+[submodule "makerbase-mks/MKS-Robin"]
+	path = makerbase-mks/MKS-Robin
+	url = https://github.com/makerbase-mks/MKS-Robin.git
+	shallow = true
+[submodule "makerbase-mks/MKS-RUMBA32"]
+	path = makerbase-mks/MKS-RUMBA32
+	url = https://github.com/makerbase-mks/MKS-RUMBA32.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin2"]
+	path = makerbase-mks/MKS-Robin2
+	url = https://github.com/makerbase-mks/MKS-Robin2.git
+	shallow = true
+[submodule "makerbase-mks/MKS-RUMBA-Plus"]
+	path = makerbase-mks/MKS-RUMBA-Plus
+	url = https://github.com/makerbase-mks/MKS-RUMBA-Plus.git
+	shallow = true
+[submodule "makerbase-mks/SGEN_L"]
+	path = makerbase-mks/SGEN_L
+	url = https://github.com/makerbase-mks/SGEN_L.git
+	shallow = true
+[submodule "makerbase-mks/MKS-MINI-V1.2"]
+	path = makerbase-mks/MKS-MINI-V1.2
+	url = https://github.com/makerbase-mks/MKS-MINI-V1.2.git
+	shallow = true
+[submodule "makerbase-mks/MKS-DLC"]
+	path = makerbase-mks/MKS-DLC
+	url = https://github.com/makerbase-mks/MKS-DLC.git
+	shallow = true
+[submodule "makerbase-mks/MKS-DLP"]
+	path = makerbase-mks/MKS-DLP
+	url = https://github.com/makerbase-mks/MKS-DLP.git
+	shallow = true
+[submodule "makerbase-mks/MKS-GEN_L"]
+	path = makerbase-mks/MKS-GEN_L
+	url = https://github.com/makerbase-mks/MKS-GEN_L.git
+	shallow = true
+[submodule "makerbase-mks/MKS-BASE"]
+	path = makerbase-mks/MKS-BASE
+	url = https://github.com/makerbase-mks/MKS-BASE.git
+	shallow = true
+[submodule "makerbase-mks/MKS-GEN"]
+	path = makerbase-mks/MKS-GEN
+	url = https://github.com/makerbase-mks/MKS-GEN.git
+	shallow = true
+[submodule "makerbase-mks/MKS-SGen"]
+	path = makerbase-mks/MKS-SGen
+	url = https://github.com/makerbase-mks/MKS-SGen.git
+	shallow = true
+[submodule "makerbase-mks/MKS-STL"]
+	path = makerbase-mks/MKS-STL
+	url = https://github.com/makerbase-mks/MKS-STL.git
+	shallow = true
