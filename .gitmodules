@@ -2393,24 +2393,40 @@
 [submodule "T3P3/Duet"]
 	path = T3P3/Duet
 	url = https://github.com/T3P3/Duet.git
+	shallow = true
 [submodule "T3P3/FilamentMonitors"]
 	path = T3P3/FilamentMonitors
 	url = https://github.com/T3P3/FilamentMonitors.git
+	shallow = true
 [submodule "T3P3/SmartEffector"]
 	path = T3P3/SmartEffector
 	url = https://github.com/T3P3/SmartEffector.git
+	shallow = true
 [submodule "T3P3/TempDaughterboards"]
 	path = T3P3/TempDaughterboards
 	url = https://github.com/T3P3/TempDaughterboards.git
+	shallow = true
 [submodule "T3P3/CurrentLoopControl"]
 	path = T3P3/CurrentLoopControl
 	url = https://github.com/T3P3/CurrentLoopControl.git
+	shallow = true
 [submodule "T3P3/KosselHotendBoard"]
 	path = T3P3/KosselHotendBoard
 	url = https://github.com/T3P3/KosselHotendBoard.git
+	shallow = true
 [submodule "T3P3/PanelOne"]
 	path = T3P3/PanelOne
 	url = https://github.com/T3P3/PanelOne.git
+	shallow = true
 [submodule "T3P3/cable_tester"]
 	path = T3P3/cable_tester
 	url = https://github.com/T3P3/cable_tester.git
+	shallow = true
+[submodule "stawel/cheali-charger"]
+	path = stawel/cheali-charger
+	url = https://github.com/stawel/cheali-charger.git
+	shallow = true
+[submodule "my12doom/Hardware"]
+	path = my12doom/Hardware
+	url = https://github.com/my12doom/Hardware.git
+	shallow = true
