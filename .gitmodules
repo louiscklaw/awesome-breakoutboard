@@ -2562,3 +2562,23 @@
 	path = makerbase-mks/MKS-STL
 	url = https://github.com/makerbase-mks/MKS-STL.git
 	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-V1.3"]
+	path = bigtreetech/BIGTREETECH-SKR-V1.3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TFT2.8"]
+	path = bigtreetech/BIGTREETECH-TFT2.8
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT2.8.git
+	shallow = true
+[submodule "bigtreetech/BTT-TFT35-E3-V3.0"]
+	path = bigtreetech/BTT-TFT35-E3-V3.0
+	url = https://github.com/bigtreetech/BTT-TFT35-E3-V3.0.git
+	shallow = true
+[submodule "bigtreetech/BTT-WRITER-V1.0"]
+	path = bigtreetech/BTT-WRITER-V1.0
+	url = https://github.com/bigtreetech/BTT-WRITER-V1.0.git
+	shallow = true
+[submodule "bigtreetech/MK3_Power_Panic"]
+	path = bigtreetech/MK3_Power_Panic
+	url = https://github.com/bigtreetech/MK3_Power_Panic.git
+	shallow = true
