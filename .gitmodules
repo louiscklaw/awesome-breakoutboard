@@ -2390,3 +2390,7 @@
 	path = witek117/NXPCup2019
 	url = https://github.com/witek117/NXPCup2019
 	shallow = true
+[submodule "my12doom/Hardware"]
+	path = my12doom/Hardware
+	url = https://github.com/my12doom/Hardware.git
+	shallow = true
