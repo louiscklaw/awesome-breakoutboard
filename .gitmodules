@@ -2390,3 +2390,7 @@
 	path = witek117/NXPCup2019
 	url = https://github.com/witek117/NXPCup2019
 	shallow = true
+[submodule "stawel/cheali-charger"]
+	path = stawel/cheali-charger
+	url = https://github.com/stawel/cheali-charger.git
+	shallow = true
