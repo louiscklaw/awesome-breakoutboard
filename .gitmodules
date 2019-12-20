@@ -2486,3 +2486,27 @@
 	path = ultimachine/Tigershark3D
 	url = https://github.com/ultimachine/Tigershark3D.git
 	shallow = true
+[submodule "GermanRepRap/Ramps-1.4.2"]
+	path = GermanRepRap/Ramps-1.4.2
+	url = https://github.com/GermanRepRap/Ramps-1.4.2.git
+	shallow = true
+[submodule "FYSETC/FYSETC-S6"]
+	path = FYSETC/FYSETC-S6
+	url = https://github.com/FYSETC/FYSETC-S6.git
+	shallow = true
+[submodule "FYSETC/F6"]
+	path = FYSETC/F6
+	url = https://github.com/FYSETC/F6.git
+	shallow = true
+[submodule "FYSETC/Generic-12864-panel"]
+	path = FYSETC/Generic-12864-panel
+	url = https://github.com/FYSETC/Generic-12864-panel.git
+	shallow = true
+[submodule "FYSETC/Cheetah"]
+	path = FYSETC/Cheetah
+	url = https://github.com/FYSETC/Cheetah.git
+	shallow = true
+[submodule "FYSETC/AIO_II"]
+	path = FYSETC/AIO_II
+	url = https://github.com/FYSETC/AIO_II.git
+	shallow = true
