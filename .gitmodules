@@ -2390,3 +2390,223 @@
 	path = witek117/NXPCup2019
 	url = https://github.com/witek117/NXPCup2019
 	shallow = true
+[submodule "T3P3/Duet"]
+	path = T3P3/Duet
+	url = https://github.com/T3P3/Duet.git
+	shallow = true
+[submodule "T3P3/FilamentMonitors"]
+	path = T3P3/FilamentMonitors
+	url = https://github.com/T3P3/FilamentMonitors.git
+	shallow = true
+[submodule "T3P3/SmartEffector"]
+	path = T3P3/SmartEffector
+	url = https://github.com/T3P3/SmartEffector.git
+	shallow = true
+[submodule "T3P3/TempDaughterboards"]
+	path = T3P3/TempDaughterboards
+	url = https://github.com/T3P3/TempDaughterboards.git
+	shallow = true
+[submodule "T3P3/CurrentLoopControl"]
+	path = T3P3/CurrentLoopControl
+	url = https://github.com/T3P3/CurrentLoopControl.git
+	shallow = true
+[submodule "T3P3/KosselHotendBoard"]
+	path = T3P3/KosselHotendBoard
+	url = https://github.com/T3P3/KosselHotendBoard.git
+	shallow = true
+[submodule "T3P3/PanelOne"]
+	path = T3P3/PanelOne
+	url = https://github.com/T3P3/PanelOne.git
+	shallow = true
+[submodule "T3P3/cable_tester"]
+	path = T3P3/cable_tester
+	url = https://github.com/T3P3/cable_tester.git
+	shallow = true
+[submodule "stawel/cheali-charger"]
+	path = stawel/cheali-charger
+	url = https://github.com/stawel/cheali-charger.git
+	shallow = true
+[submodule "my12doom/Hardware"]
+	path = my12doom/Hardware
+	url = https://github.com/my12doom/Hardware.git
+	shallow = true
+[submodule "Aus3D/RUMBA32"]
+	path = Aus3D/RUMBA32
+	url = https://github.com/Aus3D/RUMBA32.git
+	shallow = true
+[submodule "Aus3D/MightyFan"]
+	path = Aus3D/MightyFan
+	url = https://github.com/Aus3D/MightyFan.git
+	shallow = true
+[submodule "Aus3D/rampshh"]
+	path = Aus3D/rampshh
+	url = https://github.com/Aus3D/rampshh.git
+	shallow = true
+[submodule "Aus3D/PSuSB"]
+	path = Aus3D/PSuSB
+	url = https://github.com/Aus3D/PSuSB.git
+	shallow = true
+[submodule "RUMBA-Plus"]
+	path = RUMBA-Plus
+	url = https://github.com/Aus3D/RUMBA-Plus.git
+	shallow = true
+[submodule "Aus3D/StepstickTester"]
+	path = Aus3D/StepstickTester
+	url = https://github.com/Aus3D/StepstickTester.git
+	shallow = true
+[submodule "Aus3D/TMC26XStepper"]
+	path = Aus3D/TMC26XStepper
+	url = https://github.com/Aus3D/TMC26XStepper.git
+	shallow = true
+[submodule "Aus3D/MagneticEncoder"]
+	path = Aus3D/MagneticEncoder
+	url = https://github.com/Aus3D/MagneticEncoder.git
+	shallow = true
+[submodule "Aus3D/ProtoboardPlus"]
+	path = Aus3D/ProtoboardPlus
+	url = https://github.com/Aus3D/ProtoboardPlus.git
+	shallow = true
+[submodule "Aus3D/TinyFan"]
+	path = Aus3D/TinyFan
+	url = https://github.com/Aus3D/TinyFan.git
+	shallow = true
+[submodule "Aus3D/Filament-Width-Sensor"]
+	path = Aus3D/Filament-Width-Sensor
+	url = https://github.com/Aus3D/Filament-Width-Sensor.git
+	shallow = true
+[submodule "Aus3D/NEMA17-Encoder"]
+	path = Aus3D/NEMA17-Encoder
+	url = https://github.com/Aus3D/NEMA17-Encoder.git
+	shallow = true
+[submodule "ultimachine/EinsyRetro"]
+	path = ultimachine/EinsyRetro
+	url = https://github.com/ultimachine/EinsyRetro.git
+	shallow = true
+[submodule "ultimachine/Tigershark3D"]
+	path = ultimachine/Tigershark3D
+	url = https://github.com/ultimachine/Tigershark3D.git
+	shallow = true
+[submodule "GermanRepRap/Ramps-1.4.2"]
+	path = GermanRepRap/Ramps-1.4.2
+	url = https://github.com/GermanRepRap/Ramps-1.4.2.git
+	shallow = true
+[submodule "FYSETC/FYSETC-S6"]
+	path = FYSETC/FYSETC-S6
+	url = https://github.com/FYSETC/FYSETC-S6.git
+	shallow = true
+[submodule "FYSETC/F6"]
+	path = FYSETC/F6
+	url = https://github.com/FYSETC/F6.git
+	shallow = true
+[submodule "FYSETC/Generic-12864-panel"]
+	path = FYSETC/Generic-12864-panel
+	url = https://github.com/FYSETC/Generic-12864-panel.git
+	shallow = true
+[submodule "FYSETC/Cheetah"]
+	path = FYSETC/Cheetah
+	url = https://github.com/FYSETC/Cheetah.git
+	shallow = true
+[submodule "FYSETC/AIO_II"]
+	path = FYSETC/AIO_II
+	url = https://github.com/FYSETC/AIO_II.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin"]
+	path = makerbase-mks/MKS-Robin
+	url = https://github.com/makerbase-mks/MKS-Robin.git
+	shallow = true
+[submodule "makerbase-mks/MKS-RUMBA32"]
+	path = makerbase-mks/MKS-RUMBA32
+	url = https://github.com/makerbase-mks/MKS-RUMBA32.git
+	shallow = true
+[submodule "makerbase-mks/MKS-Robin2"]
+	path = makerbase-mks/MKS-Robin2
+	url = https://github.com/makerbase-mks/MKS-Robin2.git
+	shallow = true
+[submodule "makerbase-mks/MKS-RUMBA-Plus"]
+	path = makerbase-mks/MKS-RUMBA-Plus
+	url = https://github.com/makerbase-mks/MKS-RUMBA-Plus.git
+	shallow = true
+[submodule "makerbase-mks/SGEN_L"]
+	path = makerbase-mks/SGEN_L
+	url = https://github.com/makerbase-mks/SGEN_L.git
+	shallow = true
+[submodule "makerbase-mks/MKS-MINI-V1.2"]
+	path = makerbase-mks/MKS-MINI-V1.2
+	url = https://github.com/makerbase-mks/MKS-MINI-V1.2.git
+	shallow = true
+[submodule "makerbase-mks/MKS-DLC"]
+	path = makerbase-mks/MKS-DLC
+	url = https://github.com/makerbase-mks/MKS-DLC.git
+	shallow = true
+[submodule "makerbase-mks/MKS-DLP"]
+	path = makerbase-mks/MKS-DLP
+	url = https://github.com/makerbase-mks/MKS-DLP.git
+	shallow = true
+[submodule "makerbase-mks/MKS-GEN_L"]
+	path = makerbase-mks/MKS-GEN_L
+	url = https://github.com/makerbase-mks/MKS-GEN_L.git
+	shallow = true
+[submodule "makerbase-mks/MKS-BASE"]
+	path = makerbase-mks/MKS-BASE
+	url = https://github.com/makerbase-mks/MKS-BASE.git
+	shallow = true
+[submodule "makerbase-mks/MKS-GEN"]
+	path = makerbase-mks/MKS-GEN
+	url = https://github.com/makerbase-mks/MKS-GEN.git
+	shallow = true
+[submodule "makerbase-mks/MKS-SGen"]
+	path = makerbase-mks/MKS-SGen
+	url = https://github.com/makerbase-mks/MKS-SGen.git
+	shallow = true
+[submodule "makerbase-mks/MKS-STL"]
+	path = makerbase-mks/MKS-STL
+	url = https://github.com/makerbase-mks/MKS-STL.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-SKR-V1.3"]
+	path = bigtreetech/BIGTREETECH-SKR-V1.3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3.git
+	shallow = true
+[submodule "bigtreetech/BIGTREETECH-TFT2.8"]
+	path = bigtreetech/BIGTREETECH-TFT2.8
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT2.8.git
+	shallow = true
+[submodule "bigtreetech/BTT-TFT35-E3-V3.0"]
+	path = bigtreetech/BTT-TFT35-E3-V3.0
+	url = https://github.com/bigtreetech/BTT-TFT35-E3-V3.0.git
+	shallow = true
+[submodule "bigtreetech/BTT-WRITER-V1.0"]
+	path = bigtreetech/BTT-WRITER-V1.0
+	url = https://github.com/bigtreetech/BTT-WRITER-V1.0.git
+	shallow = true
+[submodule "bigtreetech/MK3_Power_Panic"]
+	path = bigtreetech/MK3_Power_Panic
+	url = https://github.com/bigtreetech/MK3_Power_Panic.git
+	shallow = true
+[submodule "Smoothieware/Smoothieboard"]
+	path = Smoothieware/Smoothieboard
+	url = https://github.com/Smoothieware/Smoothieboard.git
+	shallow = true
+[submodule "Smoothieware/Smoothiepanel"]
+	path = Smoothieware/Smoothiepanel
+	url = https://github.com/Smoothieware/Smoothiepanel.git
+	shallow = true
+[submodule "logxen/SPI_Thermocouple"]
+	path = logxen/SPI_Thermocouple
+	url = https://github.com/logxen/SPI_Thermocouple.git
+	shallow = true
+[submodule "logxen/SPIEthernetWing"]
+	path = logxen/SPIEthernetWing
+	url = https://github.com/logxen/SPIEthernetWing.git
+	shallow = true
+[submodule "Creality3DPrinting/CR10-Melzi-1.1.2"]
+	path = Creality3DPrinting/CR10-Melzi-1.1.2
+	url = https://github.com/Creality3DPrinting/CR10-Melzi-1.1.2.git
+	shallow = true
+[submodule "Creality3DPrinting/Ender-3"]
+	path = Creality3DPrinting/Ender-3
+	url = https://github.com/Creality3DPrinting/Ender-3.git
+	shallow = true
+[submodule "Creality3DPrinting/CR-10"]
+	path = Creality3DPrinting/CR-10
+	url = https://github.com/Creality3DPrinting/CR-10.git
+	shallow = true
