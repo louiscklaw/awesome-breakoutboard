@@ -2622,3 +2622,11 @@
 	path = cutiepi-io/cutiepi-board
 	url = https://github.com/cutiepi-io/cutiepi-board.git
 	shallow = true
+[submodule "DFRobot/DFRobot_3V-Relay-Module"]
+	path = DFRobot/DFRobot_3V-Relay-Module
+	url = https://github.com/DFRobot/DFRobot_3V-Relay-Module
+	shallow = true
+[submodule "DFRobot/DS1307_RTC"]
+	path = DFRobot/DS1307_RTC
+	url = https://github.com/DFRobot/DS1307_RTC
+	shallow = true
