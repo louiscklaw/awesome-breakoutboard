@@ -2622,3 +2622,110 @@
 	path = cutiepi-io/cutiepi-board
 	url = https://github.com/cutiepi-io/cutiepi-board.git
 	shallow = true
+[submodule "ccadic/RaspberryPagernRF24"]
+	path = ccadic/RaspberryPagernRF24
+	url = https://github.com/ccadic/RaspberryPagernRF24.git
+	shallow = true
+[submodule "ccadic/emergencypager"]
+	path = ccadic/emergencypager
+	url = https://github.com/ccadic/emergencypager.git
+	shallow = true
+[submodule "ccadic/ATSAMD51G18A_VQFN48"]
+	path = ccadic/ATSAMD51G18A_VQFN48
+	url = https://github.com/ccadic/ATSAMD51G18A_VQFN48.git
+	shallow = true
+[submodule "ccadic/BlaspBerry"]
+	path = ccadic/BlaspBerry
+	url = https://github.com/ccadic/BlaspBerry.git
+	shallow = true
+[submodule "ccadic/SnapOnAirDUO"]
+	path = ccadic/SnapOnAirDUO
+	url = https://github.com/ccadic/SnapOnAirDUO.git
+	shallow = true
+[submodule "ccadic/lorawanrpi0wshield"]
+	path = ccadic/lorawanrpi0wshield
+	url = https://github.com/ccadic/lorawanrpi0wshield.git
+	shallow = true
+[submodule "ccadic/analogkeyboard"]
+	path = ccadic/analogkeyboard
+	url = https://github.com/ccadic/analogkeyboard.git
+	shallow = true
+[submodule "ccadic/AzertyAnalogKB"]
+	path = ccadic/AzertyAnalogKB
+	url = https://github.com/ccadic/AzertyAnalogKB.git
+	shallow = true
+[submodule "ccadic/WaveShare42-Epaper"]
+	path = ccadic/WaveShare42-Epaper
+	url = https://github.com/ccadic/WaveShare42-Epaper.git
+	shallow = true
+[submodule "ccadic/Kicad_PAD"]
+	path = ccadic/Kicad_PAD
+	url = https://github.com/ccadic/Kicad_PAD.git
+	shallow = true
+[submodule "ccadic/esp32dev-node"]
+	path = ccadic/esp32dev-node
+	url = https://github.com/ccadic/esp32dev-node.git
+	shallow = true
+[submodule "ccadic/microusb_handsoldering_kicad"]
+	path = ccadic/microusb_handsoldering_kicad
+	url = https://github.com/ccadic/microusb_handsoldering_kicad.git
+	shallow = true
+[submodule "ccadic/LoraWalkieTalkie"]
+	path = ccadic/LoraWalkieTalkie
+	url = https://github.com/ccadic/LoraWalkieTalkie.git
+	shallow = true
+[submodule "ccadic/SnapOnAir_3GLORA"]
+	path = ccadic/SnapOnAir_3GLORA
+	url = https://github.com/ccadic/SnapOnAir_3GLORA.git
+	shallow = true
+[submodule "ccadic/FeatherPager"]
+	path = ccadic/FeatherPager
+	url = https://github.com/ccadic/FeatherPager.git
+	shallow = true
+[submodule "ccadic/NES_ESP32"]
+	path = ccadic/NES_ESP32
+	url = https://github.com/ccadic/NES_ESP32.git
+	shallow = true
+[submodule "ccadic/Snap_On_AIR_SMSPager_Bi"]
+	path = ccadic/Snap_On_AIR_SMSPager_Bi
+	url = https://github.com/ccadic/Snap_On_AIR_SMSPager_Bi.git
+	shallow = true
+[submodule "ccadic/ESP32MINIMAL"]
+	path = ccadic/ESP32MINIMAL
+	url = https://github.com/ccadic/ESP32MINIMAL.git
+	shallow = true
+[submodule "ccadic/NanoPI_Duo2"]
+	path = ccadic/NanoPI_Duo2
+	url = https://github.com/ccadic/NanoPI_Duo2.git
+	shallow = true
+[submodule "ccadic/SnapOnAir-GSM-Lora"]
+	path = ccadic/SnapOnAir-GSM-Lora
+	url = https://github.com/ccadic/SnapOnAir-GSM-Lora.git
+	shallow = true
+[submodule "ccadic/DUAL154IPS"]
+	path = ccadic/DUAL154IPS
+	url = https://github.com/ccadic/DUAL154IPS.git
+	shallow = true
+[submodule "ccadic/IPS_Bread"]
+	path = ccadic/IPS_Bread
+	url = https://github.com/ccadic/IPS_Bread.git
+	shallow = true
+[submodule "ccadic/TTGO-ESP32-KICAD"]
+	path = ccadic/TTGO-ESP32-KICAD
+	url = https://github.com/ccadic/TTGO-ESP32-KICAD.git
+	shallow = true
+[submodule "ccadic/SnapOnAir_Discovery2"]
+	path = ccadic/SnapOnAir_Discovery2
+	url = https://github.com/ccadic/SnapOnAir_Discovery2.git
+	shallow = true
+[submodule "ccadic/SnapOnAirMini_V3"]
+	path = ccadic/SnapOnAirMini_V3
+	url = https://github.com/ccadic/SnapOnAirMini_V3.git
+[submodule "DFRobot/DFRobot_3V-Relay-Module"]
+	path = DFRobot/DFRobot_3V-Relay-Module
+	url = https://github.com/DFRobot/DFRobot_3V-Relay-Module
+	shallow = true
+[submodule "DFRobot/DS1307_RTC"]
+	path = DFRobot/DS1307_RTC
+	url = https://github.com/DFRobot/DS1307_RTC
+	shallow = true
