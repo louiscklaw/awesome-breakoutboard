@@ -2614,3 +2614,7 @@
 	path = bq/zum
 	url = https://github.com/bq/zum.git
 	shallow = true
+[submodule "coddingtonbear/kicad-castellated-breakouts"]
+	path = coddingtonbear/kicad-castellated-breakouts
+	url = https://github.com/coddingtonbear/kicad-castellated-breakouts.git
+	shallow = true
