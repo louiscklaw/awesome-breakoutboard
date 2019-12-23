@@ -2610,3 +2610,7 @@
 	path = Creality3DPrinting/CR-10
 	url = https://github.com/Creality3DPrinting/CR-10.git
 	shallow = true
+[submodule "bq/zum"]
+	path = bq/zum
+	url = https://github.com/bq/zum.git
+	shallow = true
