@@ -17,7 +17,7 @@ TRAVIS_COMMIT = os.environ['TRAVIS_COMMIT']
 TRAVIS_BUILD_NUMBER = os.environ['TRAVIS_BUILD_NUMBER']
 GITHUB_REPO = os.environ['TRAVIS_REPO_SLUG']
 GITHUB_SECRET_TOKEN = os.environ['GITHUB_SECRET_TOKEN']
-
+TRAVIS_COMMIT_MESSAGE = os.environ['TRAVIS_COMMIT_MESSAGE']
 
 PUSH_URI="https://{}@github.com/{}".format(GITHUB_SECRET_TOKEN, GITHUB_REPO)
 
@@ -54,7 +54,8 @@ else:
       if result_to_check.failed:
         slack_message('error found during merging BUILD{} `{}` from `{}` to `{}`'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
       else:
-        slack_message('merging BUILD{} from {} `{}` to `{}` done'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO), '#travis-build-result')
+        slack_message('merging BUILD{} from {} `{}` to `{}` done, commit message "{}"'.format(TRAVIS_BUILD_NUMBER, GITHUB_REPO, TRAVIS_BRANCH, BRANCH_TO_MERGE_INTO, TRAVIS_COMMIT_MESSAGE), '#travis-build-result')
+
 
       print('push commit')
       run_command("git push {} {}".format(PUSH_URI, BRANCH_TO_MERGE_INTO))

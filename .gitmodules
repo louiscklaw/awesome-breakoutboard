@@ -758,6 +758,26 @@
 	path = prusa3d/IR-MH-sensor-PCB
 	url = https://github.com/prusa3d/IR-MH-sensor-PCB.git
 	shallow = true
+[submodule "prusa3d/Heatbed-Mini-PCB"]
+	path = prusa3d/Heatbed-Mini-PCB
+	url = https://github.com/prusa3d/Heatbed-Mini-PCB.git
+	shallow = true
+[submodule "prusa3d/Heatbed_MK52_magnetic"]
+	path = prusa3d/Heatbed_MK52_magnetic
+	url = https://github.com/prusa3d/Heatbed_MK52_magnetic.git
+	shallow = true
+[submodule "prusa3d/MK2mm_Stepper_switch"]
+	path = prusa3d/MK2mm_Stepper_switch
+	url = https://github.com/prusa3d/MK2mm_Stepper_switch.git
+	shallow = true
+[submodule "prusa3d/PRUSA_Laser_filament_sensor"]
+	path = prusa3d/PRUSA_Laser_filament_sensor
+	url = https://github.com/prusa3d/PRUSA_Laser_filament_sensor.git
+	shallow = true
+[submodule "prusa3d/Buddy-board-MINI-PCB"]
+	path = prusa3d/Buddy-board-MINI-PCB
+	url = https://github.com/prusa3d/Buddy-board-MINI-PCB.git
+	shallow = true
 [submodule "freetronics/RELAY16MEGA"]
 	path = freetronics/RELAY16MEGA
 	url = https://github.com/freetronics/RELAY16MEGA
@@ -2357,4 +2377,16 @@
 [submodule "m5stack/M5-Schematic"]
 	path = m5stack/M5-Schematic
 	url = https://github.com/m5stack/M5-Schematic.git
+	shallow = true
+[submodule "ARoozitalab/STM32F4-Eval-board"]
+	path = ARoozitalab/STM32F4-Eval-board
+	url = https://github.com/ARoozitalab/STM32F4-Eval-board
+	shallow = true
+[submodule "witek117/ESP32DevBoard"]
+	path = witek117/ESP32DevBoard
+	url = https://github.com/witek117/ESP32DevBoard
+	shallow = true
+[submodule "witek117/NXPCup2019"]
+	path = witek117/NXPCup2019
+	url = https://github.com/witek117/NXPCup2019
 	shallow = true
