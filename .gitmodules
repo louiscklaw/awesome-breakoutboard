@@ -2610,6 +2610,21 @@
 	path = Creality3DPrinting/CR-10
 	url = https://github.com/Creality3DPrinting/CR-10.git
 	shallow = true
+[submodule "NaoNaoMe/Uart-WiFi-Board"]
+	path = NaoNaoMe/Uart-WiFi-Board
+	url = https://github.com/NaoNaoMe/Uart-WiFi-Board.git
+	shallow = true
+[submodule "NaoNaoMe/CC-samd21g"]
+	path = NaoNaoMe/CC-samd21g
+	url = https://github.com/NaoNaoMe/CC-samd21g.git
+	shallow = true
+[submodule "NaoNaoMe/CC-mega328"]
+	path = NaoNaoMe/CC-mega328
+	url = https://github.com/NaoNaoMe/CC-mega328.git
+	shallow = true
+[submodule "NaoNaoMe/General-Serial-Communication-Board"]
+	path = NaoNaoMe/General-Serial-Communication-Board
+	url = https://github.com/NaoNaoMe/General-Serial-Communication-Board.git
 [submodule "bq/zum"]
 	path = bq/zum
 	url = https://github.com/bq/zum.git
