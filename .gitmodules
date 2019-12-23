@@ -2625,6 +2625,7 @@
 [submodule "NaoNaoMe/General-Serial-Communication-Board"]
 	path = NaoNaoMe/General-Serial-Communication-Board
 	url = https://github.com/NaoNaoMe/General-Serial-Communication-Board.git
+	shallow = true
 [submodule "bq/zum"]
 	path = bq/zum
 	url = https://github.com/bq/zum.git
@@ -2736,6 +2737,7 @@
 [submodule "ccadic/SnapOnAirMini_V3"]
 	path = ccadic/SnapOnAirMini_V3
 	url = https://github.com/ccadic/SnapOnAirMini_V3.git
+	shallow = true
 [submodule "DFRobot/DFRobot_3V-Relay-Module"]
 	path = DFRobot/DFRobot_3V-Relay-Module
 	url = https://github.com/DFRobot/DFRobot_3V-Relay-Module
@@ -2743,4 +2745,8 @@
 [submodule "DFRobot/DS1307_RTC"]
 	path = DFRobot/DS1307_RTC
 	url = https://github.com/DFRobot/DS1307_RTC
+	shallow = true
+[submodule "etimou/arduino-pro-mini-kicad"]
+	path = etimou/arduino-pro-mini-kicad
+	url = https://github.com/etimou/arduino-pro-mini-kicad.git
 	shallow = true
