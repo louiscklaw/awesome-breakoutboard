@@ -2814,3 +2814,295 @@
 	path = pdp7/ohs18addon
 	url = https://github.com/pdp7/ohs18addon.git
 	shallow = true
+[submodule "beagleboard/BeagleBoneEnhanced"]
+	path = beagleboard/BeagleBoneEnhanced
+	url = https://github.com/beagleboard/BeagleBoneEnhanced.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevB7"]
+	path = CircuitCo/BeagleBoard-RevB7
+	url = https://github.com/CircuitCo/BeagleBoard-RevB7.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevC2"]
+	path = CircuitCo/BeagleBoard-RevC2
+	url = https://github.com/CircuitCo/BeagleBoard-RevC2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevC3"]
+	path = CircuitCo/BeagleBoard-RevC3
+	url = https://github.com/CircuitCo/BeagleBoard-RevC3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevC4"]
+	path = CircuitCo/BeagleBoard-RevC4
+	url = https://github.com/CircuitCo/BeagleBoard-RevC4.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevC5"]
+	path = CircuitCo/BeagleBoard-RevC5
+	url = https://github.com/CircuitCo/BeagleBoard-RevC5.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-RevA2"]
+	path = CircuitCo/BeagleBoard-xM-RevA2
+	url = https://github.com/CircuitCo/BeagleBoard-xM-RevA2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-RevA3"]
+	path = CircuitCo/BeagleBoard-xM-RevA3
+	url = https://github.com/CircuitCo/BeagleBoard-xM-RevA3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-RevC"]
+	path = CircuitCo/BeagleBoard-xM-RevC
+	url = https://github.com/CircuitCo/BeagleBoard-xM-RevC.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-3.1MP-Camera-RevA1"]
+	path = CircuitCo/BeagleBone-3.1MP-Camera-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-3.1MP-Camera-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Battery"]
+	path = CircuitCo/BeagleBone-Battery
+	url = https://github.com/CircuitCo/BeagleBone-Battery.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Battery-RevA"]
+	path = CircuitCo/BeagleBone-Battery-RevA
+	url = https://github.com/CircuitCo/BeagleBone-Battery-RevA.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Breadboard"]
+	path = CircuitCo/BeagleBone-Breadboard
+	url = https://github.com/CircuitCo/BeagleBone-Breadboard.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Breakout"]
+	path = CircuitCo/BeagleBone-Breakout
+	url = https://github.com/CircuitCo/BeagleBone-Breakout.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-RevA"]
+	path = CircuitCo/BeagleBone-DVI-D-RevA
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-RevA.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-RevA1"]
+	path = CircuitCo/BeagleBone-DVI-D-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-RevA2"]
+	path = CircuitCo/BeagleBone-DVI-D-RevA2
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-RevA2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD3-RevA1"]
+	path = CircuitCo/BeagleBone-LCD3-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-LCD3-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RevA3"]
+	path = CircuitCo/BeagleBone-RevA3
+	url = https://github.com/CircuitCo/BeagleBone-RevA3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RevA4"]
+	path = CircuitCo/BeagleBone-RevA4
+	url = https://github.com/CircuitCo/BeagleBone-RevA4.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RevA5"]
+	path = CircuitCo/BeagleBone-RevA5
+	url = https://github.com/CircuitCo/BeagleBone-RevA5.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Weather-RevA"]
+	path = CircuitCo/BeagleBone-Weather-RevA
+	url = https://github.com/CircuitCo/BeagleBone-Weather-RevA.git
+	shallow = true
+[submodule "BeagleBoard-RevD"]
+	path = BeagleBoard-RevD
+	url = https://github.com/CircuitCo/BeagleBoard-RevD.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-RevD"]
+	path = CircuitCo/BeagleBoard-RevD
+	url = https://github.com/CircuitCo/BeagleBoard-RevD.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-LCD7-RevB"]
+	path = CircuitCo/BeagleBoard-xM-LCD7-RevB
+	url = https://github.com/CircuitCo/BeagleBoard-xM-LCD7-RevB.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-RevC1"]
+	path = CircuitCo/BeagleBoard-xM-RevC1
+	url = https://github.com/CircuitCo/BeagleBoard-xM-RevC1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBoard-xM-RevC2"]
+	path = CircuitCo/BeagleBoard-xM-RevC2
+	url = https://github.com/CircuitCo/BeagleBoard-xM-RevC2.git
+	shallow = true
+[submodule "Revision"]
+	path = Revision
+	url = https://github.com/CircuitCo/BeagleBone
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RevA6"]
+	path = CircuitCo/BeagleBone-RevA6
+	url = https://github.com/CircuitCo/BeagleBone-RevA6.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-3.1MP-Camera"]
+	path = CircuitCo/BeagleBone-3.1MP-Camera
+	url = https://github.com/CircuitCo/BeagleBone-3.1MP-Camera.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-4Gb-16-Bit-NAND-Module-RevA1"]
+	path = CircuitCo/BeagleBone-4Gb-16-Bit-NAND-Module-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-4Gb-16-Bit-NAND-Module-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Audio-RevA"]
+	path = CircuitCo/BeagleBone-Audio-RevA
+	url = https://github.com/CircuitCo/BeagleBone-Audio-RevA.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Breadboard-RevA1"]
+	path = CircuitCo/BeagleBone-Breadboard-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-Breadboard-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-CANBus-RevA1"]
+	path = CircuitCo/BeagleBone-CANBus-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-CANBus-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D"]
+	path = CircuitCo/BeagleBone-DVI-D
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-RevA3"]
+	path = CircuitCo/BeagleBone-DVI-D-RevA3
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-RevA3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-with-Audio"]
+	path = CircuitCo/BeagleBone-DVI-D-with-Audio
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-with-Audio.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-DVI-D-with-Audio-RevA"]
+	path = CircuitCo/BeagleBone-DVI-D-with-Audio-RevA
+	url = https://github.com/CircuitCo/BeagleBone-DVI-D-with-Audio-RevA.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD3"]
+	path = CircuitCo/BeagleBone-LCD3
+	url = https://github.com/CircuitCo/BeagleBone-LCD3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD3-RevA2"]
+	path = CircuitCo/BeagleBone-LCD3-RevA2
+	url = https://github.com/CircuitCo/BeagleBone-LCD3-RevA2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD4-RevA1"]
+	path = CircuitCo/BeagleBone-LCD4-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-LCD4-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD7"]
+	path = CircuitCo/BeagleBone-LCD7
+	url = https://github.com/CircuitCo/BeagleBone-LCD7.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD7-RevA1"]
+	path = CircuitCo/BeagleBone-LCD7-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-LCD7-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD7-RevA2"]
+	path = CircuitCo/BeagleBone-LCD7-RevA2
+	url = https://github.com/CircuitCo/BeagleBone-LCD7-RevA2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-LCD7-RevA3"]
+	path = CircuitCo/BeagleBone-LCD7-RevA3
+	url = https://github.com/CircuitCo/BeagleBone-LCD7-RevA3.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Memory-Expansion-RevA1"]
+	path = CircuitCo/BeagleBone-Memory-Expansion-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-Memory-Expansion-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RS232"]
+	path = CircuitCo/BeagleBone-RS232
+	url = https://github.com/CircuitCo/BeagleBone-RS232.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RS232-RevA1"]
+	path = CircuitCo/BeagleBone-RS232-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-RS232-RevA1.git
+	shallow = true
+[submodule "CircuitCo/Basic-Proto-Cape"]
+	path = CircuitCo/Basic-Proto-Cape
+	url = https://github.com/CircuitCo/Basic-Proto-Cape.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-128Mb-16-Bit-NOR-Module-RevA1"]
+	path = CircuitCo/BeagleBone-128Mb-16-Bit-NOR-Module-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-128Mb-16-Bit-NOR-Module-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Audio"]
+	path = CircuitCo/BeagleBone-Audio
+	url = https://github.com/CircuitCo/BeagleBone-Audio.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Black-A6"]
+	path = CircuitCo/BeagleBone-Black-A6
+	url = https://github.com/CircuitCo/BeagleBone-Black-A6.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Black-RevA5A"]
+	path = CircuitCo/BeagleBone-Black-RevA5A
+	url = https://github.com/CircuitCo/BeagleBone-Black-RevA5A.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Black-RevA5B"]
+	path = CircuitCo/BeagleBone-Black-RevA5B
+	url = https://github.com/CircuitCo/BeagleBone-Black-RevA5B.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Black-RevA5C"]
+	path = CircuitCo/BeagleBone-Black-RevA5C
+	url = https://github.com/CircuitCo/BeagleBone-Black-RevA5C.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Black"]
+	path = CircuitCo/BeagleBone-Black
+	url = https://github.com/CircuitCo/BeagleBone-Black.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-CANBus-RevA2"]
+	path = CircuitCo/BeagleBone-CANBus-RevA2
+	url = https://github.com/CircuitCo/BeagleBone-CANBus-RevA2.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-CANBus"]
+	path = CircuitCo/BeagleBone-CANBus
+	url = https://github.com/CircuitCo/BeagleBone-CANBus.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Motor-NXT-RevA1"]
+	path = CircuitCo/BeagleBone-Motor-NXT-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-Motor-NXT-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Motor-SCT-RevA1"]
+	path = CircuitCo/BeagleBone-Motor-SCT-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-Motor-SCT-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RF-RevA1"]
+	path = CircuitCo/BeagleBone-RF-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-RF-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-RS485-RevA1"]
+	path = CircuitCo/BeagleBone-RS485-RevA1
+	url = https://github.com/CircuitCo/BeagleBone-RS485-RevA1.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-TiWi5E-Chip"]
+	path = CircuitCo/BeagleBone-TiWi5E-Chip
+	url = https://github.com/CircuitCo/BeagleBone-TiWi5E-Chip.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-TiWi5E-External"]
+	path = CircuitCo/BeagleBone-TiWi5E-External
+	url = https://github.com/CircuitCo/BeagleBone-TiWi5E-External.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-TiWiBLE-Chip"]
+	path = CircuitCo/BeagleBone-TiWiBLE-Chip
+	url = https://github.com/CircuitCo/BeagleBone-TiWiBLE-Chip.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-TiWiBLE-External"]
+	path = CircuitCo/BeagleBone-TiWiBLE-External
+	url = https://github.com/CircuitCo/BeagleBone-TiWiBLE-External.git
+	shallow = true
+[submodule "CircuitCo/BeagleBone-Weather"]
+	path = CircuitCo/BeagleBone-Weather
+	url = https://github.com/CircuitCo/BeagleBone-Weather.git
+	shallow = true
+[submodule "CircuitCo/Extended-Proto-Cape"]
+	path = CircuitCo/Extended-Proto-Cape
+	url = https://github.com/CircuitCo/Extended-Proto-Cape.git
+	shallow = true
+[submodule "CircuitCo/Generic-Proto-Cape"]
+	path = CircuitCo/Generic-Proto-Cape
+	url = https://github.com/CircuitCo/Generic-Proto-Cape.git
+	shallow = true
+[submodule "CircuitCo/MicroSD-BoosterPack-RevA1"]
+	path = CircuitCo/MicroSD-BoosterPack-RevA1
+	url = https://github.com/CircuitCo/MicroSD-BoosterPack-RevA1.git
+	shallow = true
+[submodule "CircuitCo/Proto-BoosterPack-RevA1"]
+	path = CircuitCo/Proto-BoosterPack-RevA1
+	url = https://github.com/CircuitCo/Proto-BoosterPack-RevA1.git
+	shallow = true
+[submodule "CircuitCo/RTC-Cape"]
+	path = CircuitCo/RTC-Cape
+	url = https://github.com/CircuitCo/RTC-Cape.git
+	shallow = true
+[submodule "CircuitCo/WiFly-BoosterPack-RevA1"]
+	path = CircuitCo/WiFly-BoosterPack-RevA1
+	url = https://github.com/CircuitCo/WiFly-BoosterPack-RevA1.git
+	shallow = true
