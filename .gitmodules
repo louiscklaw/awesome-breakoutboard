@@ -2750,3 +2750,7 @@
 	path = etimou/arduino-pro-mini-kicad
 	url = https://github.com/etimou/arduino-pro-mini-kicad.git
 	shallow = true
+[submodule "pimoroni/automation-hat"]
+	path = pimoroni/automation-hat
+	url = https://github.com/pimoroni/automation-hat.git
+	shallow = true
