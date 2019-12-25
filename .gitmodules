@@ -2922,10 +2922,6 @@
 	path = CircuitCo/BeagleBoard-xM-RevC2
 	url = https://github.com/CircuitCo/BeagleBoard-xM-RevC2.git
 	shallow = true
-[submodule "Revision"]
-	path = Revision
-	url = https://github.com/CircuitCo/BeagleBone
-	shallow = true
 [submodule "CircuitCo/BeagleBone-RevA6"]
 	path = CircuitCo/BeagleBone-RevA6
 	url = https://github.com/CircuitCo/BeagleBone-RevA6.git
