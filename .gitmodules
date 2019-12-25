@@ -2766,3 +2766,51 @@
 	path = aspro648/Beetje-Bloks
 	url = https://github.com/aspro648/Beetje-Bloks.git
 	shallow = true
+[submodule "pdp7/rotary-encoder-breakout"]
+	path = pdp7/rotary-encoder-breakout
+	url = https://github.com/pdp7/rotary-encoder-breakout.git
+	shallow = true
+[submodule "pdp7/oled-bmp280-touch"]
+	path = pdp7/oled-bmp280-touch
+	url = https://github.com/pdp7/oled-bmp280-touch.git
+	shallow = true
+[submodule "pdp7/teensy-weather-badge"]
+	path = pdp7/teensy-weather-badge
+	url = https://github.com/pdp7/teensy-weather-badge.git
+	shallow = true
+[submodule "pdp7/memory-display"]
+	path = pdp7/memory-display
+	url = https://github.com/pdp7/memory-display.git
+	shallow = true
+[submodule "pdp7/TeensyEpaperShield"]
+	path = pdp7/TeensyEpaperShield
+	url = https://github.com/pdp7/TeensyEpaperShield.git
+	shallow = true
+[submodule "pdp7/teensy-wifi-weather-logger"]
+	path = pdp7/teensy-wifi-weather-logger
+	url = https://github.com/pdp7/teensy-wifi-weather-logger.git
+	shallow = true
+[submodule "pdp7/teensy-bare-oled"]
+	path = pdp7/teensy-bare-oled
+	url = https://github.com/pdp7/teensy-bare-oled.git
+	shallow = true
+[submodule "pdp7/mfnybborg"]
+	path = pdp7/mfnybborg
+	url = https://github.com/pdp7/mfnybborg.git
+	shallow = true
+[submodule "pdp7/console-cape"]
+	path = pdp7/console-cape
+	url = https://github.com/pdp7/console-cape.git
+	shallow = true
+[submodule "jareklupinski/epd215-library"]
+	path = jareklupinski/epd215-library
+	url = https://github.com/jareklupinski/epd215-library.git
+	shallow = true
+[submodule "pdp7/kicad-teensy-epaper"]
+	path = pdp7/kicad-teensy-epaper
+	url = https://github.com/pdp7/kicad-teensy-epaper.git
+	shallow = true
+[submodule "pdp7/ohs18addon"]
+	path = pdp7/ohs18addon
+	url = https://github.com/pdp7/ohs18addon.git
+	shallow = true
