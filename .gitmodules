@@ -3102,3 +3102,11 @@
 	path = CircuitCo/WiFly-BoosterPack-RevA1
 	url = https://github.com/CircuitCo/WiFly-BoosterPack-RevA1.git
 	shallow = true
+[submodule "mithro/kicad-mini-pci-express"]
+	path = mithro/kicad-mini-pci-express
+	url = https://github.com/mithro/kicad-mini-pci-express.git
+	shallow = true
+[submodule "mithro/circuit-unittests"]
+	path = mithro/circuit-unittests
+	url = https://github.com/mithro/circuit-unittests.git
+	shallow = true
