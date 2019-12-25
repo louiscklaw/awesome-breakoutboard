@@ -2754,3 +2754,7 @@
 	path = pimoroni/automation-hat
 	url = https://github.com/pimoroni/automation-hat.git
 	shallow = true
+[submodule "Xinyuan-LilyGO/T-solar"]
+	path = Xinyuan-LilyGO/T-solar
+	url = https://github.com/Xinyuan-LilyGO/T-solar.git
+	shallow = true
