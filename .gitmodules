@@ -2750,3 +2750,19 @@
 	path = etimou/arduino-pro-mini-kicad
 	url = https://github.com/etimou/arduino-pro-mini-kicad.git
 	shallow = true
+[submodule "aspro648/Leonardo"]
+	path = aspro648/Leonardo
+	url = https://github.com/aspro648/Leonardo.git
+	shallow = true
+[submodule "aspro648/Arduino"]
+	path = aspro648/Arduino
+	url = https://github.com/aspro648/Arduino.git
+	shallow = true
+[submodule "aspro648/OSTR"]
+	path = aspro648/OSTR
+	url = https://github.com/aspro648/OSTR.git
+	shallow = true
+[submodule "aspro648/Beetje-Bloks"]
+	path = aspro648/Beetje-Bloks
+	url = https://github.com/aspro648/Beetje-Bloks.git
+	shallow = true
