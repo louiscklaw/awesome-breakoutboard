@@ -2830,3 +2830,11 @@
 	path = bigclownlabs/bc-enclosures
 	url = https://github.com/bigclownlabs/bc-enclosures.git
 	shallow = true
+[submodule "PTDreamer/stm32_soldering_iron_controller"]
+	path = PTDreamer/stm32_soldering_iron_controller
+	url = https://github.com/PTDreamer/stm32_soldering_iron_controller.git
+	shallow = true
+[submodule "PTDreamer/heatgun"]
+	path = PTDreamer/heatgun
+	url = https://github.com/PTDreamer/heatgun.git
+	shallow = true
