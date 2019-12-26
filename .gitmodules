@@ -2818,3 +2818,7 @@
 	path = bigclownlabs/bc-hardware
 	url = https://github.com/bigclownlabs/bc-hardware.git
 	shallow = true
+[submodule "foxis/ESPReflow"]
+	path = foxis/ESPReflow
+	url = https://github.com/foxis/ESPReflow.git
+	shallow = true
