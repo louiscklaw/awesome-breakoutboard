@@ -2838,3 +2838,7 @@
 	path = PTDreamer/heatgun
 	url = https://github.com/PTDreamer/heatgun.git
 	shallow = true
+[submodule "debaal/SolderingIron"]
+	path = debaal/SolderingIron
+	url = https://github.com/debaal/SolderingIron.git
+	shallow = true
