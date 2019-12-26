@@ -2814,3 +2814,7 @@
 	path = pdp7/ohs18addon
 	url = https://github.com/pdp7/ohs18addon.git
 	shallow = true
+[submodule "bigclownlabs/bc-hardware"]
+	path = bigclownlabs/bc-hardware
+	url = https://github.com/bigclownlabs/bc-hardware.git
+	shallow = true
