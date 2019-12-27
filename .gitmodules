@@ -2842,3 +2842,7 @@
 	path = debaal/SolderingIron
 	url = https://github.com/debaal/SolderingIron.git
 	shallow = true
+[submodule "SeeedDocument/NPi-i-MX6ULL-Dev-Board"]
+	path = SeeedDocument/NPi-i-MX6ULL-Dev-Board
+	url = https://github.com/SeeedDocument/NPi-i-MX6ULL-Dev-Board.git
+	shallow = true
