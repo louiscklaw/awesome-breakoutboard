@@ -3002,3 +3002,7 @@
 	path = MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide
 	url = https://github.com/MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide.git
 	shallow = true
+[submodule "svenschwermer/mys-dac"]
+	path = svenschwermer/mys-dac
+	url = https://github.com/svenschwermer/mys-dac.git
+	shallow = true
