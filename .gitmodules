@@ -3002,3 +3002,15 @@
 	path = MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide
 	url = https://github.com/MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide.git
 	shallow = true
+[submodule "Share-Board/ShareBoard-iMXRT1050"]
+	path = Share-Board/ShareBoard-iMXRT1050
+	url = https://github.com/Share-Board/ShareBoard-iMXRT1050.git
+	shallow = true
+[submodule "Share-Board/ShareBoardER"]
+	path = Share-Board/ShareBoardER
+	url = https://github.com/Share-Board/ShareBoardER.git
+	shallow = true
+[submodule "martinribelotta/imxrt1020-module"]
+	path = martinribelotta/imxrt1020-module
+	url = https://github.com/martinribelotta/imxrt1020-module.git
+	shallow = true
