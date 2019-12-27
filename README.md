@@ -12,6 +12,6 @@ this is a awesome circuit board breakout list
 [![Build Status](https://travis-ci.org/louiscklaw/awesome-breakoutboard.svg?branch=develop)](https://travis-ci.org/louiscklaw/awesome-breakoutboard)
 
 ### reference
-https://github.com/kitspace/awesome-electronics
-https://www.openhardware.io/
-https://www.mysensors.org/
+* https://github.com/kitspace/awesome-electronics
+* https://www.openhardware.io/
+* https://www.mysensors.org/
