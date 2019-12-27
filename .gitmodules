@@ -2830,3 +2830,187 @@
 	path = bigclownlabs/bc-enclosures
 	url = https://github.com/bigclownlabs/bc-enclosures.git
 	shallow = true
+[submodule "PTDreamer/stm32_soldering_iron_controller"]
+	path = PTDreamer/stm32_soldering_iron_controller
+	url = https://github.com/PTDreamer/stm32_soldering_iron_controller.git
+	shallow = true
+[submodule "PTDreamer/heatgun"]
+	path = PTDreamer/heatgun
+	url = https://github.com/PTDreamer/heatgun.git
+	shallow = true
+[submodule "debaal/SolderingIron"]
+	path = debaal/SolderingIron
+	url = https://github.com/debaal/SolderingIron.git
+	shallow = true
+[submodule "SeeedDocument/NPi-i-MX6ULL-Dev-Board"]
+	path = SeeedDocument/NPi-i-MX6ULL-Dev-Board
+	url = https://github.com/SeeedDocument/NPi-i-MX6ULL-Dev-Board.git
+	shallow = true
+[submodule "SeeedDocument/Seeed_IoTea"]
+	path = SeeedDocument/Seeed_IoTea
+	url = https://github.com/SeeedDocument/Seeed_IoTea.git
+	shallow = true
+[submodule "SeeedDocument/Solar_Charger_Shield_V2.2"]
+	path = SeeedDocument/Solar_Charger_Shield_V2.2
+	url = https://github.com/SeeedDocument/Solar_Charger_Shield_V2.2.git
+	shallow = true
+[submodule "SeeedDocument/SeeeduinoV4"]
+	path = SeeedDocument/SeeeduinoV4
+	url = https://github.com/SeeedDocument/SeeeduinoV4.git
+	shallow = true
+[submodule "SeeedDocument/MIC_HATv1.0_for_raspberrypi"]
+	path = SeeedDocument/MIC_HATv1.0_for_raspberrypi
+	url = https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi.git
+	shallow = true
+[submodule "SeeedDocument/Raspberry_Pi_Relay_Board_v1.0"]
+	path = SeeedDocument/Raspberry_Pi_Relay_Board_v1.0
+	url = https://github.com/SeeedDocument/Raspberry_Pi_Relay_Board_v1.0.git
+	shallow = true
+[submodule "SeeedDocument/Raspberry_Pi_Motor_Driver_Board_v1.0"]
+	path = SeeedDocument/Raspberry_Pi_Motor_Driver_Board_v1.0
+	url = https://github.com/SeeedDocument/Raspberry_Pi_Motor_Driver_Board_v1.0.git
+	shallow = true
+[submodule "SeeedDocument/GPRS_Shield_V3.0"]
+	path = SeeedDocument/GPRS_Shield_V3.0
+	url = https://github.com/SeeedDocument/GPRS_Shield_V3.0.git
+	shallow = true
+[submodule "SeeedDocument/CAN-BUS-Shield-V2.0"]
+	path = SeeedDocument/CAN-BUS-Shield-V2.0
+	url = https://github.com/SeeedDocument/CAN-BUS-Shield-V2.0.git
+	shallow = true
+[submodule "SeeedDocument/Wifi_shield_v1.2"]
+	path = SeeedDocument/Wifi_shield_v1.2
+	url = https://github.com/SeeedDocument/Wifi_shield_v1.2.git
+	shallow = true
+[submodule "SeeedDocument/USB_To_Uart_5V_3V3"]
+	path = SeeedDocument/USB_To_Uart_5V_3V3
+	url = https://github.com/SeeedDocument/USB_To_Uart_5V_3V3.git
+	shallow = true
+[submodule "SeeedDocument/Shield_Bot_V1.2"]
+	path = SeeedDocument/Shield_Bot_V1.2
+	url = https://github.com/SeeedDocument/Shield_Bot_V1.2.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino_GPRS"]
+	path = SeeedDocument/Seeeduino_GPRS
+	url = https://github.com/SeeedDocument/Seeeduino_GPRS.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino_Ethernet"]
+	path = SeeedDocument/Seeeduino_Ethernet
+	url = https://github.com/SeeedDocument/Seeeduino_Ethernet.git
+	shallow = true
+[submodule "SeeedDocument/SD_Card_shield_V4.0"]
+	path = SeeedDocument/SD_Card_shield_V4.0
+	url = https://github.com/SeeedDocument/SD_Card_shield_V4.0.git
+	shallow = true
+[submodule "SeeedDocument/Relay-Shield_V1.0"]
+	path = SeeedDocument/Relay-Shield_V1.0
+	url = https://github.com/SeeedDocument/Relay-Shield_V1.0.git
+	shallow = true
+[submodule "SeeedDocument/Music_Shield_V1.0"]
+	path = SeeedDocument/Music_Shield_V1.0
+	url = https://github.com/SeeedDocument/Music_Shield_V1.0.git
+	shallow = true
+[submodule "SeeedDocument/MT3620_Grove_Breakout"]
+	path = SeeedDocument/MT3620_Grove_Breakout
+	url = https://github.com/SeeedDocument/MT3620_Grove_Breakout.git
+	shallow = true
+[submodule "SeeedDocument/MT3620_Ethernet_Shield_v1.0"]
+	path = SeeedDocument/MT3620_Ethernet_Shield_v1.0
+	url = https://github.com/SeeedDocument/MT3620_Ethernet_Shield_v1.0.git
+	shallow = true
+[submodule "SeeedDocument/Ethernet_Shield_V2.0"]
+	path = SeeedDocument/Ethernet_Shield_V2.0
+	url = https://github.com/SeeedDocument/Ethernet_Shield_V2.0.git
+	shallow = true
+[submodule "SeeedDocument/GPRS-Shield_V2.0"]
+	path = SeeedDocument/GPRS-Shield_V2.0
+	url = https://github.com/SeeedDocument/GPRS-Shield_V2.0.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino-Femto"]
+	path = SeeedDocument/Seeeduino-Femto
+	url = https://github.com/SeeedDocument/Seeeduino-Femto.git
+	shallow = true
+[submodule "SeeedDocument/Grove-6-Axis_AccelerometerAndGyroscope"]
+	path = SeeedDocument/Grove-6-Axis_AccelerometerAndGyroscope
+	url = https://github.com/SeeedDocument/Grove-6-Axis_AccelerometerAndGyroscope.git
+	shallow = true
+[submodule "SeeedDocument/seeeduino_LoraWan"]
+	path = SeeedDocument/seeeduino_LoraWan
+	url = https://github.com/SeeedDocument/seeeduino_LoraWan.git
+	shallow = true
+[submodule "SeeedDocument/LoRa-LoRaWAN-Gateway-for-Raspberry-Pi-3"]
+	path = SeeedDocument/LoRa-LoRaWAN-Gateway-for-Raspberry-Pi-3
+	url = https://github.com/SeeedDocument/LoRa-LoRaWAN-Gateway-for-Raspberry-Pi-3.git
+	shallow = true
+[submodule "SeeedDocument/Raspberry-Pi-Zero-W"]
+	path = SeeedDocument/Raspberry-Pi-Zero-W
+	url = https://github.com/SeeedDocument/Raspberry-Pi-Zero-W.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino-Nano"]
+	path = SeeedDocument/Seeeduino-Nano
+	url = https://github.com/SeeedDocument/Seeeduino-Nano.git
+	shallow = true
+[submodule "SeeedDocument/W600_Module"]
+	path = SeeedDocument/W600_Module
+	url = https://github.com/SeeedDocument/W600_Module.git
+	shallow = true
+[submodule "SeeedDocument/Grove_Gas_Sensor_O2"]
+	path = SeeedDocument/Grove_Gas_Sensor_O2
+	url = https://github.com/SeeedDocument/Grove_Gas_Sensor_O2.git
+	shallow = true
+[submodule "SeeedDocument/Grove-RS232"]
+	path = SeeedDocument/Grove-RS232
+	url = https://github.com/SeeedDocument/Grove-RS232.git
+	shallow = true
+[submodule "SeeedDocument/RS-485_Shield_for_Raspberry_Pi"]
+	path = SeeedDocument/RS-485_Shield_for_Raspberry_Pi
+	url = https://github.com/SeeedDocument/RS-485_Shield_for_Raspberry_Pi.git
+	shallow = true
+[submodule "SeeedDocument/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030"]
+	path = SeeedDocument/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030
+	url = https://github.com/SeeedDocument/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030.git
+	shallow = true
+[submodule "SeeedDocument/Grove-Solid_State_Relay_V2"]
+	path = SeeedDocument/Grove-Solid_State_Relay_V2
+	url = https://github.com/SeeedDocument/Grove-Solid_State_Relay_V2.git
+	shallow = true
+[submodule "SeeedDocument/Grove-8-Channel_Solid_State_Relay"]
+	path = SeeedDocument/Grove-8-Channel_Solid_State_Relay
+	url = https://github.com/SeeedDocument/Grove-8-Channel_Solid_State_Relay.git
+	shallow = true
+[submodule "SeeedDocument/Grove-2-Channel_Solid_State_Relay"]
+	path = SeeedDocument/Grove-2-Channel_Solid_State_Relay
+	url = https://github.com/SeeedDocument/Grove-2-Channel_Solid_State_Relay.git
+	shallow = true
+[submodule "SeeedDocument/Grove-4-Channel_Solid_State_Relay"]
+	path = SeeedDocument/Grove-4-Channel_Solid_State_Relay
+	url = https://github.com/SeeedDocument/Grove-4-Channel_Solid_State_Relay.git
+	shallow = true
+[submodule "SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808"]
+	path = SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808
+	url = https://github.com/SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino_V2.2_Atmega-168P"]
+	path = SeeedDocument/Seeeduino_V2.2_Atmega-168P
+	url = https://github.com/SeeedDocument/Seeeduino_V2.2_Atmega-168P.git
+	shallow = true
+[submodule "SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1"]
+	path = SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1
+	url = https://github.com/SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1.git
+	shallow = true
+[submodule "MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide"]
+	path = MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide
+	url = https://github.com/MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide.git
+	shallow = true
+[submodule "Share-Board/ShareBoard-iMXRT1050"]
+	path = Share-Board/ShareBoard-iMXRT1050
+	url = https://github.com/Share-Board/ShareBoard-iMXRT1050.git
+	shallow = true
+[submodule "Share-Board/ShareBoardER"]
+	path = Share-Board/ShareBoardER
+	url = https://github.com/Share-Board/ShareBoardER.git
+	shallow = true
+[submodule "martinribelotta/imxrt1020-module"]
+	path = martinribelotta/imxrt1020-module
+	url = https://github.com/martinribelotta/imxrt1020-module.git
+	shallow = true
