@@ -2986,3 +2986,19 @@
 	path = SeeedDocument/Grove-4-Channel_Solid_State_Relay
 	url = https://github.com/SeeedDocument/Grove-4-Channel_Solid_State_Relay.git
 	shallow = true
+[submodule "SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808"]
+	path = SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808
+	url = https://github.com/SeeedDocument/Mini-GSM-GPRS-GPS-Breakout-SIM808.git
+	shallow = true
+[submodule "SeeedDocument/Seeeduino_V2.2_Atmega-168P"]
+	path = SeeedDocument/Seeeduino_V2.2_Atmega-168P
+	url = https://github.com/SeeedDocument/Seeeduino_V2.2_Atmega-168P.git
+	shallow = true
+[submodule "SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1"]
+	path = SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1
+	url = https://github.com/SeeedDocument/5V-3.3V_Breadboard_Power_Supply_v1.1.git
+	shallow = true
+[submodule "MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide"]
+	path = MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide
+	url = https://github.com/MYiR-Dev/MYD-Y6ULX-LinuxDevelopmentGuide.git
+	shallow = true
