@@ -3022,3 +3022,7 @@
 	path = betrusted-io/betrusted-hardware-xt
 	url = https://github.com/betrusted-io/betrusted-hardware-xt.git
 	shallow = true
+[submodule "pixhawk/Hardware"]
+	path = pixhawk/Hardware
+	url = https://github.com/pixhawk/Hardware.git
+	shallow = true
