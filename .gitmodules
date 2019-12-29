@@ -3018,3 +3018,7 @@
 	path = betrusted-io/betrusted-hardware
 	url = https://github.com/betrusted-io/betrusted-hardware.git
 	shallow = true
+[submodule "betrusted-io/betrusted-hardware-xt"]
+	path = betrusted-io/betrusted-hardware-xt
+	url = https://github.com/betrusted-io/betrusted-hardware-xt.git
+	shallow = true
