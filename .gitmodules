@@ -3014,3 +3014,7 @@
 	path = martinribelotta/imxrt1020-module
 	url = https://github.com/martinribelotta/imxrt1020-module.git
 	shallow = true
+[submodule "betrusted-io/betrusted-hardware"]
+	path = betrusted-io/betrusted-hardware
+	url = https://github.com/betrusted-io/betrusted-hardware.git
+	shallow = true
