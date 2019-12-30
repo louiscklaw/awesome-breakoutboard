@@ -3026,3 +3026,155 @@
 	path = pixhawk/Hardware
 	url = https://github.com/pixhawk/Hardware.git
 	shallow = true
+[submodule "watterott/RPi-Display"]
+	path = watterott/RPi-Display
+	url = https://github.com/watterott/RPi-Display.git
+	shallow = true
+[submodule "watterott/SilentStepStick"]
+	path = watterott/SilentStepStick
+	url = https://github.com/watterott/SilentStepStick.git
+	shallow = true
+[submodule "watterott/CANdiy-Shield"]
+	path = watterott/CANdiy-Shield
+	url = https://github.com/watterott/CANdiy-Shield.git
+	shallow = true
+[submodule "watterott/BME280-Breakout"]
+	path = watterott/BME280-Breakout
+	url = https://github.com/watterott/BME280-Breakout.git
+	shallow = true
+[submodule "watterott/TSL25911-Breakout"]
+	path = watterott/TSL25911-Breakout
+	url = https://github.com/watterott/TSL25911-Breakout.git
+	shallow = true
+[submodule "watterott/TSL45315-Breakout"]
+	path = watterott/TSL45315-Breakout
+	url = https://github.com/watterott/TSL45315-Breakout.git
+	shallow = true
+[submodule "watterott/LTR329ALS01-Breakout"]
+	path = watterott/LTR329ALS01-Breakout
+	url = https://github.com/watterott/LTR329ALS01-Breakout.git
+	shallow = true
+[submodule "watterott/Wattuino"]
+	path = watterott/Wattuino
+	url = https://github.com/watterott/Wattuino.git
+	shallow = true
+[submodule "watterott/TOS100-Shield"]
+	path = watterott/TOS100-Shield
+	url = https://github.com/watterott/TOS100-Shield.git
+	shallow = true
+[submodule "watterott/WS2812-Breakout"]
+	path = watterott/WS2812-Breakout
+	url = https://github.com/watterott/WS2812-Breakout.git
+	shallow = true
+[submodule "watterott/WS2812-Ring"]
+	path = watterott/WS2812-Ring
+	url = https://github.com/watterott/WS2812-Ring.git
+	shallow = true
+[submodule "watterott/XBee-USB-Adapter"]
+	path = watterott/XBee-USB-Adapter
+	url = https://github.com/watterott/XBee-USB-Adapter.git
+	shallow = true
+[submodule "watterott/VEML6070-Breakout"]
+	path = watterott/VEML6070-Breakout
+	url = https://github.com/watterott/VEML6070-Breakout.git
+	shallow = true
+[submodule "watterott/USB-Isolator"]
+	path = watterott/USB-Isolator
+	url = https://github.com/watterott/USB-Isolator.git
+	shallow = true
+[submodule "watterott/Proto-Shield"]
+	path = watterott/Proto-Shield
+	url = https://github.com/watterott/Proto-Shield.git
+	shallow = true
+[submodule "watterott/BME680-Breakout"]
+	path = watterott/BME680-Breakout
+	url = https://github.com/watterott/BME680-Breakout.git
+	shallow = true
+[submodule "watterott/BMP280-Breakout"]
+	path = watterott/BMP280-Breakout
+	url = https://github.com/watterott/BMP280-Breakout.git
+	shallow = true
+[submodule "watterott/Breadboard-Power-Supply"]
+	path = watterott/Breadboard-Power-Supply
+	url = https://github.com/watterott/Breadboard-Power-Supply.git
+	shallow = true
+[submodule "watterott/CP2102N-Breakout"]
+	path = watterott/CP2102N-Breakout
+	url = https://github.com/watterott/CP2102N-Breakout.git
+	shallow = true
+[submodule "watterott/ESP-WROOM-Breakout"]
+	path = watterott/ESP-WROOM-Breakout
+	url = https://github.com/watterott/ESP-WROOM-Breakout.git
+	shallow = true
+[submodule "watterott/FabScan-Shield"]
+	path = watterott/FabScan-Shield
+	url = https://github.com/watterott/FabScan-Shield.git
+	shallow = true
+[submodule "watterott/GLCD-Shield"]
+	path = watterott/GLCD-Shield
+	url = https://github.com/watterott/GLCD-Shield.git
+	shallow = true
+[submodule "watterott/HDC100X-Breakout"]
+	path = watterott/HDC100X-Breakout
+	url = https://github.com/watterott/HDC100X-Breakout.git
+	shallow = true
+[submodule "watterott/HDC1080-Breakout"]
+	path = watterott/HDC1080-Breakout
+	url = https://github.com/watterott/HDC1080-Breakout.git
+	shallow = true
+[submodule "watterott/Mic-Breakout"]
+	path = watterott/Mic-Breakout
+	url = https://github.com/watterott/Mic-Breakout.git
+	shallow = true
+[submodule "watterott/Motor-Shield"]
+	path = watterott/Motor-Shield
+	url = https://github.com/watterott/Motor-Shield.git
+	shallow = true
+[submodule "watterott/mSD-Breakout"]
+	path = watterott/mSD-Breakout
+	url = https://github.com/watterott/mSD-Breakout.git
+	shallow = true
+[submodule "watterott/mSD-Shield"]
+	path = watterott/mSD-Shield
+	url = https://github.com/watterott/mSD-Shield.git
+	shallow = true
+[submodule "watterott/RedFly-Shield"]
+	path = watterott/RedFly-Shield
+	url = https://github.com/watterott/RedFly-Shield.git
+	shallow = true
+[submodule "watterott/Robot-Controller"]
+	path = watterott/Robot-Controller
+	url = https://github.com/watterott/Robot-Controller.git
+	shallow = true
+[submodule "watterott/RPi-Camera-RingLicht"]
+	path = watterott/RPi-Camera-RingLicht
+	url = https://github.com/watterott/RPi-Camera-RingLicht.git
+	shallow = true
+[submodule "watterott/RPi-DPI-HAT"]
+	path = watterott/RPi-DPI-HAT
+	url = https://github.com/watterott/RPi-DPI-HAT.git
+	shallow = true
+[submodule "watterott/RPi-FabScan-HAT"]
+	path = watterott/RPi-FabScan-HAT
+	url = https://github.com/watterott/RPi-FabScan-HAT.git
+	shallow = true
+[submodule "watterott/RPi-Proto-HAT"]
+	path = watterott/RPi-Proto-HAT
+	url = https://github.com/watterott/RPi-Proto-HAT.git
+	shallow = true
+[submodule "watterott/RPi-ShieldBridge"]
+	path = watterott/RPi-ShieldBridge
+	url = https://github.com/watterott/RPi-ShieldBridge.git
+	shallow = true
+[submodule "watterott/RPi-UNO-HAT"]
+	path = watterott/RPi-UNO-HAT
+	url = https://github.com/watterott/RPi-UNO-HAT.git
+	shallow = true
+[submodule "watterott/RPi-WS2812-HAT"]
+	path = watterott/RPi-WS2812-HAT
+	url = https://github.com/watterott/RPi-WS2812-HAT.git
+	shallow = true
+[submodule "watterott/senseBox-Shield"]
+	path = watterott/senseBox-Shield
+	url = https://github.com/watterott/senseBox-Shield.git
+	shallow = true
