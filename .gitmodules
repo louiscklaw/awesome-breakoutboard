@@ -3178,3 +3178,19 @@
 	path = watterott/senseBox-Shield
 	url = https://github.com/watterott/senseBox-Shield.git
 	shallow = true
+[submodule "david-pzh/A-Eye"]
+	path = david-pzh/A-Eye
+	url = https://github.com/david-pzh/A-Eye.git
+	shallow = true
+[submodule "david-pzh/X-Bot"]
+	path = david-pzh/X-Bot
+	url = https://github.com/david-pzh/X-Bot.git
+	shallow = true
+[submodule "david-pzh/DoubiBot"]
+	path = david-pzh/DoubiBot
+	url = https://github.com/david-pzh/DoubiBot.git
+	shallow = true
+[submodule "david-pzh/Roboard-Pro"]
+	path = david-pzh/Roboard-Pro
+	url = https://github.com/david-pzh/Roboard-Pro.git
+	shallow = true
