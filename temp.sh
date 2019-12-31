@@ -6,3 +6,5 @@ git submodule add --depth=1 https://github.com/LilyGO/TTGO-T7-Demo.git LilyGO/TT
 python3 _utils/shallow_submodule.py
 
 git add .gitmodules
+
+git status
