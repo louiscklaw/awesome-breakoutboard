@@ -3026,3 +3026,23 @@
 	path = pixhawk/Hardware
 	url = https://github.com/pixhawk/Hardware.git
 	shallow = true
+[submodule "Xinyuan-LilyGO/T-Display_GD32"]
+	path = Xinyuan-LilyGO/T-Display_GD32
+	url = https://github.com/Xinyuan-LilyGO/T-Display_GD32.git
+	shallow = true
+[submodule "Xinyuan-LilyGO/TTGO-T4-T10-TestCode"]
+	path = Xinyuan-LilyGO/TTGO-T4-T10-TestCode
+	url = https://github.com/Xinyuan-LilyGO/TTGO-T4-T10-TestCode.git
+	shallow = true
+[submodule "lewisxhe/TTGO_Vxx"]
+	path = lewisxhe/TTGO_Vxx
+	url = https://github.com/lewisxhe/TTGO_Vxx.git
+	shallow = true
+[submodule "Xinyuan-LilyGO/T5-Ink-Screen-Series"]
+	path = Xinyuan-LilyGO/T5-Ink-Screen-Series
+	url = https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series.git
+	shallow = true
+[submodule "LilyGO/TTGO-T7-Demo"]
+	path = LilyGO/TTGO-T7-Demo
+	url = https://github.com/LilyGO/TTGO-T7-Demo.git
+	shallow = true
