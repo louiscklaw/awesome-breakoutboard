@@ -3198,3 +3198,7 @@
 	path = bbcmicrobit/hardware
 	url = https://github.com/bbcmicrobit/hardware.git
 	shallow = true
+[submodule "fossasia/pslab-hardware"]
+	path = fossasia/pslab-hardware
+	url = https://github.com/fossasia/pslab-hardware.git
+	shallow = true
