@@ -3194,3 +3194,7 @@
 	path = david-pzh/Roboard-Pro
 	url = https://github.com/david-pzh/Roboard-Pro.git
 	shallow = true
+[submodule "bbcmicrobit/hardware"]
+	path = bbcmicrobit/hardware
+	url = https://github.com/bbcmicrobit/hardware.git
+	shallow = true
