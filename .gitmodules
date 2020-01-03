@@ -3206,3 +3206,27 @@
 	path = makerbase-mks/MKS-TB6600
 	url = https://github.com/makerbase-mks/MKS-TB6600.git
 	shallow = true
+[submodule "makerbase-mks/MKS-TMC2130"]
+	path = makerbase-mks/MKS-TMC2130
+	url = https://github.com/makerbase-mks/MKS-TMC2130.git
+	shallow = true
+[submodule "makerbase-mks/MKS-TMC2208"]
+	path = makerbase-mks/MKS-TMC2208
+	url = https://github.com/makerbase-mks/MKS-TMC2208.git
+	shallow = true
+[submodule "makerbase-mks/MKS-TMC2209"]
+	path = makerbase-mks/MKS-TMC2209
+	url = https://github.com/makerbase-mks/MKS-TMC2209.git
+	shallow = true
+[submodule "makerbase-mks/MKS-TB67S109"]
+	path = makerbase-mks/MKS-TB67S109
+	url = https://github.com/makerbase-mks/MKS-TB67S109.git
+	shallow = true
+[submodule "makerbase-mks/MKS-TB67S109-OC"]
+	path = makerbase-mks/MKS-TB67S109-OC
+	url = https://github.com/makerbase-mks/MKS-TB67S109-OC.git
+	shallow = true
+[submodule "makerbase-mks/MKS-TMC2160-OC"]
+	path = makerbase-mks/MKS-TMC2160-OC
+	url = https://github.com/makerbase-mks/MKS-TMC2160-OC.git
+	shallow = true
