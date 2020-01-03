@@ -3230,3 +3230,7 @@
 	path = makerbase-mks/MKS-TMC2160-OC
 	url = https://github.com/makerbase-mks/MKS-TMC2160-OC.git
 	shallow = true
+[submodule "ccadic/serpenshield"]
+	path = ccadic/serpenshield
+	url = https://github.com/ccadic/serpenshield.git
+	shallow = true
