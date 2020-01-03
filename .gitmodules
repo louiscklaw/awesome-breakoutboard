@@ -3202,3 +3202,7 @@
 	path = fossasia/pslab-hardware
 	url = https://github.com/fossasia/pslab-hardware.git
 	shallow = true
+[submodule "makerbase-mks/MKS-TB6600"]
+	path = makerbase-mks/MKS-TB6600
+	url = https://github.com/makerbase-mks/MKS-TB6600.git
+	shallow = true
