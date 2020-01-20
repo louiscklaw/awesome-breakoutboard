@@ -3234,3 +3234,6 @@
 	path = ccadic/serpenshield
 	url = https://github.com/ccadic/serpenshield.git
 	shallow = true
+[submodule "maholli/XTB"]
+	path = maholli/XTB
+	url = https://github.com/maholli/XTB.git
