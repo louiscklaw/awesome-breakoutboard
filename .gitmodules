@@ -730,10 +730,10 @@
 	path = prusa3d/SL-PS-PCB
 	url = https://github.com/prusa3d/SL-PS-PCB.git
 	shallow = true
-[submodule "prusa3d/SL-UVcoin-sensor-PCB"]
-	path = prusa3d/SL-UVcoin-sensor-PCB
-	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
-	shallow = true
+# [submodule "prusa3d/SL-UVcoin-sensor-PCB"]
+# 	path = prusa3d/SL-UVcoin-sensor-PCB
+# 	url = https://github.com/prusa3d/SL-UVcoin-sensor-PCB.git
+# 	shallow = true
 [submodule "prusa3d/SL-CONTROLLER-PCB"]
 	path = prusa3d/SL-CONTROLLER-PCB
 	url = https://github.com/prusa3d/SL-CONTROLLER-PCB.git
