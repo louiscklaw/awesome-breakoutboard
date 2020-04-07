@@ -1,0 +1,33 @@
+{
+  "name": "awesome-breakoutboard",
+  "version": "1.0.0",
+  "description": "### what is this this is a awesome circuit board breakout list",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "husky": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/awesome-breakoutboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/awesome-breakoutboard/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/awesome-breakoutboard#readme",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-push": "./scripts/pre-push.sh"
+    }
+  }
+}
