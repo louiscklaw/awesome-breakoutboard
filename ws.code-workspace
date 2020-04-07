@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "/home/logic/_workspace/workspace_common"
+		},
+		{
+			"path": "/home/logic/_workspace/travis-playlist"
 		}
 	],
 	"settings": {}
