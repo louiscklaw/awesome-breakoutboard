@@ -6,7 +6,6 @@ jobs:
     - stage: Build
       script:
         - hostname
-  include:
     - stage: Merge
       name: "Merge to main playlist"
       script:
