@@ -1,21 +1,28 @@
 
 dist: bionic
 
-script:
-  - hostname
+jobs:
+  include:
+    - stage: Build
+      script:
+        - hostname
+  include:
+    - stage: Merge
+      name: "Merge to main playlist"
+      script:
+        - echo "dummy job for merging"
 
 after_success:
-  - id
-  - sudo apt update
-  - sudo apt install -y python3 python3-pip python3-dev python3-wheel python3-setuptools
-  - pip3 install --user pipenv
-  - cd _utils
-  - pipenv sync
-  - pipenv run python3 merge.py
+  - echo $TRAVIS_BUILD_STAGE_NAME
+  - if [ "$TRAVIS_BUILD_STAGE_NAME" = "Merge" ]; then ./.travis/merge_if_success.sh |tee merge.log; fi
 
-notifications:
+after_failure:
+  - cat merge.log
+
+  notifications:
   slack:
     secure: kzqpqO+NWWfbs81U/T4suBDcX76AUD/q/4YEQvo5cH75Z8OhQUmX/t/P5Ilv7AnHpYx8vSqnr1JjQcI01+1uOUdzSt6hLG+NdVNAPlZuE/XEqixFkq+s1d87O1Qj05SHU9o/6rPkQlWnUJleAG2PO5ytavR0UFxGd1umwg91NqR3Oi8FqCicA08mW3RhLTMkyZiFeZiEh5WpvRAG090XmQcUn7RG3s9mdjC/QghnINByDfMMLKUS5TmTupX6aOMUFj5SnSsNYt3LlRl+177HQ3Pzz88tyomzbC8gfhQjgcRXCfGlUEKksVreC9OmpchD4bOiS1GRothag5bLENfkVR4WF4fhS3AbX4tp+guuBhNKRd/EjRAoxPz6HybOa1cuWAk70jzzg91Ma5SJah96Xik/40TEjB0siq49PK6q0ceDo4p+W3Cwbu8OeSt0SeDyddy/oGTNiyD7GeULkxEr12dAu1fBqH9Lgh71TCVGeE+9+G6NkLVr/5Q0a8eHIXuYDr6ZFFDOxzCAkbOXWKh6HHF3sqCWLWKRxtiuvj6pD1KlQe/VZ8ZW2JKq/xyqBP0IRcKYeuKgCNpCjGKeRSUvhYcRk4A+j9RE2DS6w/Wfq7xC/JYmQ6dt7WY8Yz58CqMiBSJZnPLAeBcXxBfqypJ0TKnPLk4N0c9ZYe67lsjJigs=
+
 env:
   global:
     secure: aDIb46b+prfjOj668QC8TEJn8rH8WWng52pkGLjrLC3tjbgGR1CZFffW+AcGlrZCQauD++WM8qxu1NxYBVIX6digQSrM942ils06jrwYs7+dZNG8rWeH1fS9eX8/uAaDfCCxLZ24wGC+X6rRKd1G3yCQTYJ/LxMNNwlJ3UFV3P6uEJ7XIJfsUzl+uH18kaK8hRiMxQPP87fRokLj15uwSEueQqdFGtVSxZibqY55Kpf9LOSAjozKpebyx8ei8N3GIiDcHulpGphTJeZ4z3VtG4j7T3xe2yVrb9bFozsziVSompZjHzbmIbo4KV2dfjkOFg/Dg/4nJn25jpM0Jlz3PsUdRXrG8UFlu9cFPJP7ervthFA71DcWoUBO8UUpK7vDjpaEAaPGRcKPHb0j0XWhpj2coqo5MQ3OmZrLZr+60Brf+C9xzSm+5Rv322KCSugGsnEQPlE4dFlP6aga8RUparV4SMwch1HWvCsEuEuXbIprqn0dqyDuLiGaFKQO8dkjcZU65flUw23d+75m4/ESd6KovQHzMxYjCTpwgRCSMQY/XqOwHyaoHBJhffyqLiV4xLW/liDhWvlVP+sjfzK57ithRitsb7U0myY/kIaLHk2micRkmdJaTk5QLC3ZEezjR74Rcd50laXXF9P4a1HUOYjG/k7shRzDQnbazcUgwxk=
