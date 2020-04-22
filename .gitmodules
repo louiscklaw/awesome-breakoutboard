@@ -2650,10 +2650,6 @@
 	path = ccadic/ATSAMD51G18A_VQFN48
 	url = https://github.com/ccadic/ATSAMD51G18A_VQFN48.git
 	shallow = true
-[submodule "ccadic/BlaspBerry"]
-	path = ccadic/BlaspBerry
-	url = https://github.com/ccadic/BlaspBerry.git
-	shallow = true
 [submodule "ccadic/SnapOnAirDUO"]
 	path = ccadic/SnapOnAirDUO
 	url = https://github.com/ccadic/SnapOnAirDUO.git
