@@ -3237,3 +3237,6 @@
 [submodule "maholli/XTB"]
 	path = maholli/XTB
 	url = https://github.com/maholli/XTB.git
+[submodule "voron/Voron-Hardware"]
+	path = voron/Voron-Hardware
+	url = https://github.com/VoronDesign/Voron-Hardware.git
