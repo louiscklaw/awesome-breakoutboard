@@ -486,6 +486,8 @@
 # git submodule add --depth=1 https://github.com/zhangxin0518/Motor-driver-high-power
 # git submodule add --depth=1 https://github.com/zhangxin0518/Motor-driver-low-power
 # git submodule add --depth=1 https://github.com/zwxwill/Ros
-git submodule add --depth=1 https://github.com/ARoozitalab/STM32F4-Eval-board ARoozitalab/STM32F4-Eval-board
-git submodule add --depth=1 https://github.com/witek117/ESP32DevBoard witek117/ESP32DevBoard
-git submodule add --depth=1 https://github.com/witek117/NXPCup2019 witek117/NXPCup2019
+# git submodule add --depth=1 https://github.com/ARoozitalab/STM32F4-Eval-board ARoozitalab/STM32F4-Eval-board
+# git submodule add --depth=1 https://github.com/witek117/ESP32DevBoard witek117/ESP32DevBoard
+# git submodule add --depth=1 https://github.com/witek117/NXPCup2019 witek117/NXPCup2019
+
+git submodule add --depth=1 https://github.com/Jan--Henrik/OtterPill Jan--Henrik/OtterPill

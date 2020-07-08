@@ -3026,3 +3026,6 @@
 	path = pixhawk/Hardware
 	url = https://github.com/pixhawk/Hardware.git
 	shallow = true
+[submodule "Jan--Henrik/OtterPill"]
+	path = Jan--Henrik/OtterPill
+	url = https://github.com/Jan--Henrik/OtterPill
